@@ -1,0 +1,4597 @@
+"split","Sample","casecontrol","y_crc"
+"train",1002051,"Control",0
+"train",1002355,"Control",0
+"train",1002620,"Control",0
+"train",1004014,"Control",0
+"train",1004148,"Control",0
+"train",1004205,"Control",0
+"train",1004618,"Control",0
+"train",1004847,"Control",0
+"train",1005029,"Control",0
+"train",1006126,"Control",0
+"train",1006376,"Control",0
+"train",1006578,"Control",0
+"train",1006623,"Control",0
+"train",1006990,"Control",0
+"train",1008134,"Control",0
+"train",1008666,"Control",0
+"train",1009166,"Colon Cancer",1
+"train",1009287,"Control",0
+"train",1009323,"Control",0
+"train",1009846,"Control",0
+"train",1010320,"Control",0
+"train",1011032,"Control",0
+"train",1011120,"Control",0
+"train",1011353,"Control",0
+"train",1012002,"Control",0
+"train",1012169,"Control",0
+"train",1012963,"Control",0
+"train",1013024,"Control",0
+"train",1013036,"Control",0
+"train",1013165,"Colon Cancer",1
+"train",1013447,"Colon Cancer",1
+"train",1013518,"Colon Cancer",1
+"train",1013687,"Control",0
+"train",1013691,"Control",0
+"train",1013915,"Control",0
+"train",1014425,"Control",0
+"train",1015064,"Control",0
+"train",1015313,"Control",0
+"train",1016802,"Control",0
+"train",1016871,"Control",0
+"train",1016917,"Control",0
+"train",1017025,"Control",0
+"train",1017129,"Colon Cancer",1
+"train",1017182,"Colon Cancer",1
+"train",1017462,"Control",0
+"train",1017800,"Control",0
+"train",1019385,"Colon Cancer",1
+"train",1019429,"Control",0
+"train",1019681,"Control",0
+"train",1020176,"Control",0
+"train",1020481,"Control",0
+"train",1020879,"Colon Cancer",1
+"train",1021563,"Control",0
+"train",1021788,"Control",0
+"train",1021829,"Control",0
+"train",1021928,"Control",0
+"train",1022105,"Control",0
+"train",1022429,"Colon Cancer",1
+"train",1023214,"Colon Cancer",1
+"train",1023240,"Control",0
+"train",1024431,"Control",0
+"train",1024703,"Control",0
+"train",1024874,"Control",0
+"train",1025329,"Colon Cancer",1
+"train",1025366,"Control",0
+"train",1027251,"Control",0
+"train",1027847,"Colon Cancer",1
+"train",1027871,"Control",0
+"train",1029270,"Control",0
+"train",1029467,"Control",0
+"train",1030673,"Control",0
+"train",1032209,"Control",0
+"train",1032252,"Control",0
+"train",1032276,"Control",0
+"train",1032412,"Control",0
+"train",1032689,"Control",0
+"train",1033285,"Control",0
+"train",1034404,"Control",0
+"train",1034683,"Control",0
+"train",1034893,"Control",0
+"train",1035140,"Control",0
+"train",1035550,"Control",0
+"train",1035852,"Control",0
+"train",1036017,"Control",0
+"train",1036318,"Control",0
+"train",1036559,"Control",0
+"train",1036844,"Colon Cancer",1
+"train",1037176,"Control",0
+"train",1038235,"Control",0
+"train",1038758,"Control",0
+"train",1038863,"Colon Cancer",1
+"train",1040120,"Control",0
+"train",1040276,"Colon Cancer",1
+"train",1040855,"Colon Cancer",1
+"train",1041379,"Control",0
+"train",1041861,"Control",0
+"train",1042534,"Control",0
+"train",1042850,"Control",0
+"train",1042999,"Colon Cancer",1
+"train",1043656,"Control",0
+"train",1043745,"Control",0
+"train",1043826,"Control",0
+"train",1044376,"Control",0
+"train",1044480,"Control",0
+"train",1045346,"Control",0
+"train",1045442,"Control",0
+"train",1048136,"Control",0
+"train",1049028,"Control",0
+"train",1049927,"Control",0
+"train",1050198,"Control",0
+"train",1050844,"Control",0
+"train",1051492,"Control",0
+"train",1051951,"Control",0
+"train",1052233,"Control",0
+"train",1052268,"Colon Cancer",1
+"train",1052857,"Colon Cancer",1
+"train",1053090,"Colon Cancer",1
+"train",1053194,"Control",0
+"train",1053340,"Control",0
+"train",1053861,"Control",0
+"train",1053971,"Colon Cancer",1
+"train",1054336,"Colon Cancer",1
+"train",1055526,"Control",0
+"train",1055871,"Control",0
+"train",1056163,"Control",0
+"train",1057370,"Control",0
+"train",1057790,"Colon Cancer",1
+"train",1057985,"Control",0
+"train",1058270,"Colon Cancer",1
+"train",1058455,"Control",0
+"train",1059067,"Control",0
+"train",1059471,"Control",0
+"train",1059504,"Control",0
+"train",1059809,"Control",0
+"train",1059828,"Control",0
+"train",1060275,"Control",0
+"train",1060598,"Control",0
+"train",1060968,"Control",0
+"train",1060995,"Control",0
+"train",1061351,"Colon Cancer",1
+"train",1061539,"Control",0
+"train",1061793,"Control",0
+"train",1061908,"Control",0
+"train",1062325,"Control",0
+"train",1062900,"Control",0
+"train",1063775,"Control",0
+"train",1064771,"Colon Cancer",1
+"train",1064955,"Control",0
+"train",1066712,"Colon Cancer",1
+"train",1068829,"Control",0
+"train",1069449,"Control",0
+"train",1071325,"Control",0
+"train",1071390,"Control",0
+"train",1072242,"Control",0
+"train",1072687,"Colon Cancer",1
+"train",1075034,"Control",0
+"train",1075951,"Control",0
+"train",1076353,"Control",0
+"train",1076962,"Control",0
+"train",1077163,"Control",0
+"train",1077913,"Control",0
+"train",1077936,"Control",0
+"train",1079096,"Control",0
+"train",1079160,"Control",0
+"train",1079425,"Colon Cancer",1
+"train",1079524,"Control",0
+"train",1081077,"Control",0
+"train",1081134,"Control",0
+"train",1081284,"Colon Cancer",1
+"train",1081300,"Control",0
+"train",1081926,"Control",0
+"train",1082246,"Control",0
+"train",1082769,"Control",0
+"train",1082838,"Control",0
+"train",1083434,"Control",0
+"train",1083946,"Control",0
+"train",1084147,"Control",0
+"train",1085551,"Colon Cancer",1
+"train",1086722,"Control",0
+"train",1086937,"Control",0
+"train",1087616,"Control",0
+"train",1088186,"Control",0
+"train",1089142,"Control",0
+"train",1089698,"Control",0
+"train",1089913,"Control",0
+"train",1090023,"Control",0
+"train",1090227,"Control",0
+"train",1091053,"Control",0
+"train",1092166,"Control",0
+"train",1092314,"Control",0
+"train",1092527,"Colon Cancer",1
+"train",1093712,"Colon Cancer",1
+"train",1093903,"Control",0
+"train",1094585,"Control",0
+"train",1095343,"Control",0
+"train",1095690,"Control",0
+"train",1096185,"Control",0
+"train",1096758,"Control",0
+"train",1097215,"Control",0
+"train",1097270,"Colon Cancer",1
+"train",1099668,"Control",0
+"train",1099792,"Control",0
+"train",1100144,"Control",0
+"train",1100187,"Control",0
+"train",1102515,"Control",0
+"train",1103092,"Control",0
+"train",1103363,"Control",0
+"train",1103591,"Colon Cancer",1
+"train",1104276,"Control",0
+"train",1105365,"Control",0
+"train",1105404,"Control",0
+"train",1106165,"Control",0
+"train",1109862,"Control",0
+"train",1110410,"Control",0
+"train",1110432,"Control",0
+"train",1110590,"Control",0
+"train",1110788,"Control",0
+"train",1110866,"Colon Cancer",1
+"train",1110934,"Control",0
+"train",1110952,"Control",0
+"train",1111452,"Control",0
+"train",1111708,"Control",0
+"train",1112013,"Control",0
+"train",1112219,"Control",0
+"train",1113309,"Control",0
+"train",1113328,"Control",0
+"train",1113692,"Control",0
+"train",1113919,"Control",0
+"train",1113990,"Control",0
+"train",1114339,"Control",0
+"train",1114992,"Control",0
+"train",1115838,"Control",0
+"train",1116950,"Control",0
+"train",1117257,"Control",0
+"train",1117597,"Colon Cancer",1
+"train",1119050,"Colon Cancer",1
+"train",1119705,"Control",0
+"train",1120061,"Colon Cancer",1
+"train",1120130,"Control",0
+"train",1120377,"Control",0
+"train",1120760,"Control",0
+"train",1121515,"Control",0
+"train",1121529,"Control",0
+"train",1121667,"Control",0
+"train",1122474,"Control",0
+"train",1122501,"Control",0
+"train",1122910,"Control",0
+"train",1123182,"Control",0
+"train",1124100,"Control",0
+"train",1124563,"Control",0
+"train",1125006,"Control",0
+"train",1125871,"Control",0
+"train",1126041,"Control",0
+"train",1126534,"Control",0
+"train",1126560,"Control",0
+"train",1127058,"Colon Cancer",1
+"train",1127531,"Control",0
+"train",1127918,"Control",0
+"train",1128191,"Control",0
+"train",1128981,"Control",0
+"train",1129433,"Control",0
+"train",1130287,"Control",0
+"train",1130421,"Control",0
+"train",1130916,"Control",0
+"train",1131106,"Colon Cancer",1
+"train",1131929,"Control",0
+"train",1132264,"Control",0
+"train",1132650,"Control",0
+"train",1132946,"Control",0
+"train",1133905,"Control",0
+"train",1133973,"Control",0
+"train",1134053,"Control",0
+"train",1135294,"Control",0
+"train",1135805,"Colon Cancer",1
+"train",1136346,"Control",0
+"train",1137362,"Control",0
+"train",1137752,"Control",0
+"train",1138355,"Control",0
+"train",1139234,"Control",0
+"train",1139707,"Control",0
+"train",1139774,"Control",0
+"train",1139977,"Colon Cancer",1
+"train",1140251,"Control",0
+"train",1140696,"Control",0
+"train",1141279,"Control",0
+"train",1141999,"Colon Cancer",1
+"train",1142799,"Control",0
+"train",1143109,"Control",0
+"train",1143786,"Control",0
+"train",1144072,"Control",0
+"train",1144658,"Control",0
+"train",1144761,"Colon Cancer",1
+"train",1145061,"Control",0
+"train",1145299,"Control",0
+"train",1146200,"Control",0
+"train",1146624,"Control",0
+"train",1147665,"Control",0
+"train",1148297,"Control",0
+"train",1148950,"Control",0
+"train",1149154,"Control",0
+"train",1149218,"Control",0
+"train",1149239,"Control",0
+"train",1149602,"Control",0
+"train",1149997,"Colon Cancer",1
+"train",1150183,"Control",0
+"train",1151049,"Control",0
+"train",1151301,"Control",0
+"train",1151426,"Control",0
+"train",1152186,"Control",0
+"train",1152663,"Control",0
+"train",1152690,"Colon Cancer",1
+"train",1152826,"Control",0
+"train",1153181,"Control",0
+"train",1154289,"Control",0
+"train",1154624,"Control",0
+"train",1154890,"Control",0
+"train",1156573,"Colon Cancer",1
+"train",1156772,"Control",0
+"train",1158072,"Control",0
+"train",1158845,"Control",0
+"train",1159215,"Control",0
+"train",1159849,"Control",0
+"train",1160332,"Control",0
+"train",1160358,"Control",0
+"train",1161718,"Control",0
+"train",1161919,"Control",0
+"train",1162622,"Control",0
+"train",1163928,"Control",0
+"train",1164598,"Colon Cancer",1
+"train",1165013,"Control",0
+"train",1165207,"Colon Cancer",1
+"train",1165811,"Control",0
+"train",1166112,"Control",0
+"train",1166533,"Control",0
+"train",1167346,"Control",0
+"train",1167840,"Colon Cancer",1
+"train",1172311,"Colon Cancer",1
+"train",1172546,"Control",0
+"train",1173471,"Control",0
+"train",1173828,"Control",0
+"train",1174111,"Control",0
+"train",1175218,"Control",0
+"train",1175519,"Colon Cancer",1
+"train",1176180,"Control",0
+"train",1176251,"Control",0
+"train",1176900,"Control",0
+"train",1177166,"Control",0
+"train",1177450,"Colon Cancer",1
+"train",1177893,"Control",0
+"train",1178821,"Control",0
+"train",1179656,"Control",0
+"train",1182909,"Colon Cancer",1
+"train",1183592,"Colon Cancer",1
+"train",1183848,"Colon Cancer",1
+"train",1183950,"Colon Cancer",1
+"train",1184445,"Control",0
+"train",1185257,"Control",0
+"train",1185967,"Control",0
+"train",1186721,"Control",0
+"train",1187624,"Control",0
+"train",1188751,"Control",0
+"train",1191439,"Control",0
+"train",1191697,"Control",0
+"train",1191701,"Colon Cancer",1
+"train",1191713,"Control",0
+"train",1192008,"Control",0
+"train",1192967,"Control",0
+"train",1193663,"Control",0
+"train",1194472,"Colon Cancer",1
+"train",1194925,"Control",0
+"train",1194990,"Control",0
+"train",1195300,"Control",0
+"train",1195572,"Control",0
+"train",1196444,"Control",0
+"train",1196960,"Control",0
+"train",1197327,"Control",0
+"train",1197373,"Control",0
+"train",1197447,"Control",0
+"train",1198497,"Control",0
+"train",1198604,"Control",0
+"train",1199052,"Control",0
+"train",1199150,"Control",0
+"train",1199395,"Colon Cancer",1
+"train",1199492,"Control",0
+"train",1200757,"Control",0
+"train",1200945,"Control",0
+"train",1201155,"Control",0
+"train",1202471,"Control",0
+"train",1202929,"Control",0
+"train",1203640,"Control",0
+"train",1203762,"Control",0
+"train",1204559,"Colon Cancer",1
+"train",1205028,"Control",0
+"train",1205347,"Control",0
+"train",1206032,"Control",0
+"train",1206184,"Colon Cancer",1
+"train",1206209,"Control",0
+"train",1206904,"Control",0
+"train",1207877,"Control",0
+"train",1208724,"Control",0
+"train",1209599,"Colon Cancer",1
+"train",1209806,"Control",0
+"train",1211144,"Colon Cancer",1
+"train",1211535,"Control",0
+"train",1212366,"Colon Cancer",1
+"train",1213064,"Control",0
+"train",1215305,"Control",0
+"train",1216321,"Control",0
+"train",1216520,"Control",0
+"train",1216914,"Control",0
+"train",1217814,"Control",0
+"train",1218406,"Control",0
+"train",1220182,"Control",0
+"train",1220564,"Control",0
+"train",1221860,"Control",0
+"train",1221876,"Colon Cancer",1
+"train",1222212,"Control",0
+"train",1224612,"Control",0
+"train",1224759,"Control",0
+"train",1225517,"Control",0
+"train",1225974,"Control",0
+"train",1227642,"Control",0
+"train",1228250,"Control",0
+"train",1228475,"Control",0
+"train",1229091,"Control",0
+"train",1230246,"Control",0
+"train",1230414,"Control",0
+"train",1231654,"Control",0
+"train",1232886,"Colon Cancer",1
+"train",1233327,"Control",0
+"train",1234043,"Control",0
+"train",1234317,"Colon Cancer",1
+"train",1234806,"Control",0
+"train",1235507,"Control",0
+"train",1237357,"Control",0
+"train",1238053,"Control",0
+"train",1239236,"Control",0
+"train",1239690,"Control",0
+"train",1240059,"Control",0
+"train",1240095,"Colon Cancer",1
+"train",1241751,"Control",0
+"train",1242553,"Control",0
+"train",1242758,"Colon Cancer",1
+"train",1242787,"Control",0
+"train",1243031,"Control",0
+"train",1243167,"Control",0
+"train",1243662,"Control",0
+"train",1243833,"Control",0
+"train",1244341,"Control",0
+"train",1244600,"Colon Cancer",1
+"train",1244689,"Colon Cancer",1
+"train",1244742,"Control",0
+"train",1245404,"Control",0
+"train",1246386,"Control",0
+"train",1247250,"Control",0
+"train",1247620,"Control",0
+"train",1249119,"Control",0
+"train",1249375,"Control",0
+"train",1250794,"Colon Cancer",1
+"train",1252038,"Control",0
+"train",1252141,"Control",0
+"train",1252269,"Control",0
+"train",1252902,"Control",0
+"train",1255201,"Control",0
+"train",1256949,"Control",0
+"train",1257158,"Colon Cancer",1
+"train",1257554,"Control",0
+"train",1257640,"Control",0
+"train",1257849,"Control",0
+"train",1258451,"Colon Cancer",1
+"train",1258950,"Control",0
+"train",1259507,"Colon Cancer",1
+"train",1259866,"Control",0
+"train",1260463,"Colon Cancer",1
+"train",1260831,"Control",0
+"train",1261432,"Control",0
+"train",1261671,"Control",0
+"train",1261757,"Colon Cancer",1
+"train",1261983,"Control",0
+"train",1262089,"Control",0
+"train",1263461,"Control",0
+"train",1264414,"Control",0
+"train",1265774,"Colon Cancer",1
+"train",1266846,"Control",0
+"train",1266889,"Control",0
+"train",1266947,"Control",0
+"train",1268048,"Control",0
+"train",1273473,"Control",0
+"train",1274954,"Control",0
+"train",1275214,"Control",0
+"train",1275948,"Colon Cancer",1
+"train",1275999,"Colon Cancer",1
+"train",1276352,"Control",0
+"train",1277807,"Control",0
+"train",1277819,"Control",0
+"train",1277825,"Control",0
+"train",1279007,"Control",0
+"train",1279660,"Control",0
+"train",1280058,"Control",0
+"train",1280091,"Control",0
+"train",1280742,"Control",0
+"train",1281170,"Colon Cancer",1
+"train",1281203,"Control",0
+"train",1281902,"Control",0
+"train",1282489,"Control",0
+"train",1282784,"Control",0
+"train",1282818,"Control",0
+"train",1282980,"Control",0
+"train",1283151,"Control",0
+"train",1283568,"Control",0
+"train",1283844,"Control",0
+"train",1283906,"Control",0
+"train",1284158,"Control",0
+"train",1284397,"Control",0
+"train",1284886,"Control",0
+"train",1285096,"Control",0
+"train",1285268,"Control",0
+"train",1285419,"Control",0
+"train",1285879,"Control",0
+"train",1286146,"Colon Cancer",1
+"train",1286602,"Control",0
+"train",1287072,"Control",0
+"train",1287402,"Control",0
+"train",1288859,"Control",0
+"train",1289819,"Control",0
+"train",1292271,"Control",0
+"train",1294426,"Control",0
+"train",1295040,"Colon Cancer",1
+"train",1295088,"Colon Cancer",1
+"train",1295092,"Control",0
+"train",1295155,"Colon Cancer",1
+"train",1295363,"Control",0
+"train",1295618,"Control",0
+"train",1296747,"Colon Cancer",1
+"train",1296901,"Control",0
+"train",1298144,"Colon Cancer",1
+"train",1298229,"Control",0
+"train",1299188,"Control",0
+"train",1299722,"Control",0
+"train",1299811,"Control",0
+"train",1300271,"Control",0
+"train",1300300,"Control",0
+"train",1300712,"Control",0
+"train",1301049,"Control",0
+"train",1301051,"Control",0
+"train",1301616,"Control",0
+"train",1302568,"Control",0
+"train",1303082,"Control",0
+"train",1304097,"Control",0
+"train",1304333,"Control",0
+"train",1304594,"Control",0
+"train",1305523,"Control",0
+"train",1306439,"Control",0
+"train",1306854,"Control",0
+"train",1307031,"Colon Cancer",1
+"train",1307871,"Control",0
+"train",1307922,"Control",0
+"train",1308518,"Colon Cancer",1
+"train",1309593,"Control",0
+"train",1309665,"Control",0
+"train",1310452,"Control",0
+"train",1311265,"Control",0
+"train",1312203,"Control",0
+"train",1312485,"Control",0
+"train",1312628,"Control",0
+"train",1312817,"Control",0
+"train",1313077,"Control",0
+"train",1315017,"Control",0
+"train",1315875,"Control",0
+"train",1316302,"Control",0
+"train",1316488,"Colon Cancer",1
+"train",1317282,"Control",0
+"train",1318996,"Control",0
+"train",1319098,"Control",0
+"train",1319380,"Control",0
+"train",1319469,"Control",0
+"train",1320312,"Control",0
+"train",1320327,"Control",0
+"train",1321826,"Colon Cancer",1
+"train",1324227,"Control",0
+"train",1325206,"Colon Cancer",1
+"train",1326126,"Control",0
+"train",1327431,"Control",0
+"train",1327624,"Control",0
+"train",1329038,"Control",0
+"train",1329108,"Colon Cancer",1
+"train",1329984,"Control",0
+"train",1329995,"Control",0
+"train",1330451,"Control",0
+"train",1331598,"Control",0
+"train",1333728,"Colon Cancer",1
+"train",1334467,"Control",0
+"train",1334623,"Control",0
+"train",1334692,"Control",0
+"train",1334974,"Colon Cancer",1
+"train",1337207,"Control",0
+"train",1339028,"Colon Cancer",1
+"train",1339246,"Control",0
+"train",1339680,"Control",0
+"train",1341282,"Control",0
+"train",1341448,"Control",0
+"train",1341692,"Control",0
+"train",1342329,"Control",0
+"train",1343723,"Control",0
+"train",1345327,"Control",0
+"train",1346619,"Control",0
+"train",1347062,"Control",0
+"train",1347128,"Control",0
+"train",1347160,"Colon Cancer",1
+"train",1347317,"Colon Cancer",1
+"train",1347823,"Control",0
+"train",1348196,"Control",0
+"train",1348890,"Control",0
+"train",1349065,"Colon Cancer",1
+"train",1349167,"Control",0
+"train",1349298,"Control",0
+"train",1349356,"Control",0
+"train",1350909,"Control",0
+"train",1351802,"Control",0
+"train",1352290,"Control",0
+"train",1353718,"Control",0
+"train",1354810,"Control",0
+"train",1355011,"Control",0
+"train",1357651,"Control",0
+"train",1358063,"Colon Cancer",1
+"train",1358323,"Control",0
+"train",1358439,"Control",0
+"train",1359823,"Control",0
+"train",1360851,"Control",0
+"train",1361814,"Control",0
+"train",1362235,"Control",0
+"train",1364171,"Control",0
+"train",1364252,"Control",0
+"train",1364412,"Colon Cancer",1
+"train",1365505,"Control",0
+"train",1365598,"Control",0
+"train",1365817,"Control",0
+"train",1366192,"Control",0
+"train",1366632,"Control",0
+"train",1366929,"Control",0
+"train",1367829,"Control",0
+"train",1368638,"Colon Cancer",1
+"train",1369493,"Control",0
+"train",1370105,"Control",0
+"train",1370321,"Control",0
+"train",1371347,"Control",0
+"train",1371856,"Control",0
+"train",1372969,"Colon Cancer",1
+"train",1373108,"Control",0
+"train",1378849,"Control",0
+"train",1379860,"Colon Cancer",1
+"train",1381123,"Control",0
+"train",1381219,"Control",0
+"train",1382639,"Control",0
+"train",1383541,"Control",0
+"train",1384369,"Control",0
+"train",1385480,"Control",0
+"train",1386608,"Control",0
+"train",1386773,"Control",0
+"train",1387533,"Control",0
+"train",1387709,"Control",0
+"train",1387891,"Colon Cancer",1
+"train",1388027,"Control",0
+"train",1389087,"Control",0
+"train",1389872,"Control",0
+"train",1390118,"Control",0
+"train",1392126,"Control",0
+"train",1393433,"Control",0
+"train",1393834,"Control",0
+"train",1394831,"Colon Cancer",1
+"train",1395073,"Control",0
+"train",1396101,"Colon Cancer",1
+"train",1397724,"Colon Cancer",1
+"train",1397767,"Control",0
+"train",1398534,"Control",0
+"train",1399752,"Control",0
+"train",1399826,"Colon Cancer",1
+"train",1400549,"Control",0
+"train",1400835,"Control",0
+"train",1403316,"Control",0
+"train",1404303,"Control",0
+"train",1406268,"Control",0
+"train",1407441,"Colon Cancer",1
+"train",1409159,"Colon Cancer",1
+"train",1411371,"Control",0
+"train",1412109,"Colon Cancer",1
+"train",1412145,"Colon Cancer",1
+"train",1412176,"Control",0
+"train",1413074,"Colon Cancer",1
+"train",1413392,"Control",0
+"train",1414928,"Control",0
+"train",1415014,"Control",0
+"train",1416686,"Control",0
+"train",1416795,"Colon Cancer",1
+"train",1418981,"Colon Cancer",1
+"train",1420779,"Colon Cancer",1
+"train",1421452,"Control",0
+"train",1421715,"Control",0
+"train",1422550,"Control",0
+"train",1422937,"Control",0
+"train",1423016,"Control",0
+"train",1423640,"Control",0
+"train",1423938,"Colon Cancer",1
+"train",1425986,"Control",0
+"train",1426370,"Colon Cancer",1
+"train",1426506,"Control",0
+"train",1426880,"Control",0
+"train",1428269,"Colon Cancer",1
+"train",1428421,"Colon Cancer",1
+"train",1431389,"Control",0
+"train",1431892,"Control",0
+"train",1432680,"Control",0
+"train",1433503,"Control",0
+"train",1433794,"Control",0
+"train",1434044,"Control",0
+"train",1435042,"Control",0
+"train",1435835,"Control",0
+"train",1435995,"Control",0
+"train",1436644,"Control",0
+"train",1437853,"Control",0
+"train",1437983,"Control",0
+"train",1438149,"Control",0
+"train",1438415,"Control",0
+"train",1438674,"Colon Cancer",1
+"train",1439041,"Control",0
+"train",1440672,"Control",0
+"train",1440912,"Control",0
+"train",1441087,"Colon Cancer",1
+"train",1441867,"Colon Cancer",1
+"train",1443953,"Control",0
+"train",1444419,"Control",0
+"train",1444958,"Control",0
+"train",1445027,"Control",0
+"train",1446677,"Control",0
+"train",1449151,"Control",0
+"train",1449415,"Control",0
+"train",1450484,"Colon Cancer",1
+"train",1451709,"Control",0
+"train",1453540,"Control",0
+"train",1454273,"Colon Cancer",1
+"train",1454338,"Colon Cancer",1
+"train",1457819,"Colon Cancer",1
+"train",1458322,"Colon Cancer",1
+"train",1459056,"Colon Cancer",1
+"train",1459609,"Control",0
+"train",1464158,"Control",0
+"train",1465823,"Colon Cancer",1
+"train",1465892,"Control",0
+"train",1468820,"Control",0
+"train",1470434,"Control",0
+"train",1472357,"Control",0
+"train",1474539,"Control",0
+"train",1474860,"Control",0
+"train",1475466,"Colon Cancer",1
+"train",1475656,"Control",0
+"train",1476104,"Control",0
+"train",1476359,"Colon Cancer",1
+"train",1478058,"Control",0
+"train",1479189,"Control",0
+"train",1479458,"Colon Cancer",1
+"train",1480043,"Control",0
+"train",1480513,"Control",0
+"train",1480944,"Control",0
+"train",1481154,"Control",0
+"train",1481616,"Control",0
+"train",1482304,"Control",0
+"train",1484009,"Control",0
+"train",1484347,"Colon Cancer",1
+"train",1486443,"Colon Cancer",1
+"train",1487737,"Control",0
+"train",1488072,"Control",0
+"train",1488550,"Colon Cancer",1
+"train",1489311,"Colon Cancer",1
+"train",1489886,"Control",0
+"train",1490478,"Control",0
+"train",1492756,"Control",0
+"train",1492921,"Colon Cancer",1
+"train",1492996,"Colon Cancer",1
+"train",1493250,"Control",0
+"train",1494153,"Control",0
+"train",1494485,"Control",0
+"train",1495123,"Control",0
+"train",1496810,"Control",0
+"train",1497216,"Colon Cancer",1
+"train",1497903,"Control",0
+"train",1499088,"Control",0
+"train",1499662,"Colon Cancer",1
+"train",1500460,"Control",0
+"train",1501597,"Colon Cancer",1
+"train",1501936,"Control",0
+"train",1503814,"Colon Cancer",1
+"train",1504131,"Colon Cancer",1
+"train",1505396,"Control",0
+"train",1505520,"Control",0
+"train",1506807,"Control",0
+"train",1506838,"Control",0
+"train",1507480,"Control",0
+"train",1509731,"Control",0
+"train",1510095,"Control",0
+"train",1510158,"Colon Cancer",1
+"train",1511378,"Control",0
+"train",1512320,"Control",0
+"train",1513230,"Control",0
+"train",1513833,"Colon Cancer",1
+"train",1517491,"Colon Cancer",1
+"train",1517633,"Control",0
+"train",1517945,"Colon Cancer",1
+"train",1518061,"Control",0
+"train",1518745,"Control",0
+"train",1519759,"Colon Cancer",1
+"train",1519821,"Colon Cancer",1
+"train",1519885,"Control",0
+"train",1520579,"Control",0
+"train",1521512,"Control",0
+"train",1521822,"Colon Cancer",1
+"train",1521920,"Control",0
+"train",1521947,"Control",0
+"train",1522082,"Control",0
+"train",1522292,"Control",0
+"train",1522768,"Control",0
+"train",1522901,"Colon Cancer",1
+"train",1523844,"Control",0
+"train",1526475,"Control",0
+"train",1526659,"Control",0
+"train",1527722,"Control",0
+"train",1528859,"Colon Cancer",1
+"train",1528954,"Control",0
+"train",1528993,"Colon Cancer",1
+"train",1531492,"Control",0
+"train",1531636,"Colon Cancer",1
+"train",1533323,"Colon Cancer",1
+"train",1533418,"Control",0
+"train",1534487,"Colon Cancer",1
+"train",1536924,"Colon Cancer",1
+"train",1538169,"Control",0
+"train",1539099,"Control",0
+"train",1539351,"Control",0
+"train",1539811,"Control",0
+"train",1539937,"Control",0
+"train",1540361,"Control",0
+"train",1540548,"Colon Cancer",1
+"train",1540730,"Control",0
+"train",1541161,"Control",0
+"train",1541426,"Colon Cancer",1
+"train",1542022,"Control",0
+"train",1542321,"Control",0
+"train",1542385,"Control",0
+"train",1543041,"Control",0
+"train",1543493,"Control",0
+"train",1543702,"Control",0
+"train",1543720,"Control",0
+"train",1543818,"Control",0
+"train",1544440,"Colon Cancer",1
+"train",1545394,"Control",0
+"train",1545449,"Control",0
+"train",1546713,"Control",0
+"train",1548024,"Colon Cancer",1
+"train",1548691,"Control",0
+"train",1548717,"Control",0
+"train",1550053,"Control",0
+"train",1550066,"Control",0
+"train",1550303,"Control",0
+"train",1551345,"Control",0
+"train",1552337,"Colon Cancer",1
+"train",1554042,"Control",0
+"train",1554984,"Colon Cancer",1
+"train",1555828,"Control",0
+"train",1555966,"Control",0
+"train",1556321,"Control",0
+"train",1560458,"Colon Cancer",1
+"train",1562106,"Control",0
+"train",1563334,"Control",0
+"train",1563739,"Control",0
+"train",1563812,"Control",0
+"train",1564151,"Colon Cancer",1
+"train",1564734,"Colon Cancer",1
+"train",1565384,"Colon Cancer",1
+"train",1566353,"Colon Cancer",1
+"train",1566693,"Colon Cancer",1
+"train",1567279,"Control",0
+"train",1567702,"Colon Cancer",1
+"train",1568388,"Control",0
+"train",1570379,"Colon Cancer",1
+"train",1572677,"Control",0
+"train",1572847,"Control",0
+"train",1573582,"Control",0
+"train",1573601,"Control",0
+"train",1574673,"Control",0
+"train",1575345,"Control",0
+"train",1576608,"Control",0
+"train",1576888,"Colon Cancer",1
+"train",1577112,"Control",0
+"train",1577272,"Control",0
+"train",1577470,"Control",0
+"train",1578189,"Control",0
+"train",1578788,"Control",0
+"train",1583330,"Colon Cancer",1
+"train",1583778,"Control",0
+"train",1584317,"Colon Cancer",1
+"train",1584629,"Colon Cancer",1
+"train",1584694,"Control",0
+"train",1585491,"Control",0
+"train",1586476,"Colon Cancer",1
+"train",1588094,"Colon Cancer",1
+"train",1588310,"Control",0
+"train",1589619,"Colon Cancer",1
+"train",1590099,"Control",0
+"train",1590256,"Control",0
+"train",1590915,"Colon Cancer",1
+"train",1592928,"Control",0
+"train",1594833,"Control",0
+"train",1598865,"Control",0
+"train",1599063,"Control",0
+"train",1599226,"Colon Cancer",1
+"train",1599586,"Control",0
+"train",1604517,"Control",0
+"train",1607055,"Control",0
+"train",1608307,"Colon Cancer",1
+"train",1611236,"Control",0
+"train",1611681,"Control",0
+"train",1612030,"Control",0
+"train",1612051,"Control",0
+"train",1615174,"Control",0
+"train",1616016,"Control",0
+"train",1621214,"Control",0
+"train",1623425,"Control",0
+"train",1623481,"Control",0
+"train",1625151,"Colon Cancer",1
+"train",1627311,"Colon Cancer",1
+"train",1627640,"Colon Cancer",1
+"train",1627849,"Colon Cancer",1
+"train",1627907,"Control",0
+"train",1628308,"Control",0
+"train",1629221,"Control",0
+"train",1629556,"Control",0
+"train",1629765,"Control",0
+"train",1630419,"Colon Cancer",1
+"train",1630513,"Colon Cancer",1
+"train",1632760,"Control",0
+"train",1633119,"Control",0
+"train",1634162,"Control",0
+"train",1636357,"Control",0
+"train",1637685,"Control",0
+"train",1638398,"Control",0
+"train",1640797,"Colon Cancer",1
+"train",1640979,"Colon Cancer",1
+"train",1643755,"Control",0
+"train",1643959,"Control",0
+"train",1645569,"Colon Cancer",1
+"train",1646509,"Control",0
+"train",1647308,"Colon Cancer",1
+"train",1647506,"Control",0
+"train",1648805,"Control",0
+"train",1649001,"Control",0
+"train",1653320,"Control",0
+"train",1656389,"Colon Cancer",1
+"train",1656694,"Control",0
+"train",1656926,"Control",0
+"train",1657619,"Control",0
+"train",1658960,"Control",0
+"train",1659867,"Control",0
+"train",1660905,"Colon Cancer",1
+"train",1661557,"Control",0
+"train",1661579,"Control",0
+"train",1661880,"Colon Cancer",1
+"train",1664910,"Control",0
+"train",1665444,"Control",0
+"train",1667019,"Colon Cancer",1
+"train",1667439,"Colon Cancer",1
+"train",1669130,"Control",0
+"train",1670181,"Colon Cancer",1
+"train",1670583,"Colon Cancer",1
+"train",1671827,"Control",0
+"train",1673668,"Control",0
+"train",1676832,"Control",0
+"train",1677202,"Control",0
+"train",1677969,"Control",0
+"train",1678998,"Control",0
+"train",1679148,"Control",0
+"train",1679325,"Colon Cancer",1
+"train",1680556,"Control",0
+"train",1681782,"Colon Cancer",1
+"train",1683750,"Colon Cancer",1
+"train",1683938,"Control",0
+"train",1684674,"Control",0
+"train",1686308,"Control",0
+"train",1687720,"Colon Cancer",1
+"train",1688074,"Control",0
+"train",1689062,"Control",0
+"train",1689160,"Colon Cancer",1
+"train",1689879,"Colon Cancer",1
+"train",1690517,"Colon Cancer",1
+"train",1691039,"Colon Cancer",1
+"train",1691442,"Control",0
+"train",1692973,"Control",0
+"train",1693356,"Control",0
+"train",1693544,"Control",0
+"train",1695755,"Colon Cancer",1
+"train",1696106,"Colon Cancer",1
+"train",1696982,"Control",0
+"train",1697525,"Control",0
+"train",1697976,"Control",0
+"train",1699029,"Colon Cancer",1
+"train",1701680,"Control",0
+"train",1705363,"Colon Cancer",1
+"train",1705685,"Colon Cancer",1
+"train",1708480,"Colon Cancer",1
+"train",1708925,"Control",0
+"train",1709754,"Colon Cancer",1
+"train",1711496,"Control",0
+"train",1712651,"Control",0
+"train",1712967,"Colon Cancer",1
+"train",1713988,"Colon Cancer",1
+"train",1714311,"Control",0
+"train",1714424,"Colon Cancer",1
+"train",1716012,"Control",0
+"train",1724366,"Control",0
+"train",1725645,"Control",0
+"train",1728224,"Colon Cancer",1
+"train",1729214,"Control",0
+"train",1729454,"Control",0
+"train",1729576,"Colon Cancer",1
+"train",1729999,"Control",0
+"train",1730409,"Control",0
+"train",1733021,"Control",0
+"train",1733888,"Control",0
+"train",1734596,"Colon Cancer",1
+"train",1734845,"Control",0
+"train",1737743,"Control",0
+"train",1737851,"Control",0
+"train",1739154,"Control",0
+"train",1740701,"Control",0
+"train",1741263,"Control",0
+"train",1743787,"Control",0
+"train",1744332,"Colon Cancer",1
+"train",1746183,"Control",0
+"train",1746786,"Control",0
+"train",1749996,"Control",0
+"train",1752623,"Control",0
+"train",1753811,"Control",0
+"train",1754524,"Colon Cancer",1
+"train",1754903,"Control",0
+"train",1756411,"Control",0
+"train",1756569,"Control",0
+"train",1756741,"Control",0
+"train",1757226,"Control",0
+"train",1757861,"Control",0
+"train",1758029,"Colon Cancer",1
+"train",1759470,"Control",0
+"train",1759760,"Control",0
+"train",1761625,"Control",0
+"train",1761709,"Control",0
+"train",1762399,"Colon Cancer",1
+"train",1763654,"Control",0
+"train",1764057,"Control",0
+"train",1764604,"Control",0
+"train",1765936,"Control",0
+"train",1768295,"Colon Cancer",1
+"train",1768705,"Colon Cancer",1
+"train",1771563,"Colon Cancer",1
+"train",1772396,"Control",0
+"train",1773489,"Control",0
+"train",1774601,"Control",0
+"train",1775168,"Control",0
+"train",1776357,"Colon Cancer",1
+"train",1777227,"Control",0
+"train",1781144,"Control",0
+"train",1782394,"Control",0
+"train",1784512,"Control",0
+"train",1784835,"Control",0
+"train",1784878,"Control",0
+"train",1786965,"Colon Cancer",1
+"train",1787786,"Colon Cancer",1
+"train",1788570,"Colon Cancer",1
+"train",1789820,"Colon Cancer",1
+"train",1792746,"Colon Cancer",1
+"train",1797375,"Control",0
+"train",1801704,"Colon Cancer",1
+"train",1804421,"Control",0
+"train",1804634,"Control",0
+"train",1805165,"Control",0
+"train",1805420,"Control",0
+"train",1805811,"Colon Cancer",1
+"train",1808582,"Colon Cancer",1
+"train",1809088,"Control",0
+"train",1809558,"Control",0
+"train",1809569,"Control",0
+"train",1809604,"Control",0
+"train",1812267,"Control",0
+"train",1813163,"Control",0
+"train",1815557,"Control",0
+"train",1817741,"Control",0
+"train",1818761,"Control",0
+"train",1820710,"Control",0
+"train",1821622,"Control",0
+"train",1824004,"Colon Cancer",1
+"train",1824152,"Control",0
+"train",1828041,"Control",0
+"train",1835649,"Control",0
+"train",1836472,"Control",0
+"train",1837011,"Colon Cancer",1
+"train",1841662,"Control",0
+"train",1842970,"Colon Cancer",1
+"train",1844931,"Control",0
+"train",1845807,"Control",0
+"train",1845927,"Control",0
+"train",1846719,"Colon Cancer",1
+"train",1848258,"Control",0
+"train",1848421,"Colon Cancer",1
+"train",1850919,"Control",0
+"train",1852508,"Control",0
+"train",1853338,"Control",0
+"train",1854565,"Control",0
+"train",1854921,"Control",0
+"train",1856687,"Colon Cancer",1
+"train",1857426,"Control",0
+"train",1857525,"Control",0
+"train",1859664,"Control",0
+"train",1860802,"Colon Cancer",1
+"train",1862505,"Colon Cancer",1
+"train",1862984,"Colon Cancer",1
+"train",1864828,"Colon Cancer",1
+"train",1865437,"Colon Cancer",1
+"train",1869870,"Control",0
+"train",1870646,"Control",0
+"train",1872142,"Colon Cancer",1
+"train",1872605,"Control",0
+"train",1873674,"Control",0
+"train",1876189,"Colon Cancer",1
+"train",1877585,"Colon Cancer",1
+"train",1878961,"Control",0
+"train",1881570,"Colon Cancer",1
+"train",1882197,"Colon Cancer",1
+"train",1882322,"Control",0
+"train",1883203,"Control",0
+"train",1883645,"Control",0
+"train",1883854,"Colon Cancer",1
+"train",1885460,"Control",0
+"train",1887588,"Control",0
+"train",1887592,"Control",0
+"train",1887622,"Control",0
+"train",1888033,"Colon Cancer",1
+"train",1888907,"Control",0
+"train",1891364,"Colon Cancer",1
+"train",1892847,"Control",0
+"train",1894534,"Control",0
+"train",1895623,"Colon Cancer",1
+"train",1898324,"Control",0
+"train",1902033,"Colon Cancer",1
+"train",1902282,"Colon Cancer",1
+"train",1906040,"Colon Cancer",1
+"train",1906101,"Control",0
+"train",1907210,"Colon Cancer",1
+"train",1908156,"Control",0
+"train",1909017,"Control",0
+"train",1913807,"Control",0
+"train",1914369,"Colon Cancer",1
+"train",1915144,"Control",0
+"train",1915578,"Control",0
+"train",1916682,"Colon Cancer",1
+"train",1917832,"Colon Cancer",1
+"train",1918243,"Control",0
+"train",1918491,"Colon Cancer",1
+"train",1920784,"Control",0
+"train",1924477,"Control",0
+"train",1929113,"Control",0
+"train",1929307,"Control",0
+"train",1930945,"Control",0
+"train",1934988,"Colon Cancer",1
+"train",1935406,"Colon Cancer",1
+"train",1936209,"Control",0
+"train",1936283,"Control",0
+"train",1937818,"Control",0
+"train",1940225,"Colon Cancer",1
+"train",1946554,"Control",0
+"train",1949007,"Colon Cancer",1
+"train",1949115,"Control",0
+"train",1951697,"Control",0
+"train",1952435,"Colon Cancer",1
+"train",1955727,"Colon Cancer",1
+"train",1955840,"Control",0
+"train",1956928,"Colon Cancer",1
+"train",1957834,"Control",0
+"train",1958802,"Control",0
+"train",1959874,"Control",0
+"train",1961139,"Control",0
+"train",1961699,"Control",0
+"train",1962077,"Control",0
+"train",1963331,"Colon Cancer",1
+"train",1966400,"Colon Cancer",1
+"train",1966478,"Control",0
+"train",1966534,"Colon Cancer",1
+"train",1969274,"Colon Cancer",1
+"train",1972347,"Colon Cancer",1
+"train",1973452,"Colon Cancer",1
+"train",1974003,"Control",0
+"train",1974836,"Control",0
+"train",1975170,"Colon Cancer",1
+"train",1977073,"Colon Cancer",1
+"train",1977590,"Control",0
+"train",1977714,"Control",0
+"train",1981163,"Control",0
+"train",1982153,"Control",0
+"train",1982306,"Colon Cancer",1
+"train",1985441,"Control",0
+"train",1986927,"Control",0
+"train",1987721,"Control",0
+"train",1991073,"Control",0
+"train",1991952,"Colon Cancer",1
+"train",1993279,"Control",0
+"train",1994196,"Control",0
+"train",1994479,"Colon Cancer",1
+"train",2000984,"Colon Cancer",1
+"train",2001106,"Colon Cancer",1
+"train",2001735,"Colon Cancer",1
+"train",2005126,"Control",0
+"train",2005593,"Control",0
+"train",2005886,"Control",0
+"train",2008262,"Control",0
+"train",2008731,"Control",0
+"train",2009353,"Control",0
+"train",2011293,"Control",0
+"train",2011726,"Colon Cancer",1
+"train",2011787,"Colon Cancer",1
+"train",2012145,"Colon Cancer",1
+"train",2012749,"Control",0
+"train",2015273,"Colon Cancer",1
+"train",2016972,"Colon Cancer",1
+"train",2018849,"Control",0
+"train",2018942,"Colon Cancer",1
+"train",2022351,"Colon Cancer",1
+"train",2025457,"Control",0
+"train",2026116,"Control",0
+"train",2029536,"Colon Cancer",1
+"train",2031128,"Colon Cancer",1
+"train",2031202,"Control",0
+"train",2031317,"Colon Cancer",1
+"train",2032076,"Colon Cancer",1
+"train",2032121,"Control",0
+"train",2032302,"Control",0
+"train",2033092,"Colon Cancer",1
+"train",2033794,"Colon Cancer",1
+"train",2035074,"Control",0
+"train",2035586,"Control",0
+"train",2037620,"Control",0
+"train",2040890,"Control",0
+"train",2041918,"Colon Cancer",1
+"train",2042016,"Control",0
+"train",2042376,"Colon Cancer",1
+"train",2042812,"Colon Cancer",1
+"train",2043447,"Control",0
+"train",2043521,"Control",0
+"train",2043735,"Control",0
+"train",2044944,"Control",0
+"train",2046411,"Colon Cancer",1
+"train",2046677,"Control",0
+"train",2047477,"Colon Cancer",1
+"train",2053102,"Control",0
+"train",2053689,"Colon Cancer",1
+"train",2055673,"Colon Cancer",1
+"train",2056436,"Control",0
+"train",2056522,"Control",0
+"train",2058050,"Control",0
+"train",2058712,"Control",0
+"train",2059861,"Colon Cancer",1
+"train",2059878,"Control",0
+"train",2059995,"Colon Cancer",1
+"train",2065773,"Control",0
+"train",2067459,"Control",0
+"train",2068249,"Control",0
+"train",2068325,"Colon Cancer",1
+"train",2071119,"Colon Cancer",1
+"train",2072007,"Colon Cancer",1
+"train",2072042,"Control",0
+"train",2074610,"Control",0
+"train",2075663,"Control",0
+"train",2076060,"Control",0
+"train",2076541,"Control",0
+"train",2077158,"Colon Cancer",1
+"train",2077851,"Control",0
+"train",2078075,"Control",0
+"train",2078209,"Control",0
+"train",2078498,"Colon Cancer",1
+"train",2079563,"Colon Cancer",1
+"train",2081285,"Control",0
+"train",2081380,"Control",0
+"train",2081538,"Control",0
+"train",2083417,"Control",0
+"train",2083980,"Control",0
+"train",2084457,"Colon Cancer",1
+"train",2084905,"Control",0
+"train",2085341,"Control",0
+"train",2085486,"Colon Cancer",1
+"train",2086258,"Control",0
+"train",2087917,"Control",0
+"train",2088312,"Control",0
+"train",2090630,"Control",0
+"train",2094878,"Colon Cancer",1
+"train",2094971,"Control",0
+"train",2095717,"Control",0
+"train",2100021,"Control",0
+"train",2103839,"Colon Cancer",1
+"train",2105308,"Control",0
+"train",2110558,"Control",0
+"train",2111206,"Colon Cancer",1
+"train",2111576,"Colon Cancer",1
+"train",2111913,"Colon Cancer",1
+"train",2112074,"Control",0
+"train",2112226,"Control",0
+"train",2112485,"Colon Cancer",1
+"train",2112628,"Colon Cancer",1
+"train",2115826,"Colon Cancer",1
+"train",2115891,"Control",0
+"train",2117805,"Colon Cancer",1
+"train",2118120,"Control",0
+"train",2119049,"Colon Cancer",1
+"train",2121000,"Colon Cancer",1
+"train",2125214,"Colon Cancer",1
+"train",2128176,"Control",0
+"train",2131443,"Control",0
+"train",2132885,"Control",0
+"train",2135062,"Control",0
+"train",2136808,"Control",0
+"train",2139009,"Control",0
+"train",2139162,"Colon Cancer",1
+"train",2140053,"Control",0
+"train",2140955,"Control",0
+"train",2141851,"Colon Cancer",1
+"train",2142405,"Colon Cancer",1
+"train",2142813,"Colon Cancer",1
+"train",2145188,"Colon Cancer",1
+"train",2146869,"Control",0
+"train",2147463,"Colon Cancer",1
+"train",2148672,"Control",0
+"train",2149031,"Control",0
+"train",2149092,"Control",0
+"train",2149978,"Colon Cancer",1
+"train",2150620,"Control",0
+"train",2151273,"Control",0
+"train",2151483,"Control",0
+"train",2152055,"Colon Cancer",1
+"train",2155302,"Colon Cancer",1
+"train",2155613,"Control",0
+"train",2157107,"Control",0
+"train",2158331,"Control",0
+"train",2158527,"Control",0
+"train",2161857,"Colon Cancer",1
+"train",2163558,"Control",0
+"train",2165767,"Control",0
+"train",2171371,"Control",0
+"train",2174005,"Colon Cancer",1
+"train",2175871,"Colon Cancer",1
+"train",2175989,"Control",0
+"train",2177707,"Colon Cancer",1
+"train",2179067,"Control",0
+"train",2181433,"Control",0
+"train",2182101,"Colon Cancer",1
+"train",2182847,"Colon Cancer",1
+"train",2185352,"Colon Cancer",1
+"train",2186524,"Colon Cancer",1
+"train",2187272,"Control",0
+"train",2188525,"Control",0
+"train",2192692,"Control",0
+"train",2192704,"Colon Cancer",1
+"train",2201181,"Colon Cancer",1
+"train",2201612,"Control",0
+"train",2203152,"Control",0
+"train",2203641,"Colon Cancer",1
+"train",2203823,"Colon Cancer",1
+"train",2205035,"Control",0
+"train",2205186,"Control",0
+"train",2207016,"Control",0
+"train",2211183,"Control",0
+"train",2211879,"Control",0
+"train",2212177,"Colon Cancer",1
+"train",2212440,"Control",0
+"train",2212732,"Colon Cancer",1
+"train",2213978,"Control",0
+"train",2215450,"Colon Cancer",1
+"train",2218466,"Colon Cancer",1
+"train",2218858,"Control",0
+"train",2221025,"Colon Cancer",1
+"train",2221598,"Colon Cancer",1
+"train",2222214,"Colon Cancer",1
+"train",2222576,"Colon Cancer",1
+"train",2222747,"Control",0
+"train",2223625,"Colon Cancer",1
+"train",2224397,"Control",0
+"train",2224963,"Control",0
+"train",2225295,"Colon Cancer",1
+"train",2225629,"Colon Cancer",1
+"train",2227036,"Control",0
+"train",2228978,"Colon Cancer",1
+"train",2230674,"Colon Cancer",1
+"train",2232050,"Control",0
+"train",2234243,"Control",0
+"train",2234788,"Control",0
+"train",2236008,"Colon Cancer",1
+"train",2236583,"Control",0
+"train",2236936,"Control",0
+"train",2237646,"Colon Cancer",1
+"train",2238126,"Control",0
+"train",2238718,"Control",0
+"train",2240751,"Colon Cancer",1
+"train",2241808,"Colon Cancer",1
+"train",2245790,"Control",0
+"train",2245977,"Control",0
+"train",2247884,"Control",0
+"train",2249851,"Control",0
+"train",2251397,"Colon Cancer",1
+"train",2252824,"Control",0
+"train",2257335,"Control",0
+"train",2258395,"Colon Cancer",1
+"train",2258964,"Control",0
+"train",2263956,"Control",0
+"train",2271596,"Control",0
+"train",2272770,"Control",0
+"train",2274066,"Colon Cancer",1
+"train",2274980,"Colon Cancer",1
+"train",2275253,"Control",0
+"train",2278616,"Control",0
+"train",2279412,"Colon Cancer",1
+"train",2280052,"Control",0
+"train",2281693,"Colon Cancer",1
+"train",2282657,"Control",0
+"train",2283518,"Control",0
+"train",2289000,"Colon Cancer",1
+"train",2296110,"Control",0
+"train",2297703,"Colon Cancer",1
+"train",2298513,"Colon Cancer",1
+"train",2300487,"Colon Cancer",1
+"train",2302048,"Colon Cancer",1
+"train",2303270,"Control",0
+"train",2306171,"Control",0
+"train",2306405,"Control",0
+"train",2306763,"Control",0
+"train",2308676,"Control",0
+"train",2309814,"Colon Cancer",1
+"train",2310759,"Control",0
+"train",2311762,"Control",0
+"train",2312693,"Colon Cancer",1
+"train",2314767,"Colon Cancer",1
+"train",2315897,"Control",0
+"train",2316437,"Control",0
+"train",2316533,"Colon Cancer",1
+"train",2320166,"Control",0
+"train",2320530,"Control",0
+"train",2321722,"Colon Cancer",1
+"train",2321754,"Colon Cancer",1
+"train",2322079,"Colon Cancer",1
+"train",2322325,"Colon Cancer",1
+"train",2323368,"Colon Cancer",1
+"train",2323732,"Colon Cancer",1
+"train",2325631,"Colon Cancer",1
+"train",2326271,"Control",0
+"train",2326840,"Colon Cancer",1
+"train",2328117,"Control",0
+"train",2328581,"Control",0
+"train",2338107,"Control",0
+"train",2339931,"Colon Cancer",1
+"train",2341197,"Colon Cancer",1
+"train",2341555,"Control",0
+"train",2343155,"Colon Cancer",1
+"train",2343569,"Colon Cancer",1
+"train",2351446,"Control",0
+"train",2353501,"Colon Cancer",1
+"train",2355304,"Control",0
+"train",2357191,"Colon Cancer",1
+"train",2358707,"Colon Cancer",1
+"train",2361277,"Control",0
+"train",2367935,"Colon Cancer",1
+"train",2370330,"Colon Cancer",1
+"train",2370398,"Colon Cancer",1
+"train",2370908,"Colon Cancer",1
+"train",2372218,"Colon Cancer",1
+"train",2372866,"Colon Cancer",1
+"train",2375070,"Colon Cancer",1
+"train",2375387,"Control",0
+"train",2378077,"Control",0
+"train",2378670,"Control",0
+"train",2390201,"Colon Cancer",1
+"train",2390415,"Colon Cancer",1
+"train",2394945,"Control",0
+"train",2403568,"Control",0
+"train",2403681,"Colon Cancer",1
+"train",2404938,"Control",0
+"train",2410585,"Colon Cancer",1
+"train",2411248,"Colon Cancer",1
+"train",2412444,"Control",0
+"train",2412945,"Control",0
+"train",2414452,"Colon Cancer",1
+"train",2418393,"Colon Cancer",1
+"train",2426320,"Colon Cancer",1
+"train",2426414,"Colon Cancer",1
+"train",2431005,"Control",0
+"train",2433375,"Control",0
+"train",2436755,"Colon Cancer",1
+"train",2439578,"Colon Cancer",1
+"train",2440272,"Control",0
+"train",2442295,"Control",0
+"train",2442831,"Colon Cancer",1
+"train",2449929,"Control",0
+"train",2451778,"Control",0
+"train",2455554,"Control",0
+"train",2455777,"Control",0
+"train",2456456,"Control",0
+"train",2462187,"Colon Cancer",1
+"train",2462812,"Control",0
+"train",2462907,"Control",0
+"train",2467861,"Control",0
+"train",2471864,"Colon Cancer",1
+"train",2472394,"Colon Cancer",1
+"train",2475433,"Colon Cancer",1
+"train",2479618,"Colon Cancer",1
+"train",2481212,"Control",0
+"train",2482072,"Colon Cancer",1
+"train",2491346,"Control",0
+"train",2492293,"Colon Cancer",1
+"train",2494283,"Colon Cancer",1
+"train",2494646,"Control",0
+"train",2495496,"Control",0
+"train",2500082,"Control",0
+"train",2506887,"Control",0
+"train",2507705,"Control",0
+"train",2511808,"Control",0
+"train",2515412,"Colon Cancer",1
+"train",2516090,"Control",0
+"train",2517503,"Control",0
+"train",2522688,"Control",0
+"train",2525324,"Colon Cancer",1
+"train",2530809,"Colon Cancer",1
+"train",2531429,"Colon Cancer",1
+"train",2531470,"Colon Cancer",1
+"train",2534065,"Colon Cancer",1
+"train",2535478,"Control",0
+"train",2535955,"Colon Cancer",1
+"train",2539025,"Colon Cancer",1
+"train",2544017,"Control",0
+"train",2550873,"Colon Cancer",1
+"train",2551798,"Colon Cancer",1
+"train",2553319,"Colon Cancer",1
+"train",2556242,"Colon Cancer",1
+"train",2559980,"Control",0
+"train",2560023,"Colon Cancer",1
+"train",2560167,"Colon Cancer",1
+"train",2560868,"Control",0
+"train",2565568,"Colon Cancer",1
+"train",2566083,"Colon Cancer",1
+"train",2566667,"Colon Cancer",1
+"train",2567002,"Control",0
+"train",2568382,"Control",0
+"train",2574925,"Control",0
+"train",2575831,"Control",0
+"train",2585167,"Control",0
+"train",2586257,"Colon Cancer",1
+"train",2588777,"Colon Cancer",1
+"train",2590780,"Control",0
+"train",2591717,"Control",0
+"train",2593775,"Colon Cancer",1
+"train",2595614,"Colon Cancer",1
+"train",2595692,"Control",0
+"train",2595827,"Colon Cancer",1
+"train",2596456,"Control",0
+"train",2597568,"Control",0
+"train",2602886,"Colon Cancer",1
+"train",2603024,"Colon Cancer",1
+"train",2605336,"Control",0
+"train",2606014,"Colon Cancer",1
+"train",2606199,"Colon Cancer",1
+"train",2609377,"Control",0
+"train",2612325,"Colon Cancer",1
+"train",2614292,"Colon Cancer",1
+"train",2618426,"Control",0
+"train",2618788,"Control",0
+"train",2624586,"Colon Cancer",1
+"train",2626304,"Control",0
+"train",2626595,"Colon Cancer",1
+"train",2626711,"Control",0
+"train",2629526,"Colon Cancer",1
+"train",2632550,"Control",0
+"train",2633132,"Colon Cancer",1
+"train",2633467,"Colon Cancer",1
+"train",2634213,"Colon Cancer",1
+"train",2637369,"Control",0
+"train",2641035,"Colon Cancer",1
+"train",2645332,"Control",0
+"train",2645597,"Control",0
+"train",2645605,"Colon Cancer",1
+"train",2650405,"Colon Cancer",1
+"train",2650824,"Colon Cancer",1
+"train",2651275,"Control",0
+"train",2652612,"Control",0
+"train",2652936,"Colon Cancer",1
+"train",2653201,"Control",0
+"train",2653690,"Colon Cancer",1
+"train",2656519,"Colon Cancer",1
+"train",2659011,"Control",0
+"train",2660362,"Control",0
+"train",2660803,"Colon Cancer",1
+"train",2662682,"Colon Cancer",1
+"train",2662831,"Colon Cancer",1
+"train",2662879,"Control",0
+"train",2666885,"Colon Cancer",1
+"train",2667486,"Colon Cancer",1
+"train",2671317,"Control",0
+"train",2671653,"Colon Cancer",1
+"train",2674774,"Colon Cancer",1
+"train",2675530,"Control",0
+"train",2677030,"Control",0
+"train",2677757,"Control",0
+"train",2678681,"Colon Cancer",1
+"train",2680298,"Colon Cancer",1
+"train",2682275,"Colon Cancer",1
+"train",2682772,"Colon Cancer",1
+"train",2682916,"Colon Cancer",1
+"train",2683160,"Colon Cancer",1
+"train",2683637,"Colon Cancer",1
+"train",2685533,"Control",0
+"train",2686703,"Control",0
+"train",2687334,"Colon Cancer",1
+"train",2687739,"Colon Cancer",1
+"train",2688790,"Control",0
+"train",2690322,"Control",0
+"train",2690903,"Colon Cancer",1
+"train",2691064,"Colon Cancer",1
+"train",2694703,"Control",0
+"train",2700242,"Colon Cancer",1
+"train",2712657,"Colon Cancer",1
+"train",2718733,"Colon Cancer",1
+"train",2721792,"Colon Cancer",1
+"train",2725412,"Control",0
+"train",2730686,"Control",0
+"train",2735001,"Control",0
+"train",2736377,"Control",0
+"train",2736607,"Colon Cancer",1
+"train",2747577,"Control",0
+"train",2749121,"Control",0
+"train",2751359,"Control",0
+"train",2752202,"Colon Cancer",1
+"train",2755729,"Colon Cancer",1
+"train",2758084,"Control",0
+"train",2761811,"Colon Cancer",1
+"train",2766004,"Control",0
+"train",2766295,"Colon Cancer",1
+"train",2766857,"Colon Cancer",1
+"train",2767089,"Control",0
+"train",2769366,"Control",0
+"train",2770221,"Control",0
+"train",2772364,"Colon Cancer",1
+"train",2775293,"Colon Cancer",1
+"train",2780309,"Control",0
+"train",2781317,"Colon Cancer",1
+"train",2781969,"Colon Cancer",1
+"train",2782838,"Control",0
+"train",2786876,"Control",0
+"train",2788000,"Colon Cancer",1
+"train",2788089,"Colon Cancer",1
+"train",2790199,"Control",0
+"train",2795760,"Colon Cancer",1
+"train",2796196,"Control",0
+"train",2796951,"Control",0
+"train",2799277,"Control",0
+"train",2799525,"Colon Cancer",1
+"train",2802703,"Control",0
+"train",2803434,"Control",0
+"train",2804353,"Control",0
+"train",2805767,"Colon Cancer",1
+"train",2812402,"Colon Cancer",1
+"train",2815395,"Colon Cancer",1
+"train",2816719,"Colon Cancer",1
+"train",2817142,"Colon Cancer",1
+"train",2821488,"Control",0
+"train",2822705,"Colon Cancer",1
+"train",2822712,"Control",0
+"train",2831550,"Colon Cancer",1
+"train",2832148,"Colon Cancer",1
+"train",2833582,"Colon Cancer",1
+"train",2835785,"Control",0
+"train",2839531,"Colon Cancer",1
+"train",2842984,"Colon Cancer",1
+"train",2843926,"Colon Cancer",1
+"train",2847215,"Colon Cancer",1
+"train",2848689,"Colon Cancer",1
+"train",2849469,"Control",0
+"train",2853716,"Control",0
+"train",2856291,"Colon Cancer",1
+"train",2858048,"Colon Cancer",1
+"train",2861241,"Colon Cancer",1
+"train",2861328,"Colon Cancer",1
+"train",2861956,"Control",0
+"train",2865626,"Control",0
+"train",2865789,"Control",0
+"train",2867389,"Control",0
+"train",2867751,"Control",0
+"train",2869871,"Control",0
+"train",2874524,"Colon Cancer",1
+"train",2875399,"Colon Cancer",1
+"train",2876685,"Colon Cancer",1
+"train",2877861,"Control",0
+"train",2878223,"Colon Cancer",1
+"train",2878955,"Control",0
+"train",2882765,"Control",0
+"train",2885686,"Control",0
+"train",2887440,"Colon Cancer",1
+"train",2889817,"Control",0
+"train",2890260,"Colon Cancer",1
+"train",2890276,"Colon Cancer",1
+"train",2896574,"Colon Cancer",1
+"train",2900826,"Control",0
+"train",2902043,"Control",0
+"train",2903767,"Control",0
+"train",2907382,"Colon Cancer",1
+"train",2908187,"Control",0
+"train",2909504,"Control",0
+"train",2910654,"Control",0
+"train",2911549,"Colon Cancer",1
+"train",2913595,"Control",0
+"train",2913803,"Colon Cancer",1
+"train",2916757,"Control",0
+"train",2917106,"Colon Cancer",1
+"train",2918230,"Control",0
+"train",2922825,"Control",0
+"train",2922912,"Control",0
+"train",2924579,"Colon Cancer",1
+"train",2930319,"Colon Cancer",1
+"train",2932598,"Colon Cancer",1
+"train",2932748,"Colon Cancer",1
+"train",2933202,"Control",0
+"train",2933926,"Control",0
+"train",2936414,"Colon Cancer",1
+"train",2937561,"Control",0
+"train",2938341,"Control",0
+"train",2941845,"Colon Cancer",1
+"train",2945266,"Colon Cancer",1
+"train",2945436,"Colon Cancer",1
+"train",2946077,"Control",0
+"train",2947453,"Control",0
+"train",2948399,"Colon Cancer",1
+"train",2949171,"Colon Cancer",1
+"train",2951451,"Colon Cancer",1
+"train",2952191,"Colon Cancer",1
+"train",2952215,"Colon Cancer",1
+"train",2954524,"Colon Cancer",1
+"train",2956917,"Control",0
+"train",2959752,"Colon Cancer",1
+"train",2959906,"Colon Cancer",1
+"train",2960048,"Colon Cancer",1
+"train",2963075,"Colon Cancer",1
+"train",2967150,"Colon Cancer",1
+"train",2971146,"Colon Cancer",1
+"train",2973576,"Control",0
+"train",2975921,"Colon Cancer",1
+"train",2976007,"Colon Cancer",1
+"train",2976443,"Control",0
+"train",2977643,"Control",0
+"train",2979071,"Colon Cancer",1
+"train",2980369,"Colon Cancer",1
+"train",2981208,"Colon Cancer",1
+"train",2982353,"Colon Cancer",1
+"train",2983997,"Control",0
+"train",2984564,"Colon Cancer",1
+"train",2986224,"Colon Cancer",1
+"train",2987814,"Control",0
+"train",2988431,"Control",0
+"train",2990117,"Control",0
+"train",2992398,"Colon Cancer",1
+"train",2993606,"Control",0
+"train",2994663,"Control",0
+"train",2994760,"Control",0
+"train",2996308,"Colon Cancer",1
+"train",2997768,"Control",0
+"train",2998007,"Colon Cancer",1
+"train",3000943,"Control",0
+"train",3001210,"Colon Cancer",1
+"train",3002843,"Colon Cancer",1
+"train",3006178,"Colon Cancer",1
+"train",3006911,"Colon Cancer",1
+"train",3009594,"Control",0
+"train",3011656,"Colon Cancer",1
+"train",3016345,"Control",0
+"train",3019780,"Colon Cancer",1
+"train",3023975,"Colon Cancer",1
+"train",3025213,"Colon Cancer",1
+"train",3026732,"Control",0
+"train",3027033,"Colon Cancer",1
+"train",3030233,"Control",0
+"train",3034246,"Control",0
+"train",3045079,"Colon Cancer",1
+"train",3047514,"Control",0
+"train",3047617,"Colon Cancer",1
+"train",3048578,"Colon Cancer",1
+"train",3057362,"Control",0
+"train",3058064,"Control",0
+"train",3058542,"Colon Cancer",1
+"train",3059523,"Colon Cancer",1
+"train",3060196,"Control",0
+"train",3063828,"Control",0
+"train",3074194,"Colon Cancer",1
+"train",3076089,"Colon Cancer",1
+"train",3078758,"Colon Cancer",1
+"train",3082305,"Control",0
+"train",3083126,"Control",0
+"train",3087174,"Colon Cancer",1
+"train",3087257,"Colon Cancer",1
+"train",3088074,"Colon Cancer",1
+"train",3088090,"Colon Cancer",1
+"train",3091572,"Colon Cancer",1
+"train",3092261,"Control",0
+"train",3092986,"Control",0
+"train",3098149,"Control",0
+"train",3098236,"Colon Cancer",1
+"train",3102349,"Colon Cancer",1
+"train",3107698,"Colon Cancer",1
+"train",3107972,"Colon Cancer",1
+"train",3110627,"Control",0
+"train",3111413,"Control",0
+"train",3120573,"Colon Cancer",1
+"train",3123293,"Control",0
+"train",3130104,"Colon Cancer",1
+"train",3132020,"Colon Cancer",1
+"train",3135870,"Colon Cancer",1
+"train",3137697,"Colon Cancer",1
+"train",3139826,"Colon Cancer",1
+"train",3147491,"Control",0
+"train",3151417,"Colon Cancer",1
+"train",3153727,"Control",0
+"train",3159581,"Colon Cancer",1
+"train",3164261,"Colon Cancer",1
+"train",3165245,"Colon Cancer",1
+"train",3166090,"Colon Cancer",1
+"train",3166357,"Colon Cancer",1
+"train",3170207,"Colon Cancer",1
+"train",3173592,"Colon Cancer",1
+"train",3173836,"Control",0
+"train",3174871,"Colon Cancer",1
+"train",3175400,"Colon Cancer",1
+"train",3175461,"Colon Cancer",1
+"train",3178389,"Colon Cancer",1
+"train",3179485,"Colon Cancer",1
+"train",3182240,"Colon Cancer",1
+"train",3186178,"Colon Cancer",1
+"train",3186853,"Colon Cancer",1
+"train",3187539,"Colon Cancer",1
+"train",3190078,"Colon Cancer",1
+"train",3190690,"Colon Cancer",1
+"train",3191465,"Colon Cancer",1
+"train",3191710,"Colon Cancer",1
+"train",3193634,"Colon Cancer",1
+"train",3195411,"Colon Cancer",1
+"train",3196107,"Control",0
+"train",3197382,"Control",0
+"train",3198352,"Control",0
+"train",3199953,"Colon Cancer",1
+"train",3202010,"Control",0
+"train",3202044,"Colon Cancer",1
+"train",3205953,"Control",0
+"train",3207823,"Colon Cancer",1
+"train",3208492,"Control",0
+"train",3211620,"Colon Cancer",1
+"train",3217639,"Colon Cancer",1
+"train",3218793,"Control",0
+"train",3218811,"Control",0
+"train",3228174,"Colon Cancer",1
+"train",3229280,"Colon Cancer",1
+"train",3230001,"Colon Cancer",1
+"train",3231887,"Colon Cancer",1
+"train",3232659,"Control",0
+"train",3233366,"Colon Cancer",1
+"train",3233370,"Colon Cancer",1
+"train",3234230,"Colon Cancer",1
+"train",3239893,"Colon Cancer",1
+"train",3240731,"Colon Cancer",1
+"train",3243956,"Colon Cancer",1
+"train",3244992,"Control",0
+"train",3253460,"Colon Cancer",1
+"train",3255512,"Control",0
+"train",3256188,"Colon Cancer",1
+"train",3256398,"Colon Cancer",1
+"train",3261138,"Control",0
+"train",3261214,"Colon Cancer",1
+"train",3265173,"Colon Cancer",1
+"train",3267270,"Colon Cancer",1
+"train",3268985,"Colon Cancer",1
+"train",3269563,"Colon Cancer",1
+"train",3269934,"Colon Cancer",1
+"train",3271780,"Control",0
+"train",3272716,"Colon Cancer",1
+"train",3280078,"Control",0
+"train",3280869,"Colon Cancer",1
+"train",3284997,"Colon Cancer",1
+"train",3285264,"Colon Cancer",1
+"train",3289687,"Control",0
+"train",3291929,"Colon Cancer",1
+"train",3294972,"Control",0
+"train",3300014,"Control",0
+"train",3303247,"Control",0
+"train",3304504,"Colon Cancer",1
+"train",3307448,"Colon Cancer",1
+"train",3308234,"Colon Cancer",1
+"train",3309647,"Colon Cancer",1
+"train",3310925,"Colon Cancer",1
+"train",3311641,"Colon Cancer",1
+"train",3311958,"Colon Cancer",1
+"train",3313180,"Control",0
+"train",3315269,"Colon Cancer",1
+"train",3318089,"Colon Cancer",1
+"train",3320171,"Colon Cancer",1
+"train",3320689,"Colon Cancer",1
+"train",3320985,"Colon Cancer",1
+"train",3323127,"Colon Cancer",1
+"train",3328833,"Colon Cancer",1
+"train",3331648,"Control",0
+"train",3335696,"Colon Cancer",1
+"train",3339106,"Control",0
+"train",3341714,"Control",0
+"train",3343265,"Control",0
+"train",3344235,"Colon Cancer",1
+"train",3351849,"Control",0
+"train",3351907,"Colon Cancer",1
+"train",3358964,"Colon Cancer",1
+"train",3361708,"Colon Cancer",1
+"train",3364869,"Colon Cancer",1
+"train",3371067,"Colon Cancer",1
+"train",3376145,"Control",0
+"train",3377054,"Colon Cancer",1
+"train",3377844,"Colon Cancer",1
+"train",3389267,"Colon Cancer",1
+"train",3392049,"Colon Cancer",1
+"train",3408980,"Control",0
+"train",3415208,"Colon Cancer",1
+"train",3421546,"Control",0
+"train",3427751,"Control",0
+"train",3428703,"Control",0
+"train",3430487,"Colon Cancer",1
+"train",3434017,"Control",0
+"train",3443600,"Control",0
+"train",3443872,"Colon Cancer",1
+"train",3445612,"Colon Cancer",1
+"train",3446522,"Colon Cancer",1
+"train",3448109,"Colon Cancer",1
+"train",3451226,"Colon Cancer",1
+"train",3451854,"Control",0
+"train",3452375,"Colon Cancer",1
+"train",3452716,"Colon Cancer",1
+"train",3454241,"Colon Cancer",1
+"train",3455043,"Colon Cancer",1
+"train",3455712,"Control",0
+"train",3456051,"Colon Cancer",1
+"train",3459028,"Control",0
+"train",3459261,"Colon Cancer",1
+"train",3461791,"Colon Cancer",1
+"train",3464277,"Control",0
+"train",3464336,"Control",0
+"train",3468033,"Colon Cancer",1
+"train",3468059,"Colon Cancer",1
+"train",3468578,"Control",0
+"train",3469386,"Control",0
+"train",3470126,"Colon Cancer",1
+"train",3472347,"Colon Cancer",1
+"train",3475697,"Colon Cancer",1
+"train",3477866,"Control",0
+"train",3486200,"Colon Cancer",1
+"train",3486515,"Control",0
+"train",3489487,"Control",0
+"train",3490580,"Colon Cancer",1
+"train",3492035,"Colon Cancer",1
+"train",3492547,"Colon Cancer",1
+"train",3493387,"Control",0
+"train",3495646,"Colon Cancer",1
+"train",3496652,"Control",0
+"train",3503639,"Control",0
+"train",3503820,"Colon Cancer",1
+"train",3505505,"Colon Cancer",1
+"train",3510581,"Colon Cancer",1
+"train",3511650,"Colon Cancer",1
+"train",3512468,"Colon Cancer",1
+"train",3512717,"Colon Cancer",1
+"train",3515347,"Colon Cancer",1
+"train",3521905,"Colon Cancer",1
+"train",3523551,"Control",0
+"train",3524620,"Colon Cancer",1
+"train",3529754,"Control",0
+"train",3530056,"Colon Cancer",1
+"train",3532023,"Control",0
+"train",3533177,"Control",0
+"train",3536425,"Colon Cancer",1
+"train",3539921,"Colon Cancer",1
+"train",3542007,"Colon Cancer",1
+"train",3542340,"Colon Cancer",1
+"train",3544793,"Control",0
+"train",3545017,"Colon Cancer",1
+"train",3545127,"Control",0
+"train",3545272,"Control",0
+"train",3546222,"Control",0
+"train",3551960,"Colon Cancer",1
+"train",3554624,"Control",0
+"train",3563620,"Colon Cancer",1
+"train",3564573,"Colon Cancer",1
+"train",3565373,"Control",0
+"train",3566466,"Colon Cancer",1
+"train",3566875,"Colon Cancer",1
+"train",3566965,"Colon Cancer",1
+"train",3571184,"Colon Cancer",1
+"train",3574438,"Control",0
+"train",3575909,"Colon Cancer",1
+"train",3577314,"Control",0
+"train",3577947,"Control",0
+"train",3578015,"Control",0
+"train",3582444,"Control",0
+"train",3582542,"Colon Cancer",1
+"train",3583026,"Colon Cancer",1
+"train",3584544,"Colon Cancer",1
+"train",3587726,"Colon Cancer",1
+"train",3592576,"Colon Cancer",1
+"train",3592999,"Control",0
+"train",3597722,"Colon Cancer",1
+"train",3601465,"Control",0
+"train",3601825,"Colon Cancer",1
+"train",3602152,"Control",0
+"train",3607646,"Colon Cancer",1
+"train",3612759,"Colon Cancer",1
+"train",3614103,"Colon Cancer",1
+"train",3614345,"Colon Cancer",1
+"train",3616122,"Colon Cancer",1
+"train",3617055,"Colon Cancer",1
+"train",3617420,"Colon Cancer",1
+"train",3619406,"Colon Cancer",1
+"train",3620229,"Colon Cancer",1
+"train",3622384,"Colon Cancer",1
+"train",3624962,"Colon Cancer",1
+"train",3626080,"Colon Cancer",1
+"train",3626929,"Colon Cancer",1
+"train",3628803,"Control",0
+"train",3631446,"Colon Cancer",1
+"train",3633134,"Colon Cancer",1
+"train",3634398,"Control",0
+"train",3639525,"Colon Cancer",1
+"train",3644560,"Colon Cancer",1
+"train",3648997,"Colon Cancer",1
+"train",3651996,"Control",0
+"train",3655285,"Colon Cancer",1
+"train",3658528,"Colon Cancer",1
+"train",3659619,"Colon Cancer",1
+"train",3660746,"Colon Cancer",1
+"train",3662027,"Control",0
+"train",3664460,"Colon Cancer",1
+"train",3668247,"Colon Cancer",1
+"train",3674196,"Colon Cancer",1
+"train",3674492,"Colon Cancer",1
+"train",3674732,"Colon Cancer",1
+"train",3676462,"Colon Cancer",1
+"train",3676767,"Colon Cancer",1
+"train",3676817,"Colon Cancer",1
+"train",3680664,"Colon Cancer",1
+"train",3680747,"Control",0
+"train",3681424,"Colon Cancer",1
+"train",3682026,"Colon Cancer",1
+"train",3682451,"Control",0
+"train",3684025,"Colon Cancer",1
+"train",3685290,"Colon Cancer",1
+"train",3685941,"Colon Cancer",1
+"train",3687300,"Colon Cancer",1
+"train",3690030,"Colon Cancer",1
+"train",3692013,"Colon Cancer",1
+"train",3692225,"Colon Cancer",1
+"train",3694255,"Colon Cancer",1
+"train",3698893,"Colon Cancer",1
+"train",3701179,"Colon Cancer",1
+"train",3701468,"Colon Cancer",1
+"train",3704190,"Colon Cancer",1
+"train",3705187,"Colon Cancer",1
+"train",3705665,"Colon Cancer",1
+"train",3711672,"Colon Cancer",1
+"train",3712524,"Colon Cancer",1
+"train",3712987,"Colon Cancer",1
+"train",3714829,"Colon Cancer",1
+"train",3715057,"Colon Cancer",1
+"train",3715922,"Colon Cancer",1
+"train",3719207,"Colon Cancer",1
+"train",3719834,"Colon Cancer",1
+"train",3723589,"Colon Cancer",1
+"train",3724408,"Colon Cancer",1
+"train",3725431,"Colon Cancer",1
+"train",3726412,"Colon Cancer",1
+"train",3730436,"Control",0
+"train",3730631,"Colon Cancer",1
+"train",3735505,"Colon Cancer",1
+"train",3738105,"Colon Cancer",1
+"train",3741195,"Control",0
+"train",3744043,"Colon Cancer",1
+"train",3744969,"Colon Cancer",1
+"train",3747462,"Colon Cancer",1
+"train",3748821,"Control",0
+"train",3752620,"Colon Cancer",1
+"train",3753962,"Control",0
+"train",3754503,"Colon Cancer",1
+"train",3758152,"Colon Cancer",1
+"train",3759232,"Colon Cancer",1
+"train",3768307,"Colon Cancer",1
+"train",3769200,"Control",0
+"train",3769371,"Colon Cancer",1
+"train",3771478,"Colon Cancer",1
+"train",3771784,"Control",0
+"train",3772232,"Control",0
+"train",3774941,"Colon Cancer",1
+"train",3779355,"Colon Cancer",1
+"train",3783733,"Control",0
+"train",3784395,"Control",0
+"train",3785315,"Colon Cancer",1
+"train",3786129,"Control",0
+"train",3787409,"Colon Cancer",1
+"train",3791187,"Colon Cancer",1
+"train",3795179,"Colon Cancer",1
+"train",3795691,"Colon Cancer",1
+"train",3804009,"Control",0
+"train",3805102,"Colon Cancer",1
+"train",3807155,"Control",0
+"train",3809047,"Colon Cancer",1
+"train",3809294,"Control",0
+"train",3812340,"Control",0
+"train",3814433,"Colon Cancer",1
+"train",3818171,"Control",0
+"train",3826229,"Control",0
+"train",3829025,"Colon Cancer",1
+"train",3829232,"Colon Cancer",1
+"train",3831203,"Colon Cancer",1
+"train",3832901,"Colon Cancer",1
+"train",3833061,"Colon Cancer",1
+"train",3834282,"Colon Cancer",1
+"train",3842211,"Control",0
+"train",3844056,"Colon Cancer",1
+"train",3853589,"Colon Cancer",1
+"train",3856617,"Control",0
+"train",3857972,"Colon Cancer",1
+"train",3862009,"Control",0
+"train",3868453,"Colon Cancer",1
+"train",3870105,"Colon Cancer",1
+"train",3880854,"Colon Cancer",1
+"train",3881953,"Colon Cancer",1
+"train",3887267,"Colon Cancer",1
+"train",3889977,"Control",0
+"train",3891394,"Colon Cancer",1
+"train",3892328,"Colon Cancer",1
+"train",3892864,"Colon Cancer",1
+"train",3894021,"Colon Cancer",1
+"train",3897019,"Colon Cancer",1
+"train",3900001,"Colon Cancer",1
+"train",3906546,"Control",0
+"train",3906963,"Colon Cancer",1
+"train",3917645,"Colon Cancer",1
+"train",3917652,"Control",0
+"train",3918344,"Colon Cancer",1
+"train",3923041,"Colon Cancer",1
+"train",3925678,"Control",0
+"train",3926269,"Colon Cancer",1
+"train",3926713,"Colon Cancer",1
+"train",3942206,"Colon Cancer",1
+"train",3944692,"Colon Cancer",1
+"train",3948497,"Colon Cancer",1
+"train",3957939,"Control",0
+"train",3959420,"Colon Cancer",1
+"train",3962079,"Colon Cancer",1
+"train",3965743,"Colon Cancer",1
+"train",3967173,"Colon Cancer",1
+"train",3967408,"Colon Cancer",1
+"train",3969211,"Control",0
+"train",3973535,"Control",0
+"train",3974385,"Colon Cancer",1
+"train",3976405,"Colon Cancer",1
+"train",3986953,"Colon Cancer",1
+"train",3988343,"Colon Cancer",1
+"train",3993216,"Colon Cancer",1
+"train",3997208,"Colon Cancer",1
+"train",4000316,"Control",0
+"train",4000881,"Control",0
+"train",4002144,"Colon Cancer",1
+"train",4002718,"Control",0
+"train",4006884,"Colon Cancer",1
+"train",4011386,"Control",0
+"train",4011550,"Colon Cancer",1
+"train",4015095,"Colon Cancer",1
+"train",4018563,"Colon Cancer",1
+"train",4020029,"Colon Cancer",1
+"train",4027823,"Colon Cancer",1
+"train",4029946,"Colon Cancer",1
+"train",4032754,"Control",0
+"train",4033721,"Control",0
+"train",4034213,"Colon Cancer",1
+"train",4036836,"Colon Cancer",1
+"train",4041642,"Colon Cancer",1
+"train",4044251,"Control",0
+"train",4047874,"Colon Cancer",1
+"train",4048857,"Colon Cancer",1
+"train",4049226,"Colon Cancer",1
+"train",4054110,"Colon Cancer",1
+"train",4062259,"Colon Cancer",1
+"train",4063772,"Control",0
+"train",4066850,"Control",0
+"train",4068614,"Colon Cancer",1
+"train",4072699,"Colon Cancer",1
+"train",4074918,"Control",0
+"train",4074921,"Colon Cancer",1
+"train",4075984,"Colon Cancer",1
+"train",4082244,"Colon Cancer",1
+"train",4084632,"Colon Cancer",1
+"train",4086465,"Colon Cancer",1
+"train",4086529,"Colon Cancer",1
+"train",4089538,"Colon Cancer",1
+"train",4096379,"Colon Cancer",1
+"train",4109590,"Colon Cancer",1
+"train",4115306,"Colon Cancer",1
+"train",4118255,"Colon Cancer",1
+"train",4128816,"Colon Cancer",1
+"train",4130127,"Colon Cancer",1
+"train",4131973,"Colon Cancer",1
+"train",4132786,"Colon Cancer",1
+"train",4138827,"Colon Cancer",1
+"train",4140096,"Colon Cancer",1
+"train",4140712,"Colon Cancer",1
+"train",4142625,"Colon Cancer",1
+"train",4152540,"Colon Cancer",1
+"train",4158359,"Colon Cancer",1
+"train",4158537,"Colon Cancer",1
+"train",4164022,"Colon Cancer",1
+"train",4166600,"Control",0
+"train",4167896,"Colon Cancer",1
+"train",4169128,"Control",0
+"train",4173097,"Colon Cancer",1
+"train",4177571,"Colon Cancer",1
+"train",4186497,"Colon Cancer",1
+"train",4189482,"Colon Cancer",1
+"train",4193133,"Colon Cancer",1
+"train",4197289,"Colon Cancer",1
+"train",4199893,"Colon Cancer",1
+"train",4200827,"Control",0
+"train",4200830,"Colon Cancer",1
+"train",4211307,"Colon Cancer",1
+"train",4212778,"Colon Cancer",1
+"train",4220429,"Colon Cancer",1
+"train",4225374,"Control",0
+"train",4230660,"Control",0
+"train",4233457,"Colon Cancer",1
+"train",4233998,"Control",0
+"train",4234597,"Colon Cancer",1
+"train",4235397,"Colon Cancer",1
+"train",4238243,"Colon Cancer",1
+"train",4255498,"Control",0
+"train",4257741,"Colon Cancer",1
+"train",4259103,"Colon Cancer",1
+"train",4267050,"Control",0
+"train",4267490,"Control",0
+"train",4272472,"Control",0
+"train",4280290,"Colon Cancer",1
+"train",4281186,"Colon Cancer",1
+"train",4281797,"Colon Cancer",1
+"train",4285913,"Colon Cancer",1
+"train",4287423,"Colon Cancer",1
+"train",4288300,"Control",0
+"train",4295879,"Control",0
+"train",4300435,"Control",0
+"train",4304129,"Colon Cancer",1
+"train",4307259,"Control",0
+"train",4307944,"Colon Cancer",1
+"train",4315790,"Colon Cancer",1
+"train",4315836,"Colon Cancer",1
+"train",4328784,"Colon Cancer",1
+"train",4346427,"Colon Cancer",1
+"train",4349354,"Colon Cancer",1
+"train",4354405,"Colon Cancer",1
+"train",4356876,"Colon Cancer",1
+"train",4358046,"Colon Cancer",1
+"train",4358533,"Colon Cancer",1
+"train",4359332,"Colon Cancer",1
+"train",4360428,"Colon Cancer",1
+"train",4361759,"Colon Cancer",1
+"train",4365385,"Colon Cancer",1
+"train",4367311,"Colon Cancer",1
+"train",4367352,"Colon Cancer",1
+"train",4368725,"Colon Cancer",1
+"train",4371038,"Colon Cancer",1
+"train",4379254,"Colon Cancer",1
+"train",4384659,"Colon Cancer",1
+"train",4386627,"Colon Cancer",1
+"train",4390933,"Colon Cancer",1
+"train",4396419,"Colon Cancer",1
+"train",4396958,"Colon Cancer",1
+"train",4397760,"Control",0
+"train",4399918,"Control",0
+"train",4406387,"Colon Cancer",1
+"train",4407245,"Colon Cancer",1
+"train",4409416,"Control",0
+"train",4413173,"Colon Cancer",1
+"train",4414144,"Control",0
+"train",4415043,"Colon Cancer",1
+"train",4420743,"Colon Cancer",1
+"train",4423871,"Colon Cancer",1
+"train",4431627,"Control",0
+"train",4432701,"Colon Cancer",1
+"train",4438523,"Colon Cancer",1
+"train",4439740,"Colon Cancer",1
+"train",4442251,"Control",0
+"train",4445309,"Colon Cancer",1
+"train",4445546,"Colon Cancer",1
+"train",4460876,"Control",0
+"train",4467254,"Colon Cancer",1
+"train",4468857,"Colon Cancer",1
+"train",4471563,"Colon Cancer",1
+"train",4473733,"Colon Cancer",1
+"train",4473885,"Colon Cancer",1
+"train",4484056,"Colon Cancer",1
+"train",4486690,"Colon Cancer",1
+"train",4486875,"Colon Cancer",1
+"train",4487926,"Colon Cancer",1
+"train",4488293,"Control",0
+"train",4491136,"Colon Cancer",1
+"train",4499043,"Colon Cancer",1
+"train",4500831,"Colon Cancer",1
+"train",4505646,"Colon Cancer",1
+"train",4508669,"Colon Cancer",1
+"train",4510445,"Colon Cancer",1
+"train",4514420,"Colon Cancer",1
+"train",4516293,"Control",0
+"train",4521826,"Colon Cancer",1
+"train",4525583,"Control",0
+"train",4530032,"Colon Cancer",1
+"train",4532142,"Control",0
+"train",4538411,"Colon Cancer",1
+"train",4546127,"Control",0
+"train",4554906,"Colon Cancer",1
+"train",4557142,"Colon Cancer",1
+"train",4559888,"Colon Cancer",1
+"train",4563847,"Colon Cancer",1
+"train",4564678,"Control",0
+"train",4570931,"Colon Cancer",1
+"train",4575802,"Colon Cancer",1
+"train",4578175,"Colon Cancer",1
+"train",4578294,"Colon Cancer",1
+"train",4579722,"Colon Cancer",1
+"train",4579852,"Colon Cancer",1
+"train",4582251,"Colon Cancer",1
+"train",4582319,"Control",0
+"train",4586062,"Colon Cancer",1
+"train",4588410,"Control",0
+"train",4590648,"Colon Cancer",1
+"train",4597652,"Colon Cancer",1
+"train",4597893,"Colon Cancer",1
+"train",4598821,"Colon Cancer",1
+"train",4602218,"Colon Cancer",1
+"train",4603228,"Colon Cancer",1
+"train",4603394,"Colon Cancer",1
+"train",4610508,"Colon Cancer",1
+"train",4611058,"Colon Cancer",1
+"train",4616079,"Colon Cancer",1
+"train",4616662,"Colon Cancer",1
+"train",4618509,"Colon Cancer",1
+"train",4619803,"Colon Cancer",1
+"train",4620202,"Colon Cancer",1
+"train",4620463,"Colon Cancer",1
+"train",4627871,"Colon Cancer",1
+"train",4637666,"Colon Cancer",1
+"train",4640742,"Colon Cancer",1
+"train",4642818,"Colon Cancer",1
+"train",4642999,"Colon Cancer",1
+"train",4644132,"Colon Cancer",1
+"train",4646410,"Control",0
+"train",4646695,"Colon Cancer",1
+"train",4647550,"Colon Cancer",1
+"train",4657245,"Colon Cancer",1
+"train",4660549,"Colon Cancer",1
+"train",4662124,"Colon Cancer",1
+"train",4663011,"Control",0
+"train",4665413,"Colon Cancer",1
+"train",4672845,"Colon Cancer",1
+"train",4678081,"Colon Cancer",1
+"train",4679903,"Colon Cancer",1
+"train",4680084,"Colon Cancer",1
+"train",4682104,"Colon Cancer",1
+"train",4686123,"Colon Cancer",1
+"train",4691041,"Colon Cancer",1
+"train",4693389,"Colon Cancer",1
+"train",4695035,"Colon Cancer",1
+"train",4696028,"Colon Cancer",1
+"train",4704743,"Colon Cancer",1
+"train",4713394,"Colon Cancer",1
+"train",4721528,"Colon Cancer",1
+"train",4723393,"Colon Cancer",1
+"train",4725656,"Colon Cancer",1
+"train",4728120,"Colon Cancer",1
+"train",4730111,"Colon Cancer",1
+"train",4739294,"Colon Cancer",1
+"train",4739328,"Colon Cancer",1
+"train",4750496,"Colon Cancer",1
+"train",4754936,"Colon Cancer",1
+"train",4755169,"Colon Cancer",1
+"train",4756300,"Colon Cancer",1
+"train",4765723,"Colon Cancer",1
+"train",4772725,"Colon Cancer",1
+"train",4776362,"Colon Cancer",1
+"train",4780049,"Colon Cancer",1
+"train",4782099,"Colon Cancer",1
+"train",4784267,"Colon Cancer",1
+"train",4784396,"Colon Cancer",1
+"train",4785440,"Colon Cancer",1
+"train",4786813,"Colon Cancer",1
+"train",4788724,"Colon Cancer",1
+"train",4789823,"Colon Cancer",1
+"train",4791111,"Colon Cancer",1
+"train",4795038,"Colon Cancer",1
+"train",4802577,"Colon Cancer",1
+"train",4803938,"Colon Cancer",1
+"train",4804516,"Colon Cancer",1
+"train",4805060,"Control",0
+"train",4806133,"Colon Cancer",1
+"train",4808443,"Colon Cancer",1
+"train",4812228,"Colon Cancer",1
+"train",4817389,"Colon Cancer",1
+"train",4820081,"Colon Cancer",1
+"train",4820291,"Colon Cancer",1
+"train",4822006,"Colon Cancer",1
+"train",4825849,"Colon Cancer",1
+"train",4828218,"Colon Cancer",1
+"train",4829756,"Colon Cancer",1
+"train",4830699,"Colon Cancer",1
+"train",4831234,"Colon Cancer",1
+"train",4832071,"Colon Cancer",1
+"train",4833722,"Colon Cancer",1
+"train",4837331,"Colon Cancer",1
+"train",4838326,"Colon Cancer",1
+"train",4841335,"Colon Cancer",1
+"train",4856009,"Colon Cancer",1
+"train",4867023,"Colon Cancer",1
+"train",4867180,"Colon Cancer",1
+"train",4867434,"Colon Cancer",1
+"train",4867604,"Colon Cancer",1
+"train",4870157,"Colon Cancer",1
+"train",4875509,"Control",0
+"train",4876805,"Colon Cancer",1
+"train",4883810,"Colon Cancer",1
+"train",4885346,"Colon Cancer",1
+"train",4886204,"Colon Cancer",1
+"train",4891732,"Colon Cancer",1
+"train",4892322,"Control",0
+"train",4896733,"Colon Cancer",1
+"train",4899754,"Colon Cancer",1
+"train",4910979,"Colon Cancer",1
+"train",4918383,"Colon Cancer",1
+"train",4923191,"Colon Cancer",1
+"train",4926315,"Colon Cancer",1
+"train",4930103,"Colon Cancer",1
+"train",4932488,"Colon Cancer",1
+"train",4936860,"Colon Cancer",1
+"train",4938533,"Colon Cancer",1
+"train",4943188,"Colon Cancer",1
+"train",4945458,"Colon Cancer",1
+"train",4949844,"Colon Cancer",1
+"train",4951638,"Colon Cancer",1
+"train",4954954,"Colon Cancer",1
+"train",4955967,"Control",0
+"train",4961767,"Colon Cancer",1
+"train",4971850,"Colon Cancer",1
+"train",4974036,"Colon Cancer",1
+"train",4975965,"Colon Cancer",1
+"train",4977397,"Control",0
+"train",4981853,"Colon Cancer",1
+"train",4982224,"Colon Cancer",1
+"train",4990303,"Colon Cancer",1
+"train",4999307,"Colon Cancer",1
+"train",4999961,"Colon Cancer",1
+"train",5002019,"Colon Cancer",1
+"train",5011442,"Colon Cancer",1
+"train",5011653,"Control",0
+"train",5013643,"Colon Cancer",1
+"train",5014588,"Colon Cancer",1
+"train",5020661,"Colon Cancer",1
+"train",5024270,"Colon Cancer",1
+"train",5025958,"Colon Cancer",1
+"train",5028978,"Colon Cancer",1
+"train",5030584,"Colon Cancer",1
+"train",5031488,"Colon Cancer",1
+"train",5032077,"Colon Cancer",1
+"train",5033736,"Colon Cancer",1
+"train",5034556,"Colon Cancer",1
+"train",5039416,"Colon Cancer",1
+"train",5043446,"Colon Cancer",1
+"train",5048860,"Colon Cancer",1
+"train",5052412,"Control",0
+"train",5053792,"Colon Cancer",1
+"train",5056571,"Colon Cancer",1
+"train",5063266,"Colon Cancer",1
+"train",5067702,"Colon Cancer",1
+"train",5068129,"Control",0
+"train",5068291,"Colon Cancer",1
+"train",5071351,"Colon Cancer",1
+"train",5078030,"Colon Cancer",1
+"train",5080440,"Colon Cancer",1
+"train",5081353,"Colon Cancer",1
+"train",5087056,"Colon Cancer",1
+"train",5102215,"Colon Cancer",1
+"train",5106307,"Colon Cancer",1
+"train",5107530,"Colon Cancer",1
+"train",5108041,"Colon Cancer",1
+"train",5129575,"Colon Cancer",1
+"train",5132966,"Colon Cancer",1
+"train",5141000,"Colon Cancer",1
+"train",5141638,"Colon Cancer",1
+"train",5142444,"Colon Cancer",1
+"train",5142668,"Colon Cancer",1
+"train",5143195,"Colon Cancer",1
+"train",5152053,"Colon Cancer",1
+"train",5158057,"Colon Cancer",1
+"train",5158662,"Colon Cancer",1
+"train",5164706,"Colon Cancer",1
+"train",5171407,"Colon Cancer",1
+"train",5183555,"Colon Cancer",1
+"train",5184001,"Colon Cancer",1
+"train",5186488,"Colon Cancer",1
+"train",5187047,"Control",0
+"train",5191030,"Colon Cancer",1
+"train",5191221,"Colon Cancer",1
+"train",5194222,"Control",0
+"train",5201305,"Colon Cancer",1
+"train",5208731,"Colon Cancer",1
+"train",5216493,"Control",0
+"train",5218448,"Colon Cancer",1
+"train",5219055,"Colon Cancer",1
+"train",5220475,"Colon Cancer",1
+"train",5225703,"Colon Cancer",1
+"train",5228959,"Colon Cancer",1
+"train",5231749,"Colon Cancer",1
+"train",5232009,"Colon Cancer",1
+"train",5235450,"Colon Cancer",1
+"train",5239181,"Colon Cancer",1
+"train",5241315,"Colon Cancer",1
+"train",5241506,"Control",0
+"train",5248630,"Colon Cancer",1
+"train",5249318,"Colon Cancer",1
+"train",5250179,"Colon Cancer",1
+"train",5251017,"Colon Cancer",1
+"train",5251869,"Colon Cancer",1
+"train",5253171,"Colon Cancer",1
+"train",5253689,"Colon Cancer",1
+"train",5255303,"Colon Cancer",1
+"train",5255435,"Colon Cancer",1
+"train",5255795,"Control",0
+"train",5260738,"Control",0
+"train",5267290,"Colon Cancer",1
+"train",5267908,"Colon Cancer",1
+"train",5270993,"Colon Cancer",1
+"train",5278329,"Colon Cancer",1
+"train",5278430,"Control",0
+"train",5278588,"Control",0
+"train",5280300,"Colon Cancer",1
+"train",5280481,"Colon Cancer",1
+"train",5286462,"Colon Cancer",1
+"train",5287935,"Colon Cancer",1
+"train",5291925,"Colon Cancer",1
+"train",5292824,"Colon Cancer",1
+"train",5299978,"Colon Cancer",1
+"train",5303151,"Colon Cancer",1
+"train",5303875,"Colon Cancer",1
+"train",5303923,"Control",0
+"train",5317912,"Colon Cancer",1
+"train",5323991,"Colon Cancer",1
+"train",5324349,"Colon Cancer",1
+"train",5326951,"Colon Cancer",1
+"train",5327827,"Colon Cancer",1
+"train",5331154,"Colon Cancer",1
+"train",5334060,"Colon Cancer",1
+"train",5334278,"Colon Cancer",1
+"train",5337325,"Colon Cancer",1
+"train",5344348,"Colon Cancer",1
+"train",5347801,"Colon Cancer",1
+"train",5350485,"Colon Cancer",1
+"train",5366227,"Colon Cancer",1
+"train",5368839,"Control",0
+"train",5373714,"Colon Cancer",1
+"train",5374226,"Colon Cancer",1
+"train",5375290,"Colon Cancer",1
+"train",5375828,"Colon Cancer",1
+"train",5375834,"Colon Cancer",1
+"train",5376891,"Colon Cancer",1
+"train",5380426,"Colon Cancer",1
+"train",5380542,"Colon Cancer",1
+"train",5387664,"Colon Cancer",1
+"train",5388549,"Colon Cancer",1
+"train",5390033,"Colon Cancer",1
+"train",5391513,"Colon Cancer",1
+"train",5394867,"Colon Cancer",1
+"train",5399094,"Colon Cancer",1
+"train",5405104,"Control",0
+"train",5408959,"Colon Cancer",1
+"train",5416965,"Colon Cancer",1
+"train",5419452,"Colon Cancer",1
+"train",5423964,"Colon Cancer",1
+"train",5432033,"Colon Cancer",1
+"train",5432938,"Colon Cancer",1
+"train",5434145,"Colon Cancer",1
+"train",5435005,"Colon Cancer",1
+"train",5443227,"Colon Cancer",1
+"train",5444514,"Colon Cancer",1
+"train",5447204,"Colon Cancer",1
+"train",5449673,"Colon Cancer",1
+"train",5449821,"Colon Cancer",1
+"train",5451552,"Colon Cancer",1
+"train",5454778,"Colon Cancer",1
+"train",5456222,"Colon Cancer",1
+"train",5466340,"Colon Cancer",1
+"train",5467569,"Colon Cancer",1
+"train",5468024,"Colon Cancer",1
+"train",5477009,"Colon Cancer",1
+"train",5478653,"Colon Cancer",1
+"train",5482664,"Colon Cancer",1
+"train",5484805,"Colon Cancer",1
+"train",5485975,"Colon Cancer",1
+"train",5487416,"Colon Cancer",1
+"train",5488325,"Colon Cancer",1
+"train",5492991,"Colon Cancer",1
+"train",5501482,"Colon Cancer",1
+"train",5504961,"Colon Cancer",1
+"train",5508197,"Colon Cancer",1
+"train",5508463,"Control",0
+"train",5513518,"Control",0
+"train",5516264,"Colon Cancer",1
+"train",5520111,"Colon Cancer",1
+"train",5529762,"Colon Cancer",1
+"train",5530240,"Colon Cancer",1
+"train",5534645,"Colon Cancer",1
+"train",5537786,"Colon Cancer",1
+"train",5538479,"Colon Cancer",1
+"train",5539155,"Colon Cancer",1
+"train",5539833,"Colon Cancer",1
+"train",5540353,"Colon Cancer",1
+"train",5540943,"Colon Cancer",1
+"train",5545425,"Colon Cancer",1
+"train",5551667,"Colon Cancer",1
+"train",5560203,"Colon Cancer",1
+"train",5564310,"Colon Cancer",1
+"train",5564784,"Colon Cancer",1
+"train",5565294,"Colon Cancer",1
+"train",5572789,"Colon Cancer",1
+"train",5576774,"Colon Cancer",1
+"train",5586746,"Colon Cancer",1
+"train",5588429,"Colon Cancer",1
+"train",5589716,"Colon Cancer",1
+"train",5591369,"Colon Cancer",1
+"train",5591528,"Colon Cancer",1
+"train",5592598,"Colon Cancer",1
+"train",5598565,"Colon Cancer",1
+"train",5598824,"Colon Cancer",1
+"train",5601135,"Colon Cancer",1
+"train",5611821,"Colon Cancer",1
+"train",5619426,"Colon Cancer",1
+"train",5619602,"Colon Cancer",1
+"train",5624014,"Colon Cancer",1
+"train",5626169,"Control",0
+"train",5630985,"Colon Cancer",1
+"train",5632387,"Colon Cancer",1
+"train",5637157,"Colon Cancer",1
+"train",5638319,"Colon Cancer",1
+"train",5639492,"Control",0
+"train",5641898,"Colon Cancer",1
+"train",5643348,"Colon Cancer",1
+"train",5652123,"Colon Cancer",1
+"train",5667695,"Colon Cancer",1
+"train",5668224,"Colon Cancer",1
+"train",5675662,"Colon Cancer",1
+"train",5679106,"Colon Cancer",1
+"train",5680331,"Colon Cancer",1
+"train",5681188,"Control",0
+"train",5683807,"Control",0
+"train",5691678,"Colon Cancer",1
+"train",5693468,"Colon Cancer",1
+"train",5696057,"Colon Cancer",1
+"train",5703218,"Colon Cancer",1
+"train",5704007,"Colon Cancer",1
+"train",5708347,"Colon Cancer",1
+"train",5710183,"Control",0
+"train",5711792,"Colon Cancer",1
+"train",5712625,"Colon Cancer",1
+"train",5715276,"Control",0
+"train",5719614,"Colon Cancer",1
+"train",5723192,"Colon Cancer",1
+"train",5725250,"Colon Cancer",1
+"train",5727170,"Control",0
+"train",5735720,"Colon Cancer",1
+"train",5749062,"Colon Cancer",1
+"train",5750561,"Colon Cancer",1
+"train",5752973,"Colon Cancer",1
+"train",5762226,"Colon Cancer",1
+"train",5764518,"Colon Cancer",1
+"train",5765046,"Colon Cancer",1
+"train",5767472,"Colon Cancer",1
+"train",5773350,"Colon Cancer",1
+"train",5774169,"Colon Cancer",1
+"train",5775152,"Colon Cancer",1
+"train",5779703,"Colon Cancer",1
+"train",5783697,"Colon Cancer",1
+"train",5783971,"Colon Cancer",1
+"train",5788294,"Colon Cancer",1
+"train",5795762,"Colon Cancer",1
+"train",5798146,"Colon Cancer",1
+"train",5799075,"Colon Cancer",1
+"train",5799297,"Colon Cancer",1
+"train",5799950,"Colon Cancer",1
+"train",5806804,"Colon Cancer",1
+"train",5810058,"Colon Cancer",1
+"train",5815109,"Colon Cancer",1
+"train",5817123,"Colon Cancer",1
+"train",5824801,"Colon Cancer",1
+"train",5832676,"Colon Cancer",1
+"train",5834610,"Colon Cancer",1
+"train",5835248,"Colon Cancer",1
+"train",5836769,"Colon Cancer",1
+"train",5839250,"Colon Cancer",1
+"train",5842989,"Colon Cancer",1
+"train",5849394,"Colon Cancer",1
+"train",5851950,"Colon Cancer",1
+"train",5854501,"Colon Cancer",1
+"train",5854615,"Colon Cancer",1
+"train",5861988,"Colon Cancer",1
+"train",5862519,"Colon Cancer",1
+"train",5863579,"Colon Cancer",1
+"train",5864460,"Colon Cancer",1
+"train",5868670,"Colon Cancer",1
+"train",5871602,"Colon Cancer",1
+"train",5873795,"Colon Cancer",1
+"train",5875252,"Colon Cancer",1
+"train",5879047,"Colon Cancer",1
+"train",5880630,"Colon Cancer",1
+"train",5881345,"Colon Cancer",1
+"train",5894482,"Colon Cancer",1
+"train",5903124,"Colon Cancer",1
+"train",5905129,"Colon Cancer",1
+"train",5913016,"Colon Cancer",1
+"train",5915667,"Colon Cancer",1
+"train",5920940,"Colon Cancer",1
+"train",5927075,"Control",0
+"train",5930861,"Colon Cancer",1
+"train",5934795,"Colon Cancer",1
+"train",5939120,"Colon Cancer",1
+"train",5940741,"Colon Cancer",1
+"train",5951403,"Colon Cancer",1
+"train",5975487,"Colon Cancer",1
+"train",5976753,"Colon Cancer",1
+"train",5982403,"Colon Cancer",1
+"train",5983451,"Colon Cancer",1
+"train",5988991,"Control",0
+"train",5994282,"Colon Cancer",1
+"train",5995823,"Colon Cancer",1
+"train",5998113,"Colon Cancer",1
+"train",5998249,"Colon Cancer",1
+"train",5998715,"Colon Cancer",1
+"train",6000041,"Colon Cancer",1
+"train",6013435,"Colon Cancer",1
+"train",6016074,"Colon Cancer",1
+"train",6016141,"Colon Cancer",1
+"train",6026040,"Colon Cancer",1
+"validation",1002243,"Control",0
+"validation",1002426,"Control",0
+"validation",1007655,"Control",0
+"validation",1007890,"Control",0
+"validation",1009916,"Control",0
+"validation",1010395,"Control",0
+"validation",1010457,"Control",0
+"validation",1012266,"Control",0
+"validation",1013402,"Control",0
+"validation",1013789,"Colon Cancer",1
+"validation",1014567,"Control",0
+"validation",1016753,"Control",0
+"validation",1018843,"Control",0
+"validation",1019127,"Control",0
+"validation",1020442,"Control",0
+"validation",1021507,"Control",0
+"validation",1023231,"Control",0
+"validation",1027782,"Control",0
+"validation",1028789,"Control",0
+"validation",1029640,"Control",0
+"validation",1030344,"Control",0
+"validation",1031103,"Colon Cancer",1
+"validation",1031796,"Control",0
+"validation",1034822,"Control",0
+"validation",1036711,"Control",0
+"validation",1037004,"Control",0
+"validation",1038395,"Control",0
+"validation",1039532,"Colon Cancer",1
+"validation",1040451,"Control",0
+"validation",1040939,"Control",0
+"validation",1042818,"Control",0
+"validation",1043875,"Control",0
+"validation",1044467,"Control",0
+"validation",1044718,"Control",0
+"validation",1046100,"Control",0
+"validation",1048737,"Colon Cancer",1
+"validation",1049293,"Control",0
+"validation",1050887,"Control",0
+"validation",1051320,"Control",0
+"validation",1053652,"Control",0
+"validation",1056980,"Control",0
+"validation",1057159,"Colon Cancer",1
+"validation",1058963,"Control",0
+"validation",1059700,"Control",0
+"validation",1061123,"Colon Cancer",1
+"validation",1061883,"Control",0
+"validation",1062251,"Control",0
+"validation",1062409,"Control",0
+"validation",1063139,"Control",0
+"validation",1065352,"Control",0
+"validation",1067728,"Control",0
+"validation",1068117,"Control",0
+"validation",1068870,"Control",0
+"validation",1068997,"Control",0
+"validation",1069781,"Control",0
+"validation",1070928,"Colon Cancer",1
+"validation",1073084,"Control",0
+"validation",1073376,"Colon Cancer",1
+"validation",1075045,"Control",0
+"validation",1075121,"Control",0
+"validation",1077489,"Control",0
+"validation",1077493,"Control",0
+"validation",1078019,"Control",0
+"validation",1078025,"Control",0
+"validation",1080383,"Control",0
+"validation",1081806,"Control",0
+"validation",1082819,"Control",0
+"validation",1084506,"Control",0
+"validation",1085564,"Control",0
+"validation",1092365,"Control",0
+"validation",1100679,"Control",0
+"validation",1100688,"Control",0
+"validation",1101823,"Control",0
+"validation",1103040,"Control",0
+"validation",1106099,"Control",0
+"validation",1106915,"Control",0
+"validation",1108017,"Control",0
+"validation",1112188,"Colon Cancer",1
+"validation",1113535,"Control",0
+"validation",1117850,"Control",0
+"validation",1120858,"Control",0
+"validation",1121384,"Control",0
+"validation",1121508,"Control",0
+"validation",1123357,"Control",0
+"validation",1124189,"Control",0
+"validation",1127781,"Control",0
+"validation",1129207,"Control",0
+"validation",1132273,"Control",0
+"validation",1132662,"Control",0
+"validation",1133009,"Control",0
+"validation",1133359,"Colon Cancer",1
+"validation",1133431,"Control",0
+"validation",1133863,"Control",0
+"validation",1134664,"Control",0
+"validation",1137711,"Control",0
+"validation",1139813,"Control",0
+"validation",1142861,"Control",0
+"validation",1144543,"Colon Cancer",1
+"validation",1145625,"Control",0
+"validation",1146457,"Colon Cancer",1
+"validation",1147002,"Control",0
+"validation",1147692,"Control",0
+"validation",1150730,"Control",0
+"validation",1150840,"Control",0
+"validation",1151757,"Control",0
+"validation",1152078,"Control",0
+"validation",1152127,"Control",0
+"validation",1154819,"Control",0
+"validation",1154856,"Control",0
+"validation",1155531,"Control",0
+"validation",1156439,"Control",0
+"validation",1158495,"Control",0
+"validation",1158778,"Control",0
+"validation",1160818,"Control",0
+"validation",1163475,"Control",0
+"validation",1164007,"Control",0
+"validation",1164090,"Control",0
+"validation",1165179,"Control",0
+"validation",1167145,"Control",0
+"validation",1173373,"Control",0
+"validation",1180001,"Colon Cancer",1
+"validation",1182262,"Colon Cancer",1
+"validation",1186266,"Control",0
+"validation",1186692,"Control",0
+"validation",1189505,"Control",0
+"validation",1190091,"Control",0
+"validation",1191443,"Control",0
+"validation",1192877,"Control",0
+"validation",1193385,"Control",0
+"validation",1194334,"Colon Cancer",1
+"validation",1197080,"Control",0
+"validation",1197433,"Control",0
+"validation",1204957,"Control",0
+"validation",1205986,"Control",0
+"validation",1207771,"Control",0
+"validation",1208392,"Control",0
+"validation",1212091,"Control",0
+"validation",1212950,"Control",0
+"validation",1214170,"Control",0
+"validation",1216061,"Control",0
+"validation",1220477,"Control",0
+"validation",1221735,"Control",0
+"validation",1229032,"Control",0
+"validation",1230744,"Control",0
+"validation",1231600,"Control",0
+"validation",1232126,"Colon Cancer",1
+"validation",1233468,"Colon Cancer",1
+"validation",1233722,"Control",0
+"validation",1235243,"Control",0
+"validation",1236497,"Control",0
+"validation",1241666,"Control",0
+"validation",1246484,"Control",0
+"validation",1247633,"Control",0
+"validation",1252203,"Colon Cancer",1
+"validation",1252854,"Colon Cancer",1
+"validation",1253831,"Control",0
+"validation",1260160,"Colon Cancer",1
+"validation",1262494,"Control",0
+"validation",1262734,"Control",0
+"validation",1263627,"Colon Cancer",1
+"validation",1264566,"Control",0
+"validation",1268518,"Control",0
+"validation",1269132,"Control",0
+"validation",1270067,"Control",0
+"validation",1271054,"Control",0
+"validation",1274895,"Control",0
+"validation",1277636,"Control",0
+"validation",1278354,"Control",0
+"validation",1284376,"Control",0
+"validation",1286487,"Control",0
+"validation",1286556,"Control",0
+"validation",1286934,"Control",0
+"validation",1291570,"Control",0
+"validation",1295148,"Control",0
+"validation",1296181,"Control",0
+"validation",1297159,"Control",0
+"validation",1298071,"Control",0
+"validation",1298812,"Control",0
+"validation",1300629,"Colon Cancer",1
+"validation",1302362,"Control",0
+"validation",1303037,"Control",0
+"validation",1304431,"Control",0
+"validation",1309311,"Control",0
+"validation",1309448,"Control",0
+"validation",1311664,"Control",0
+"validation",1312153,"Control",0
+"validation",1314055,"Control",0
+"validation",1314746,"Colon Cancer",1
+"validation",1315690,"Colon Cancer",1
+"validation",1319870,"Control",0
+"validation",1320596,"Control",0
+"validation",1323159,"Control",0
+"validation",1323813,"Colon Cancer",1
+"validation",1325288,"Control",0
+"validation",1325605,"Colon Cancer",1
+"validation",1327842,"Control",0
+"validation",1327949,"Control",0
+"validation",1333690,"Control",0
+"validation",1333844,"Colon Cancer",1
+"validation",1333931,"Colon Cancer",1
+"validation",1334561,"Control",0
+"validation",1338273,"Control",0
+"validation",1338409,"Colon Cancer",1
+"validation",1338460,"Control",0
+"validation",1339395,"Control",0
+"validation",1340877,"Colon Cancer",1
+"validation",1342341,"Colon Cancer",1
+"validation",1347932,"Control",0
+"validation",1348261,"Control",0
+"validation",1348680,"Colon Cancer",1
+"validation",1354272,"Control",0
+"validation",1355289,"Colon Cancer",1
+"validation",1355874,"Control",0
+"validation",1356756,"Control",0
+"validation",1360665,"Colon Cancer",1
+"validation",1364260,"Control",0
+"validation",1367117,"Control",0
+"validation",1367161,"Control",0
+"validation",1367684,"Control",0
+"validation",1368957,"Control",0
+"validation",1369303,"Control",0
+"validation",1369545,"Control",0
+"validation",1370078,"Control",0
+"validation",1374723,"Control",0
+"validation",1376138,"Control",0
+"validation",1377087,"Colon Cancer",1
+"validation",1377523,"Control",0
+"validation",1379242,"Colon Cancer",1
+"validation",1379447,"Control",0
+"validation",1386705,"Colon Cancer",1
+"validation",1388866,"Control",0
+"validation",1392158,"Control",0
+"validation",1394220,"Colon Cancer",1
+"validation",1395313,"Control",0
+"validation",1395706,"Control",0
+"validation",1396639,"Control",0
+"validation",1400564,"Control",0
+"validation",1403508,"Control",0
+"validation",1403930,"Colon Cancer",1
+"validation",1405593,"Control",0
+"validation",1406629,"Colon Cancer",1
+"validation",1414841,"Control",0
+"validation",1416231,"Control",0
+"validation",1418522,"Control",0
+"validation",1420444,"Colon Cancer",1
+"validation",1420475,"Control",0
+"validation",1425121,"Control",0
+"validation",1427292,"Control",0
+"validation",1428799,"Control",0
+"validation",1431903,"Control",0
+"validation",1437189,"Control",0
+"validation",1439375,"Control",0
+"validation",1445049,"Control",0
+"validation",1445507,"Control",0
+"validation",1452403,"Control",0
+"validation",1452723,"Control",0
+"validation",1456578,"Control",0
+"validation",1461767,"Control",0
+"validation",1462972,"Control",0
+"validation",1464864,"Colon Cancer",1
+"validation",1466740,"Control",0
+"validation",1467207,"Control",0
+"validation",1467658,"Control",0
+"validation",1469912,"Control",0
+"validation",1476261,"Control",0
+"validation",1477692,"Control",0
+"validation",1480233,"Control",0
+"validation",1484842,"Colon Cancer",1
+"validation",1488459,"Control",0
+"validation",1488543,"Control",0
+"validation",1497259,"Control",0
+"validation",1497865,"Control",0
+"validation",1499319,"Control",0
+"validation",1503580,"Colon Cancer",1
+"validation",1505236,"Control",0
+"validation",1507175,"Colon Cancer",1
+"validation",1510110,"Control",0
+"validation",1510360,"Control",0
+"validation",1510827,"Colon Cancer",1
+"validation",1511944,"Control",0
+"validation",1516281,"Control",0
+"validation",1516610,"Control",0
+"validation",1524688,"Control",0
+"validation",1531316,"Control",0
+"validation",1533379,"Control",0
+"validation",1536605,"Control",0
+"validation",1542130,"Control",0
+"validation",1542466,"Control",0
+"validation",1542869,"Control",0
+"validation",1543223,"Colon Cancer",1
+"validation",1545451,"Colon Cancer",1
+"validation",1549237,"Control",0
+"validation",1554314,"Control",0
+"validation",1554724,"Control",0
+"validation",1554920,"Colon Cancer",1
+"validation",1558973,"Control",0
+"validation",1573465,"Control",0
+"validation",1575071,"Control",0
+"validation",1581003,"Colon Cancer",1
+"validation",1583305,"Colon Cancer",1
+"validation",1587660,"Colon Cancer",1
+"validation",1590754,"Control",0
+"validation",1590860,"Control",0
+"validation",1591595,"Control",0
+"validation",1605682,"Control",0
+"validation",1617465,"Control",0
+"validation",1618903,"Control",0
+"validation",1626769,"Colon Cancer",1
+"validation",1635370,"Control",0
+"validation",1647427,"Colon Cancer",1
+"validation",1647654,"Control",0
+"validation",1655383,"Control",0
+"validation",1656407,"Control",0
+"validation",1656682,"Colon Cancer",1
+"validation",1659147,"Control",0
+"validation",1662688,"Control",0
+"validation",1687747,"Control",0
+"validation",1689831,"Colon Cancer",1
+"validation",1695379,"Control",0
+"validation",1699310,"Control",0
+"validation",1716117,"Colon Cancer",1
+"validation",1720328,"Colon Cancer",1
+"validation",1721361,"Control",0
+"validation",1727432,"Control",0
+"validation",1732090,"Control",0
+"validation",1732392,"Control",0
+"validation",1737158,"Colon Cancer",1
+"validation",1745071,"Control",0
+"validation",1749245,"Control",0
+"validation",1749622,"Control",0
+"validation",1752132,"Control",0
+"validation",1752169,"Colon Cancer",1
+"validation",1752401,"Control",0
+"validation",1765955,"Colon Cancer",1
+"validation",1768183,"Colon Cancer",1
+"validation",1776485,"Colon Cancer",1
+"validation",1778179,"Colon Cancer",1
+"validation",1778626,"Control",0
+"validation",1779084,"Colon Cancer",1
+"validation",1780576,"Control",0
+"validation",1783602,"Colon Cancer",1
+"validation",1786638,"Control",0
+"validation",1786826,"Control",0
+"validation",1792658,"Colon Cancer",1
+"validation",1794776,"Control",0
+"validation",1798025,"Control",0
+"validation",1800070,"Control",0
+"validation",1804512,"Control",0
+"validation",1807524,"Colon Cancer",1
+"validation",1808246,"Colon Cancer",1
+"validation",1816598,"Colon Cancer",1
+"validation",1817935,"Control",0
+"validation",1819175,"Control",0
+"validation",1831674,"Control",0
+"validation",1838128,"Colon Cancer",1
+"validation",1839042,"Control",0
+"validation",1847138,"Control",0
+"validation",1850721,"Control",0
+"validation",1852060,"Control",0
+"validation",1853696,"Colon Cancer",1
+"validation",1865638,"Control",0
+"validation",1865734,"Control",0
+"validation",1867084,"Colon Cancer",1
+"validation",1869432,"Control",0
+"validation",1870116,"Colon Cancer",1
+"validation",1874718,"Colon Cancer",1
+"validation",1883182,"Colon Cancer",1
+"validation",1883822,"Control",0
+"validation",1884336,"Control",0
+"validation",1885476,"Colon Cancer",1
+"validation",1894292,"Control",0
+"validation",1894936,"Control",0
+"validation",1895084,"Control",0
+"validation",1902938,"Colon Cancer",1
+"validation",1904599,"Colon Cancer",1
+"validation",1912816,"Control",0
+"validation",1914955,"Control",0
+"validation",1926520,"Colon Cancer",1
+"validation",1928537,"Control",0
+"validation",1933554,"Control",0
+"validation",1937181,"Control",0
+"validation",1937422,"Control",0
+"validation",1957256,"Control",0
+"validation",1958363,"Control",0
+"validation",1959368,"Control",0
+"validation",1959726,"Control",0
+"validation",1960826,"Control",0
+"validation",1961930,"Colon Cancer",1
+"validation",1966206,"Control",0
+"validation",1966583,"Colon Cancer",1
+"validation",1968679,"Colon Cancer",1
+"validation",1972601,"Control",0
+"validation",1982846,"Colon Cancer",1
+"validation",1988315,"Colon Cancer",1
+"validation",1993066,"Colon Cancer",1
+"validation",1993231,"Colon Cancer",1
+"validation",2003732,"Control",0
+"validation",2004119,"Control",0
+"validation",2007810,"Colon Cancer",1
+"validation",2018237,"Control",0
+"validation",2018919,"Control",0
+"validation",2023535,"Control",0
+"validation",2028141,"Colon Cancer",1
+"validation",2032655,"Control",0
+"validation",2039422,"Control",0
+"validation",2039967,"Control",0
+"validation",2041921,"Colon Cancer",1
+"validation",2046180,"Control",0
+"validation",2047404,"Colon Cancer",1
+"validation",2052894,"Colon Cancer",1
+"validation",2067778,"Colon Cancer",1
+"validation",2069856,"Colon Cancer",1
+"validation",2081348,"Control",0
+"validation",2090771,"Control",0
+"validation",2098097,"Colon Cancer",1
+"validation",2098118,"Control",0
+"validation",2099978,"Control",0
+"validation",2111804,"Colon Cancer",1
+"validation",2116508,"Colon Cancer",1
+"validation",2117593,"Control",0
+"validation",2131244,"Control",0
+"validation",2138677,"Colon Cancer",1
+"validation",2140877,"Control",0
+"validation",2142824,"Control",0
+"validation",2142985,"Colon Cancer",1
+"validation",2145349,"Colon Cancer",1
+"validation",2149526,"Control",0
+"validation",2151859,"Control",0
+"validation",2153436,"Colon Cancer",1
+"validation",2159128,"Control",0
+"validation",2167671,"Control",0
+"validation",2177579,"Colon Cancer",1
+"validation",2178002,"Colon Cancer",1
+"validation",2179471,"Control",0
+"validation",2183582,"Control",0
+"validation",2186111,"Colon Cancer",1
+"validation",2194109,"Control",0
+"validation",2194987,"Colon Cancer",1
+"validation",2195960,"Control",0
+"validation",2205408,"Control",0
+"validation",2206060,"Control",0
+"validation",2211259,"Colon Cancer",1
+"validation",2212667,"Colon Cancer",1
+"validation",2215232,"Control",0
+"validation",2222733,"Control",0
+"validation",2225637,"Control",0
+"validation",2225773,"Control",0
+"validation",2242343,"Colon Cancer",1
+"validation",2244045,"Control",0
+"validation",2244838,"Control",0
+"validation",2247989,"Colon Cancer",1
+"validation",2254586,"Colon Cancer",1
+"validation",2266405,"Colon Cancer",1
+"validation",2278117,"Colon Cancer",1
+"validation",2280440,"Colon Cancer",1
+"validation",2293473,"Control",0
+"validation",2296956,"Colon Cancer",1
+"validation",2304213,"Colon Cancer",1
+"validation",2308129,"Colon Cancer",1
+"validation",2313792,"Control",0
+"validation",2316502,"Control",0
+"validation",2321048,"Colon Cancer",1
+"validation",2336993,"Colon Cancer",1
+"validation",2342703,"Control",0
+"validation",2345660,"Control",0
+"validation",2348568,"Control",0
+"validation",2350014,"Control",0
+"validation",2351066,"Colon Cancer",1
+"validation",2355923,"Control",0
+"validation",2358719,"Control",0
+"validation",2369743,"Control",0
+"validation",2398208,"Control",0
+"validation",2398455,"Colon Cancer",1
+"validation",2400950,"Control",0
+"validation",2407188,"Control",0
+"validation",2408782,"Colon Cancer",1
+"validation",2411502,"Control",0
+"validation",2413950,"Control",0
+"validation",2417028,"Control",0
+"validation",2418442,"Control",0
+"validation",2438013,"Control",0
+"validation",2438263,"Control",0
+"validation",2438484,"Control",0
+"validation",2439974,"Control",0
+"validation",2444444,"Colon Cancer",1
+"validation",2447996,"Colon Cancer",1
+"validation",2449632,"Colon Cancer",1
+"validation",2457674,"Colon Cancer",1
+"validation",2459523,"Control",0
+"validation",2465027,"Colon Cancer",1
+"validation",2476607,"Control",0
+"validation",2485863,"Control",0
+"validation",2491220,"Control",0
+"validation",2491456,"Control",0
+"validation",2511556,"Colon Cancer",1
+"validation",2514222,"Colon Cancer",1
+"validation",2517356,"Control",0
+"validation",2526685,"Colon Cancer",1
+"validation",2541065,"Control",0
+"validation",2581856,"Control",0
+"validation",2586509,"Control",0
+"validation",2588561,"Control",0
+"validation",2592532,"Colon Cancer",1
+"validation",2593293,"Control",0
+"validation",2598647,"Control",0
+"validation",2600582,"Control",0
+"validation",2602938,"Colon Cancer",1
+"validation",2607634,"Colon Cancer",1
+"validation",2612591,"Colon Cancer",1
+"validation",2615175,"Control",0
+"validation",2624628,"Control",0
+"validation",2630030,"Colon Cancer",1
+"validation",2640459,"Control",0
+"validation",2641619,"Colon Cancer",1
+"validation",2644445,"Colon Cancer",1
+"validation",2659492,"Colon Cancer",1
+"validation",2696392,"Colon Cancer",1
+"validation",2704014,"Control",0
+"validation",2713416,"Colon Cancer",1
+"validation",2729561,"Control",0
+"validation",2735669,"Control",0
+"validation",2738930,"Colon Cancer",1
+"validation",2743887,"Colon Cancer",1
+"validation",2754161,"Colon Cancer",1
+"validation",2765397,"Colon Cancer",1
+"validation",2766284,"Colon Cancer",1
+"validation",2774429,"Control",0
+"validation",2774803,"Colon Cancer",1
+"validation",2776087,"Colon Cancer",1
+"validation",2776116,"Control",0
+"validation",2787788,"Control",0
+"validation",2788267,"Control",0
+"validation",2796406,"Colon Cancer",1
+"validation",2808224,"Colon Cancer",1
+"validation",2809768,"Colon Cancer",1
+"validation",2812717,"Control",0
+"validation",2813158,"Colon Cancer",1
+"validation",2818822,"Control",0
+"validation",2819599,"Control",0
+"validation",2836456,"Colon Cancer",1
+"validation",2839855,"Colon Cancer",1
+"validation",2855943,"Colon Cancer",1
+"validation",2875204,"Control",0
+"validation",2882051,"Colon Cancer",1
+"validation",2885265,"Colon Cancer",1
+"validation",2885534,"Colon Cancer",1
+"validation",2885843,"Control",0
+"validation",2888085,"Colon Cancer",1
+"validation",2889800,"Control",0
+"validation",2907329,"Colon Cancer",1
+"validation",2918374,"Colon Cancer",1
+"validation",2930079,"Control",0
+"validation",2933354,"Control",0
+"validation",2938813,"Colon Cancer",1
+"validation",2939313,"Colon Cancer",1
+"validation",2953188,"Colon Cancer",1
+"validation",2954346,"Colon Cancer",1
+"validation",2965630,"Control",0
+"validation",2968694,"Colon Cancer",1
+"validation",2977307,"Colon Cancer",1
+"validation",2983262,"Colon Cancer",1
+"validation",3010099,"Colon Cancer",1
+"validation",3022357,"Control",0
+"validation",3044064,"Colon Cancer",1
+"validation",3046698,"Colon Cancer",1
+"validation",3064176,"Colon Cancer",1
+"validation",3090158,"Colon Cancer",1
+"validation",3098408,"Colon Cancer",1
+"validation",3100250,"Colon Cancer",1
+"validation",3111704,"Control",0
+"validation",3132692,"Colon Cancer",1
+"validation",3136325,"Colon Cancer",1
+"validation",3144719,"Colon Cancer",1
+"validation",3145549,"Control",0
+"validation",3149583,"Colon Cancer",1
+"validation",3155494,"Colon Cancer",1
+"validation",3156347,"Control",0
+"validation",3156624,"Control",0
+"validation",3162466,"Control",0
+"validation",3179244,"Colon Cancer",1
+"validation",3206321,"Control",0
+"validation",3215985,"Colon Cancer",1
+"validation",3219126,"Colon Cancer",1
+"validation",3220672,"Colon Cancer",1
+"validation",3229046,"Control",0
+"validation",3235955,"Colon Cancer",1
+"validation",3242722,"Colon Cancer",1
+"validation",3247391,"Colon Cancer",1
+"validation",3263085,"Colon Cancer",1
+"validation",3263932,"Colon Cancer",1
+"validation",3272747,"Control",0
+"validation",3276030,"Colon Cancer",1
+"validation",3283551,"Control",0
+"validation",3293655,"Control",0
+"validation",3320918,"Colon Cancer",1
+"validation",3332730,"Colon Cancer",1
+"validation",3336545,"Colon Cancer",1
+"validation",3344998,"Colon Cancer",1
+"validation",3348433,"Colon Cancer",1
+"validation",3363397,"Colon Cancer",1
+"validation",3364559,"Control",0
+"validation",3382132,"Control",0
+"validation",3384134,"Colon Cancer",1
+"validation",3390966,"Colon Cancer",1
+"validation",3396229,"Control",0
+"validation",3396499,"Colon Cancer",1
+"validation",3399916,"Control",0
+"validation",3416271,"Control",0
+"validation",3427018,"Control",0
+"validation",3445924,"Colon Cancer",1
+"validation",3446614,"Colon Cancer",1
+"validation",3455295,"Control",0
+"validation",3455814,"Colon Cancer",1
+"validation",3456030,"Colon Cancer",1
+"validation",3466375,"Colon Cancer",1
+"validation",3468266,"Colon Cancer",1
+"validation",3469754,"Control",0
+"validation",3470762,"Control",0
+"validation",3474592,"Control",0
+"validation",3478914,"Control",0
+"validation",3503212,"Colon Cancer",1
+"validation",3509545,"Colon Cancer",1
+"validation",3510714,"Colon Cancer",1
+"validation",3520992,"Control",0
+"validation",3524706,"Colon Cancer",1
+"validation",3532859,"Colon Cancer",1
+"validation",3534768,"Colon Cancer",1
+"validation",3535448,"Colon Cancer",1
+"validation",3536670,"Colon Cancer",1
+"validation",3548950,"Colon Cancer",1
+"validation",3554254,"Colon Cancer",1
+"validation",3569172,"Colon Cancer",1
+"validation",3569227,"Colon Cancer",1
+"validation",3573521,"Colon Cancer",1
+"validation",3586068,"Control",0
+"validation",3597717,"Colon Cancer",1
+"validation",3607337,"Colon Cancer",1
+"validation",3613992,"Control",0
+"validation",3616243,"Colon Cancer",1
+"validation",3620187,"Colon Cancer",1
+"validation",3624600,"Colon Cancer",1
+"validation",3627487,"Control",0
+"validation",3629948,"Colon Cancer",1
+"validation",3633814,"Colon Cancer",1
+"validation",3635318,"Control",0
+"validation",3643371,"Control",0
+"validation",3679253,"Colon Cancer",1
+"validation",3689374,"Colon Cancer",1
+"validation",3703333,"Colon Cancer",1
+"validation",3722883,"Colon Cancer",1
+"validation",3728822,"Colon Cancer",1
+"validation",3729050,"Colon Cancer",1
+"validation",3731160,"Colon Cancer",1
+"validation",3737740,"Colon Cancer",1
+"validation",3741245,"Colon Cancer",1
+"validation",3754643,"Colon Cancer",1
+"validation",3755509,"Colon Cancer",1
+"validation",3758926,"Colon Cancer",1
+"validation",3770989,"Control",0
+"validation",3776964,"Colon Cancer",1
+"validation",3780879,"Colon Cancer",1
+"validation",3796441,"Colon Cancer",1
+"validation",3811839,"Control",0
+"validation",3818168,"Colon Cancer",1
+"validation",3820982,"Colon Cancer",1
+"validation",3826561,"Colon Cancer",1
+"validation",3834963,"Colon Cancer",1
+"validation",3840528,"Colon Cancer",1
+"validation",3856486,"Colon Cancer",1
+"validation",3861481,"Colon Cancer",1
+"validation",3901213,"Colon Cancer",1
+"validation",3902574,"Colon Cancer",1
+"validation",3905583,"Colon Cancer",1
+"validation",3913754,"Colon Cancer",1
+"validation",3919017,"Colon Cancer",1
+"validation",3925133,"Colon Cancer",1
+"validation",3927753,"Control",0
+"validation",3928099,"Colon Cancer",1
+"validation",3936186,"Colon Cancer",1
+"validation",3942435,"Colon Cancer",1
+"validation",3944546,"Colon Cancer",1
+"validation",3954647,"Colon Cancer",1
+"validation",3964015,"Colon Cancer",1
+"validation",3976678,"Colon Cancer",1
+"validation",3986351,"Colon Cancer",1
+"validation",3986937,"Colon Cancer",1
+"validation",3987815,"Colon Cancer",1
+"validation",3997535,"Control",0
+"validation",4008053,"Control",0
+"validation",4014422,"Colon Cancer",1
+"validation",4018348,"Control",0
+"validation",4018882,"Colon Cancer",1
+"validation",4024421,"Control",0
+"validation",4029847,"Colon Cancer",1
+"validation",4032504,"Colon Cancer",1
+"validation",4039975,"Colon Cancer",1
+"validation",4052511,"Control",0
+"validation",4057754,"Colon Cancer",1
+"validation",4058884,"Control",0
+"validation",4065227,"Colon Cancer",1
+"validation",4080575,"Colon Cancer",1
+"validation",4108003,"Colon Cancer",1
+"validation",4112769,"Colon Cancer",1
+"validation",4119493,"Colon Cancer",1
+"validation",4123035,"Colon Cancer",1
+"validation",4138535,"Colon Cancer",1
+"validation",4155789,"Control",0
+"validation",4172381,"Colon Cancer",1
+"validation",4178684,"Control",0
+"validation",4182126,"Colon Cancer",1
+"validation",4192117,"Colon Cancer",1
+"validation",4211639,"Control",0
+"validation",4218968,"Control",0
+"validation",4220022,"Control",0
+"validation",4225526,"Colon Cancer",1
+"validation",4231179,"Colon Cancer",1
+"validation",4231735,"Colon Cancer",1
+"validation",4260509,"Colon Cancer",1
+"validation",4265539,"Colon Cancer",1
+"validation",4268162,"Control",0
+"validation",4277042,"Colon Cancer",1
+"validation",4301864,"Control",0
+"validation",4303432,"Colon Cancer",1
+"validation",4306213,"Colon Cancer",1
+"validation",4313181,"Colon Cancer",1
+"validation",4331619,"Colon Cancer",1
+"validation",4341816,"Colon Cancer",1
+"validation",4345261,"Colon Cancer",1
+"validation",4366905,"Colon Cancer",1
+"validation",4377789,"Colon Cancer",1
+"validation",4377811,"Colon Cancer",1
+"validation",4390878,"Control",0
+"validation",4392338,"Control",0
+"validation",4401594,"Colon Cancer",1
+"validation",4401787,"Colon Cancer",1
+"validation",4405136,"Colon Cancer",1
+"validation",4412534,"Colon Cancer",1
+"validation",4421694,"Colon Cancer",1
+"validation",4424075,"Control",0
+"validation",4425443,"Colon Cancer",1
+"validation",4426543,"Colon Cancer",1
+"validation",4443423,"Colon Cancer",1
+"validation",4454050,"Colon Cancer",1
+"validation",4454322,"Control",0
+"validation",4455731,"Colon Cancer",1
+"validation",4469153,"Control",0
+"validation",4471221,"Colon Cancer",1
+"validation",4488150,"Colon Cancer",1
+"validation",4501146,"Colon Cancer",1
+"validation",4513991,"Control",0
+"validation",4526132,"Colon Cancer",1
+"validation",4528111,"Control",0
+"validation",4542950,"Colon Cancer",1
+"validation",4543538,"Control",0
+"validation",4545433,"Colon Cancer",1
+"validation",4546728,"Colon Cancer",1
+"validation",4549922,"Colon Cancer",1
+"validation",4563621,"Colon Cancer",1
+"validation",4575639,"Colon Cancer",1
+"validation",4576015,"Colon Cancer",1
+"validation",4592047,"Colon Cancer",1
+"validation",4599844,"Colon Cancer",1
+"validation",4600953,"Colon Cancer",1
+"validation",4606688,"Control",0
+"validation",4627298,"Colon Cancer",1
+"validation",4628024,"Control",0
+"validation",4640120,"Colon Cancer",1
+"validation",4644352,"Colon Cancer",1
+"validation",4664417,"Colon Cancer",1
+"validation",4675825,"Colon Cancer",1
+"validation",4678634,"Colon Cancer",1
+"validation",4693773,"Control",0
+"validation",4698464,"Colon Cancer",1
+"validation",4700091,"Control",0
+"validation",4703350,"Colon Cancer",1
+"validation",4711625,"Colon Cancer",1
+"validation",4713962,"Colon Cancer",1
+"validation",4715279,"Colon Cancer",1
+"validation",4716241,"Colon Cancer",1
+"validation",4716919,"Colon Cancer",1
+"validation",4756021,"Colon Cancer",1
+"validation",4756580,"Colon Cancer",1
+"validation",4773542,"Colon Cancer",1
+"validation",4780324,"Control",0
+"validation",4783606,"Colon Cancer",1
+"validation",4794209,"Control",0
+"validation",4831707,"Colon Cancer",1
+"validation",4838850,"Colon Cancer",1
+"validation",4840500,"Colon Cancer",1
+"validation",4842838,"Control",0
+"validation",4856406,"Colon Cancer",1
+"validation",4856570,"Control",0
+"validation",4870263,"Colon Cancer",1
+"validation",4889235,"Colon Cancer",1
+"validation",4891856,"Colon Cancer",1
+"validation",4898851,"Colon Cancer",1
+"validation",4905500,"Colon Cancer",1
+"validation",4927375,"Control",0
+"validation",4932293,"Colon Cancer",1
+"validation",4968685,"Colon Cancer",1
+"validation",4976118,"Colon Cancer",1
+"validation",4979146,"Colon Cancer",1
+"validation",4982054,"Colon Cancer",1
+"validation",4986652,"Colon Cancer",1
+"validation",4990400,"Control",0
+"validation",4993073,"Colon Cancer",1
+"validation",5004274,"Control",0
+"validation",5029881,"Colon Cancer",1
+"validation",5055420,"Colon Cancer",1
+"validation",5073009,"Colon Cancer",1
+"validation",5073045,"Control",0
+"validation",5081159,"Colon Cancer",1
+"validation",5081592,"Colon Cancer",1
+"validation",5083447,"Colon Cancer",1
+"validation",5092659,"Colon Cancer",1
+"validation",5116712,"Colon Cancer",1
+"validation",5121266,"Colon Cancer",1
+"validation",5123086,"Colon Cancer",1
+"validation",5125669,"Colon Cancer",1
+"validation",5126709,"Colon Cancer",1
+"validation",5135406,"Colon Cancer",1
+"validation",5146413,"Colon Cancer",1
+"validation",5148077,"Colon Cancer",1
+"validation",5152747,"Colon Cancer",1
+"validation",5161624,"Colon Cancer",1
+"validation",5162641,"Colon Cancer",1
+"validation",5162730,"Colon Cancer",1
+"validation",5163485,"Colon Cancer",1
+"validation",5203863,"Colon Cancer",1
+"validation",5205237,"Colon Cancer",1
+"validation",5209678,"Colon Cancer",1
+"validation",5210000,"Colon Cancer",1
+"validation",5234918,"Colon Cancer",1
+"validation",5236982,"Colon Cancer",1
+"validation",5260707,"Colon Cancer",1
+"validation",5262612,"Colon Cancer",1
+"validation",5272835,"Colon Cancer",1
+"validation",5283174,"Colon Cancer",1
+"validation",5284302,"Colon Cancer",1
+"validation",5303149,"Control",0
+"validation",5341508,"Colon Cancer",1
+"validation",5345946,"Colon Cancer",1
+"validation",5350724,"Colon Cancer",1
+"validation",5360333,"Colon Cancer",1
+"validation",5361341,"Colon Cancer",1
+"validation",5364548,"Colon Cancer",1
+"validation",5374203,"Colon Cancer",1
+"validation",5375165,"Colon Cancer",1
+"validation",5389694,"Colon Cancer",1
+"validation",5391039,"Colon Cancer",1
+"validation",5395505,"Colon Cancer",1
+"validation",5396416,"Colon Cancer",1
+"validation",5431579,"Colon Cancer",1
+"validation",5444661,"Control",0
+"validation",5451733,"Colon Cancer",1
+"validation",5455728,"Colon Cancer",1
+"validation",5480774,"Colon Cancer",1
+"validation",5493203,"Colon Cancer",1
+"validation",5523066,"Colon Cancer",1
+"validation",5530358,"Colon Cancer",1
+"validation",5532557,"Colon Cancer",1
+"validation",5537730,"Colon Cancer",1
+"validation",5538758,"Colon Cancer",1
+"validation",5555230,"Colon Cancer",1
+"validation",5576588,"Colon Cancer",1
+"validation",5592056,"Colon Cancer",1
+"validation",5608140,"Colon Cancer",1
+"validation",5626688,"Colon Cancer",1
+"validation",5632627,"Control",0
+"validation",5637398,"Colon Cancer",1
+"validation",5656588,"Control",0
+"validation",5667934,"Colon Cancer",1
+"validation",5669605,"Control",0
+"validation",5670709,"Control",0
+"validation",5690097,"Colon Cancer",1
+"validation",5693828,"Colon Cancer",1
+"validation",5695928,"Colon Cancer",1
+"validation",5699690,"Colon Cancer",1
+"validation",5701047,"Colon Cancer",1
+"validation",5705658,"Colon Cancer",1
+"validation",5719383,"Colon Cancer",1
+"validation",5729858,"Colon Cancer",1
+"validation",5735041,"Colon Cancer",1
+"validation",5751335,"Colon Cancer",1
+"validation",5751555,"Colon Cancer",1
+"validation",5752217,"Colon Cancer",1
+"validation",5752594,"Colon Cancer",1
+"validation",5757117,"Colon Cancer",1
+"validation",5763712,"Colon Cancer",1
+"validation",5763786,"Colon Cancer",1
+"validation",5772303,"Colon Cancer",1
+"validation",5775145,"Colon Cancer",1
+"validation",5777067,"Colon Cancer",1
+"validation",5778101,"Colon Cancer",1
+"validation",5779359,"Colon Cancer",1
+"validation",5791192,"Colon Cancer",1
+"validation",5812850,"Colon Cancer",1
+"validation",5823460,"Colon Cancer",1
+"validation",5827100,"Colon Cancer",1
+"validation",5830708,"Colon Cancer",1
+"validation",5863707,"Colon Cancer",1
+"validation",5875824,"Colon Cancer",1
+"validation",5881981,"Colon Cancer",1
+"validation",5899615,"Colon Cancer",1
+"validation",5906351,"Colon Cancer",1
+"validation",5917174,"Colon Cancer",1
+"validation",5921488,"Colon Cancer",1
+"validation",5928535,"Colon Cancer",1
+"validation",5930418,"Colon Cancer",1
+"validation",5932900,"Colon Cancer",1
+"validation",5933819,"Colon Cancer",1
+"validation",5934980,"Colon Cancer",1
+"validation",5944722,"Colon Cancer",1
+"validation",5982765,"Colon Cancer",1
+"validation",5991007,"Colon Cancer",1
+"validation",6012711,"Colon Cancer",1
+"validation",6013901,"Colon Cancer",1
+"validation",6018811,"Colon Cancer",1
+"test",1006169,"Control",0
+"test",1008773,"Control",0
+"test",1010582,"Control",0
+"test",1011283,"Control",0
+"test",1012068,"Colon Cancer",1
+"test",1012830,"Control",0
+"test",1019000,"Control",0
+"test",1024395,"Control",0
+"test",1027298,"Control",0
+"test",1031002,"Control",0
+"test",1031208,"Control",0
+"test",1031237,"Control",0
+"test",1031401,"Control",0
+"test",1039136,"Control",0
+"test",1040116,"Control",0
+"test",1041042,"Control",0
+"test",1041697,"Control",0
+"test",1042627,"Colon Cancer",1
+"test",1043299,"Colon Cancer",1
+"test",1047754,"Control",0
+"test",1048180,"Control",0
+"test",1051648,"Control",0
+"test",1052831,"Colon Cancer",1
+"test",1054563,"Colon Cancer",1
+"test",1055604,"Colon Cancer",1
+"test",1056240,"Control",0
+"test",1057592,"Control",0
+"test",1058640,"Control",0
+"test",1060115,"Control",0
+"test",1064326,"Control",0
+"test",1065334,"Control",0
+"test",1066969,"Control",0
+"test",1068723,"Control",0
+"test",1071319,"Control",0
+"test",1071356,"Control",0
+"test",1072420,"Control",0
+"test",1072852,"Control",0
+"test",1075261,"Control",0
+"test",1076171,"Colon Cancer",1
+"test",1076904,"Control",0
+"test",1081969,"Control",0
+"test",1083381,"Control",0
+"test",1084341,"Control",0
+"test",1085418,"Control",0
+"test",1085512,"Control",0
+"test",1085822,"Colon Cancer",1
+"test",1088299,"Control",0
+"test",1090526,"Control",0
+"test",1091821,"Control",0
+"test",1093018,"Control",0
+"test",1093085,"Colon Cancer",1
+"test",1094459,"Colon Cancer",1
+"test",1095568,"Control",0
+"test",1095906,"Colon Cancer",1
+"test",1096011,"Control",0
+"test",1096083,"Control",0
+"test",1102672,"Control",0
+"test",1102726,"Control",0
+"test",1104646,"Control",0
+"test",1106055,"Control",0
+"test",1106860,"Control",0
+"test",1106929,"Control",0
+"test",1110262,"Control",0
+"test",1110458,"Control",0
+"test",1112860,"Control",0
+"test",1115083,"Control",0
+"test",1115278,"Control",0
+"test",1116283,"Control",0
+"test",1118314,"Control",0
+"test",1118971,"Colon Cancer",1
+"test",1122513,"Control",0
+"test",1124049,"Control",0
+"test",1124154,"Control",0
+"test",1125900,"Colon Cancer",1
+"test",1127719,"Control",0
+"test",1128020,"Control",0
+"test",1130269,"Control",0
+"test",1135144,"Control",0
+"test",1136481,"Colon Cancer",1
+"test",1136653,"Control",0
+"test",1139592,"Control",0
+"test",1140737,"Control",0
+"test",1141125,"Control",0
+"test",1141818,"Control",0
+"test",1142916,"Control",0
+"test",1143463,"Control",0
+"test",1145362,"Control",0
+"test",1153082,"Control",0
+"test",1153784,"Control",0
+"test",1155010,"Control",0
+"test",1155498,"Colon Cancer",1
+"test",1155654,"Control",0
+"test",1155904,"Control",0
+"test",1156418,"Control",0
+"test",1156755,"Colon Cancer",1
+"test",1157685,"Control",0
+"test",1158349,"Control",0
+"test",1163005,"Colon Cancer",1
+"test",1165596,"Control",0
+"test",1166547,"Colon Cancer",1
+"test",1168570,"Control",0
+"test",1169148,"Control",0
+"test",1169741,"Control",0
+"test",1169753,"Control",0
+"test",1171010,"Control",0
+"test",1171058,"Control",0
+"test",1171848,"Control",0
+"test",1172436,"Control",0
+"test",1174419,"Colon Cancer",1
+"test",1174823,"Colon Cancer",1
+"test",1175073,"Colon Cancer",1
+"test",1176847,"Control",0
+"test",1177512,"Control",0
+"test",1178223,"Control",0
+"test",1180157,"Colon Cancer",1
+"test",1182556,"Control",0
+"test",1182602,"Control",0
+"test",1183872,"Control",0
+"test",1184006,"Colon Cancer",1
+"test",1186169,"Control",0
+"test",1189269,"Control",0
+"test",1191404,"Control",0
+"test",1191634,"Control",0
+"test",1194898,"Control",0
+"test",1197048,"Control",0
+"test",1203743,"Control",0
+"test",1204112,"Control",0
+"test",1204198,"Colon Cancer",1
+"test",1206540,"Control",0
+"test",1210552,"Control",0
+"test",1211345,"Control",0
+"test",1211352,"Control",0
+"test",1213030,"Control",0
+"test",1213731,"Control",0
+"test",1214379,"Colon Cancer",1
+"test",1215349,"Control",0
+"test",1216000,"Control",0
+"test",1216923,"Control",0
+"test",1219510,"Control",0
+"test",1221165,"Control",0
+"test",1221274,"Control",0
+"test",1222298,"Control",0
+"test",1222737,"Control",0
+"test",1223011,"Control",0
+"test",1228161,"Control",0
+"test",1240187,"Control",0
+"test",1240606,"Control",0
+"test",1241346,"Control",0
+"test",1241555,"Control",0
+"test",1241969,"Colon Cancer",1
+"test",1243319,"Control",0
+"test",1245063,"Control",0
+"test",1249037,"Colon Cancer",1
+"test",1255339,"Control",0
+"test",1257805,"Colon Cancer",1
+"test",1259135,"Control",0
+"test",1264648,"Control",0
+"test",1265689,"Colon Cancer",1
+"test",1266090,"Colon Cancer",1
+"test",1269360,"Control",0
+"test",1270550,"Control",0
+"test",1271906,"Control",0
+"test",1272928,"Control",0
+"test",1273003,"Control",0
+"test",1273738,"Control",0
+"test",1283022,"Control",0
+"test",1283681,"Control",0
+"test",1284282,"Colon Cancer",1
+"test",1288428,"Control",0
+"test",1289807,"Control",0
+"test",1290642,"Control",0
+"test",1293477,"Control",0
+"test",1293551,"Control",0
+"test",1295264,"Control",0
+"test",1296257,"Control",0
+"test",1298907,"Colon Cancer",1
+"test",1300050,"Colon Cancer",1
+"test",1306959,"Control",0
+"test",1311673,"Control",0
+"test",1312019,"Control",0
+"test",1312772,"Control",0
+"test",1313346,"Control",0
+"test",1315681,"Control",0
+"test",1324249,"Control",0
+"test",1324621,"Control",0
+"test",1327825,"Control",0
+"test",1328077,"Control",0
+"test",1330171,"Control",0
+"test",1331129,"Control",0
+"test",1331166,"Control",0
+"test",1335176,"Control",0
+"test",1335335,"Control",0
+"test",1340344,"Control",0
+"test",1340528,"Colon Cancer",1
+"test",1342412,"Control",0
+"test",1342801,"Colon Cancer",1
+"test",1346093,"Control",0
+"test",1347183,"Control",0
+"test",1348744,"Control",0
+"test",1352067,"Control",0
+"test",1354127,"Control",0
+"test",1357190,"Control",0
+"test",1360144,"Colon Cancer",1
+"test",1362009,"Colon Cancer",1
+"test",1363079,"Control",0
+"test",1364133,"Control",0
+"test",1370559,"Control",0
+"test",1371009,"Control",0
+"test",1372910,"Control",0
+"test",1378925,"Control",0
+"test",1380115,"Colon Cancer",1
+"test",1382227,"Control",0
+"test",1392424,"Control",0
+"test",1397748,"Control",0
+"test",1402935,"Colon Cancer",1
+"test",1404029,"Control",0
+"test",1405762,"Control",0
+"test",1406378,"Control",0
+"test",1409133,"Control",0
+"test",1411246,"Control",0
+"test",1413835,"Colon Cancer",1
+"test",1413902,"Control",0
+"test",1420740,"Control",0
+"test",1425162,"Control",0
+"test",1427804,"Control",0
+"test",1429442,"Control",0
+"test",1429615,"Control",0
+"test",1431109,"Control",0
+"test",1434451,"Control",0
+"test",1434617,"Control",0
+"test",1438186,"Colon Cancer",1
+"test",1440863,"Control",0
+"test",1440881,"Control",0
+"test",1441813,"Colon Cancer",1
+"test",1442328,"Control",0
+"test",1444910,"Control",0
+"test",1453087,"Colon Cancer",1
+"test",1455673,"Control",0
+"test",1456743,"Control",0
+"test",1458501,"Control",0
+"test",1459799,"Control",0
+"test",1461170,"Control",0
+"test",1461634,"Control",0
+"test",1462980,"Control",0
+"test",1463516,"Control",0
+"test",1464830,"Colon Cancer",1
+"test",1474242,"Control",0
+"test",1474330,"Control",0
+"test",1474669,"Control",0
+"test",1475437,"Control",0
+"test",1479027,"Control",0
+"test",1480798,"Control",0
+"test",1481581,"Colon Cancer",1
+"test",1482690,"Control",0
+"test",1489208,"Control",0
+"test",1491851,"Control",0
+"test",1494462,"Colon Cancer",1
+"test",1497814,"Control",0
+"test",1498648,"Control",0
+"test",1500569,"Control",0
+"test",1502421,"Control",0
+"test",1508427,"Control",0
+"test",1511926,"Control",0
+"test",1514654,"Control",0
+"test",1516373,"Control",0
+"test",1517659,"Control",0
+"test",1519955,"Control",0
+"test",1521609,"Control",0
+"test",1522913,"Control",0
+"test",1525407,"Control",0
+"test",1527013,"Control",0
+"test",1529028,"Control",0
+"test",1529881,"Control",0
+"test",1532536,"Control",0
+"test",1534706,"Control",0
+"test",1544732,"Control",0
+"test",1546959,"Colon Cancer",1
+"test",1548845,"Control",0
+"test",1553519,"Control",0
+"test",1553602,"Colon Cancer",1
+"test",1554530,"Control",0
+"test",1555131,"Control",0
+"test",1563047,"Colon Cancer",1
+"test",1564656,"Control",0
+"test",1564858,"Colon Cancer",1
+"test",1574400,"Control",0
+"test",1576039,"Control",0
+"test",1576216,"Control",0
+"test",1576682,"Control",0
+"test",1577663,"Colon Cancer",1
+"test",1580624,"Control",0
+"test",1580807,"Control",0
+"test",1582631,"Control",0
+"test",1583675,"Control",0
+"test",1584666,"Control",0
+"test",1586770,"Colon Cancer",1
+"test",1586782,"Control",0
+"test",1587530,"Control",0
+"test",1589350,"Colon Cancer",1
+"test",1592870,"Control",0
+"test",1593147,"Control",0
+"test",1596657,"Colon Cancer",1
+"test",1597949,"Colon Cancer",1
+"test",1600451,"Colon Cancer",1
+"test",1601822,"Colon Cancer",1
+"test",1601947,"Control",0
+"test",1606633,"Colon Cancer",1
+"test",1609927,"Colon Cancer",1
+"test",1610717,"Control",0
+"test",1613848,"Control",0
+"test",1615924,"Control",0
+"test",1624238,"Control",0
+"test",1626060,"Colon Cancer",1
+"test",1628353,"Colon Cancer",1
+"test",1632415,"Control",0
+"test",1637356,"Control",0
+"test",1645363,"Control",0
+"test",1647370,"Control",0
+"test",1652273,"Control",0
+"test",1653333,"Colon Cancer",1
+"test",1655942,"Colon Cancer",1
+"test",1656910,"Control",0
+"test",1657248,"Control",0
+"test",1657482,"Control",0
+"test",1661646,"Colon Cancer",1
+"test",1665731,"Colon Cancer",1
+"test",1667683,"Control",0
+"test",1672297,"Control",0
+"test",1674306,"Control",0
+"test",1686168,"Control",0
+"test",1688634,"Control",0
+"test",1699070,"Colon Cancer",1
+"test",1699511,"Control",0
+"test",1700891,"Control",0
+"test",1701537,"Colon Cancer",1
+"test",1703527,"Colon Cancer",1
+"test",1711226,"Control",0
+"test",1712454,"Control",0
+"test",1712605,"Colon Cancer",1
+"test",1712720,"Control",0
+"test",1716602,"Colon Cancer",1
+"test",1723993,"Colon Cancer",1
+"test",1725019,"Colon Cancer",1
+"test",1729698,"Colon Cancer",1
+"test",1737762,"Control",0
+"test",1741585,"Colon Cancer",1
+"test",1744041,"Colon Cancer",1
+"test",1747299,"Control",0
+"test",1752942,"Control",0
+"test",1755731,"Colon Cancer",1
+"test",1755841,"Control",0
+"test",1765094,"Control",0
+"test",1766334,"Control",0
+"test",1767570,"Control",0
+"test",1768806,"Control",0
+"test",1769226,"Control",0
+"test",1771671,"Colon Cancer",1
+"test",1775075,"Control",0
+"test",1775228,"Control",0
+"test",1782617,"Colon Cancer",1
+"test",1783399,"Colon Cancer",1
+"test",1786559,"Control",0
+"test",1789428,"Colon Cancer",1
+"test",1791569,"Control",0
+"test",1793175,"Control",0
+"test",1804074,"Control",0
+"test",1805242,"Control",0
+"test",1808890,"Colon Cancer",1
+"test",1808964,"Control",0
+"test",1809227,"Control",0
+"test",1809737,"Control",0
+"test",1815427,"Control",0
+"test",1817510,"Control",0
+"test",1817575,"Control",0
+"test",1821943,"Control",0
+"test",1829470,"Colon Cancer",1
+"test",1833514,"Colon Cancer",1
+"test",1834961,"Colon Cancer",1
+"test",1847972,"Colon Cancer",1
+"test",1849268,"Colon Cancer",1
+"test",1852320,"Control",0
+"test",1853065,"Control",0
+"test",1853460,"Control",0
+"test",1853510,"Control",0
+"test",1865914,"Control",0
+"test",1866246,"Control",0
+"test",1871947,"Colon Cancer",1
+"test",1872206,"Colon Cancer",1
+"test",1873046,"Colon Cancer",1
+"test",1874614,"Colon Cancer",1
+"test",1878782,"Control",0
+"test",1881246,"Colon Cancer",1
+"test",1882798,"Control",0
+"test",1884444,"Control",0
+"test",1887848,"Control",0
+"test",1892040,"Control",0
+"test",1896892,"Control",0
+"test",1899763,"Colon Cancer",1
+"test",1910902,"Colon Cancer",1
+"test",1916018,"Control",0
+"test",1921785,"Control",0
+"test",1928703,"Colon Cancer",1
+"test",1932577,"Control",0
+"test",1952733,"Colon Cancer",1
+"test",1956668,"Control",0
+"test",1957809,"Colon Cancer",1
+"test",1958558,"Control",0
+"test",1959951,"Colon Cancer",1
+"test",1963800,"Control",0
+"test",1967133,"Colon Cancer",1
+"test",1974209,"Control",0
+"test",1981174,"Colon Cancer",1
+"test",1982056,"Colon Cancer",1
+"test",1985502,"Control",0
+"test",1988899,"Control",0
+"test",1991976,"Control",0
+"test",1998883,"Control",0
+"test",1999158,"Colon Cancer",1
+"test",2005554,"Control",0
+"test",2006018,"Control",0
+"test",2007940,"Colon Cancer",1
+"test",2020668,"Colon Cancer",1
+"test",2024224,"Control",0
+"test",2027605,"Control",0
+"test",2040732,"Control",0
+"test",2056721,"Control",0
+"test",2062358,"Control",0
+"test",2065407,"Control",0
+"test",2069104,"Control",0
+"test",2069775,"Colon Cancer",1
+"test",2070917,"Control",0
+"test",2082931,"Control",0
+"test",2090156,"Control",0
+"test",2096776,"Colon Cancer",1
+"test",2102810,"Control",0
+"test",2106505,"Control",0
+"test",2114459,"Control",0
+"test",2115224,"Colon Cancer",1
+"test",2115674,"Control",0
+"test",2115690,"Control",0
+"test",2122239,"Colon Cancer",1
+"test",2124006,"Control",0
+"test",2128109,"Control",0
+"test",2132545,"Control",0
+"test",2133000,"Control",0
+"test",2146236,"Control",0
+"test",2149264,"Control",0
+"test",2155726,"Control",0
+"test",2158226,"Colon Cancer",1
+"test",2158947,"Colon Cancer",1
+"test",2161653,"Control",0
+"test",2165056,"Colon Cancer",1
+"test",2170186,"Control",0
+"test",2171570,"Control",0
+"test",2174952,"Control",0
+"test",2184509,"Control",0
+"test",2185241,"Colon Cancer",1
+"test",2196452,"Colon Cancer",1
+"test",2196503,"Control",0
+"test",2198181,"Colon Cancer",1
+"test",2198240,"Colon Cancer",1
+"test",2199350,"Colon Cancer",1
+"test",2204256,"Control",0
+"test",2208353,"Control",0
+"test",2217507,"Colon Cancer",1
+"test",2217870,"Control",0
+"test",2227099,"Control",0
+"test",2238002,"Control",0
+"test",2243174,"Colon Cancer",1
+"test",2249873,"Colon Cancer",1
+"test",2255658,"Colon Cancer",1
+"test",2258912,"Control",0
+"test",2260525,"Colon Cancer",1
+"test",2262521,"Colon Cancer",1
+"test",2265293,"Control",0
+"test",2269183,"Colon Cancer",1
+"test",2273672,"Colon Cancer",1
+"test",2278841,"Colon Cancer",1
+"test",2281565,"Control",0
+"test",2285983,"Colon Cancer",1
+"test",2287573,"Colon Cancer",1
+"test",2289914,"Colon Cancer",1
+"test",2290114,"Control",0
+"test",2295784,"Control",0
+"test",2306058,"Control",0
+"test",2307784,"Colon Cancer",1
+"test",2308153,"Colon Cancer",1
+"test",2314056,"Control",0
+"test",2320462,"Colon Cancer",1
+"test",2322057,"Colon Cancer",1
+"test",2323320,"Colon Cancer",1
+"test",2323758,"Control",0
+"test",2324716,"Control",0
+"test",2326216,"Colon Cancer",1
+"test",2326705,"Colon Cancer",1
+"test",2330406,"Control",0
+"test",2333754,"Colon Cancer",1
+"test",2343497,"Control",0
+"test",2351190,"Control",0
+"test",2352736,"Colon Cancer",1
+"test",2357095,"Colon Cancer",1
+"test",2359285,"Control",0
+"test",2365026,"Colon Cancer",1
+"test",2389570,"Colon Cancer",1
+"test",2393652,"Colon Cancer",1
+"test",2404436,"Control",0
+"test",2411186,"Colon Cancer",1
+"test",2420558,"Colon Cancer",1
+"test",2425151,"Colon Cancer",1
+"test",2427352,"Control",0
+"test",2432783,"Colon Cancer",1
+"test",2470066,"Control",0
+"test",2488822,"Control",0
+"test",2490158,"Control",0
+"test",2497659,"Colon Cancer",1
+"test",2501849,"Control",0
+"test",2503432,"Control",0
+"test",2508150,"Colon Cancer",1
+"test",2526088,"Control",0
+"test",2543942,"Control",0
+"test",2551814,"Control",0
+"test",2554918,"Colon Cancer",1
+"test",2559967,"Colon Cancer",1
+"test",2568075,"Control",0
+"test",2569960,"Control",0
+"test",2570366,"Control",0
+"test",2592249,"Colon Cancer",1
+"test",2597396,"Colon Cancer",1
+"test",2622010,"Colon Cancer",1
+"test",2623336,"Colon Cancer",1
+"test",2629715,"Control",0
+"test",2630426,"Colon Cancer",1
+"test",2637576,"Colon Cancer",1
+"test",2652698,"Colon Cancer",1
+"test",2679511,"Control",0
+"test",2688211,"Control",0
+"test",2692625,"Colon Cancer",1
+"test",2693698,"Control",0
+"test",2696549,"Colon Cancer",1
+"test",2730698,"Control",0
+"test",2762409,"Control",0
+"test",2762871,"Colon Cancer",1
+"test",2764552,"Control",0
+"test",2774224,"Colon Cancer",1
+"test",2795826,"Control",0
+"test",2808437,"Colon Cancer",1
+"test",2811057,"Colon Cancer",1
+"test",2815333,"Colon Cancer",1
+"test",2832342,"Colon Cancer",1
+"test",2832604,"Colon Cancer",1
+"test",2840618,"Control",0
+"test",2843892,"Control",0
+"test",2846874,"Control",0
+"test",2852931,"Control",0
+"test",2856861,"Colon Cancer",1
+"test",2859169,"Colon Cancer",1
+"test",2865577,"Control",0
+"test",2870930,"Control",0
+"test",2884946,"Colon Cancer",1
+"test",2887196,"Control",0
+"test",2890382,"Control",0
+"test",2901185,"Colon Cancer",1
+"test",2902666,"Colon Cancer",1
+"test",2916193,"Control",0
+"test",2918428,"Colon Cancer",1
+"test",2921814,"Colon Cancer",1
+"test",2924405,"Control",0
+"test",2934219,"Colon Cancer",1
+"test",2939563,"Colon Cancer",1
+"test",2942172,"Control",0
+"test",2952020,"Colon Cancer",1
+"test",2975622,"Control",0
+"test",2987176,"Colon Cancer",1
+"test",2989954,"Control",0
+"test",2990542,"Colon Cancer",1
+"test",2993455,"Colon Cancer",1
+"test",3004237,"Colon Cancer",1
+"test",3005857,"Control",0
+"test",3018969,"Colon Cancer",1
+"test",3019007,"Colon Cancer",1
+"test",3027554,"Control",0
+"test",3032272,"Colon Cancer",1
+"test",3042268,"Control",0
+"test",3052859,"Colon Cancer",1
+"test",3064580,"Colon Cancer",1
+"test",3072867,"Colon Cancer",1
+"test",3084318,"Colon Cancer",1
+"test",3086087,"Control",0
+"test",3086283,"Colon Cancer",1
+"test",3090796,"Control",0
+"test",3098891,"Control",0
+"test",3108331,"Control",0
+"test",3121398,"Control",0
+"test",3124070,"Colon Cancer",1
+"test",3124720,"Colon Cancer",1
+"test",3129977,"Control",0
+"test",3133219,"Control",0
+"test",3141050,"Colon Cancer",1
+"test",3154402,"Control",0
+"test",3160555,"Colon Cancer",1
+"test",3195172,"Colon Cancer",1
+"test",3202540,"Control",0
+"test",3203458,"Control",0
+"test",3205219,"Control",0
+"test",3212213,"Colon Cancer",1
+"test",3212482,"Control",0
+"test",3212584,"Colon Cancer",1
+"test",3224346,"Control",0
+"test",3232525,"Control",0
+"test",3235326,"Control",0
+"test",3236472,"Control",0
+"test",3245601,"Colon Cancer",1
+"test",3255450,"Colon Cancer",1
+"test",3256263,"Control",0
+"test",3268707,"Colon Cancer",1
+"test",3270091,"Control",0
+"test",3275991,"Colon Cancer",1
+"test",3282085,"Colon Cancer",1
+"test",3285155,"Colon Cancer",1
+"test",3286053,"Colon Cancer",1
+"test",3303773,"Control",0
+"test",3309491,"Colon Cancer",1
+"test",3314091,"Control",0
+"test",3318709,"Colon Cancer",1
+"test",3332814,"Colon Cancer",1
+"test",3345260,"Colon Cancer",1
+"test",3357991,"Colon Cancer",1
+"test",3375665,"Control",0
+"test",3391017,"Colon Cancer",1
+"test",3411207,"Colon Cancer",1
+"test",3422689,"Colon Cancer",1
+"test",3438889,"Colon Cancer",1
+"test",3445850,"Colon Cancer",1
+"test",3485663,"Control",0
+"test",3496835,"Colon Cancer",1
+"test",3516689,"Control",0
+"test",3516790,"Colon Cancer",1
+"test",3529349,"Colon Cancer",1
+"test",3531658,"Colon Cancer",1
+"test",3555557,"Colon Cancer",1
+"test",3563030,"Colon Cancer",1
+"test",3563487,"Colon Cancer",1
+"test",3573562,"Colon Cancer",1
+"test",3574548,"Colon Cancer",1
+"test",3578795,"Control",0
+"test",3584264,"Colon Cancer",1
+"test",3585901,"Control",0
+"test",3587395,"Control",0
+"test",3589645,"Colon Cancer",1
+"test",3591564,"Colon Cancer",1
+"test",3598935,"Colon Cancer",1
+"test",3604313,"Colon Cancer",1
+"test",3606804,"Colon Cancer",1
+"test",3624102,"Colon Cancer",1
+"test",3627882,"Colon Cancer",1
+"test",3664859,"Colon Cancer",1
+"test",3666448,"Control",0
+"test",3669780,"Colon Cancer",1
+"test",3675091,"Colon Cancer",1
+"test",3682003,"Colon Cancer",1
+"test",3684129,"Colon Cancer",1
+"test",3687773,"Colon Cancer",1
+"test",3701305,"Control",0
+"test",3721978,"Colon Cancer",1
+"test",3725395,"Colon Cancer",1
+"test",3745426,"Colon Cancer",1
+"test",3759835,"Control",0
+"test",3765322,"Control",0
+"test",3787411,"Colon Cancer",1
+"test",3803391,"Colon Cancer",1
+"test",3804726,"Colon Cancer",1
+"test",3817864,"Colon Cancer",1
+"test",3823486,"Control",0
+"test",3830506,"Colon Cancer",1
+"test",3837080,"Colon Cancer",1
+"test",3839582,"Colon Cancer",1
+"test",3843324,"Colon Cancer",1
+"test",3844736,"Colon Cancer",1
+"test",3846914,"Control",0
+"test",3852140,"Colon Cancer",1
+"test",3855672,"Colon Cancer",1
+"test",3864848,"Colon Cancer",1
+"test",3881274,"Colon Cancer",1
+"test",3882643,"Colon Cancer",1
+"test",3886615,"Control",0
+"test",3896452,"Colon Cancer",1
+"test",3901559,"Colon Cancer",1
+"test",3906589,"Colon Cancer",1
+"test",3906907,"Control",0
+"test",3911276,"Colon Cancer",1
+"test",3915221,"Colon Cancer",1
+"test",3919734,"Colon Cancer",1
+"test",3942818,"Colon Cancer",1
+"test",3952284,"Control",0
+"test",3958762,"Colon Cancer",1
+"test",3965851,"Colon Cancer",1
+"test",3975302,"Colon Cancer",1
+"test",3976904,"Control",0
+"test",3982594,"Colon Cancer",1
+"test",3992586,"Colon Cancer",1
+"test",3995745,"Colon Cancer",1
+"test",3995931,"Colon Cancer",1
+"test",3999098,"Colon Cancer",1
+"test",4019276,"Colon Cancer",1
+"test",4025219,"Colon Cancer",1
+"test",4054974,"Control",0
+"test",4058770,"Colon Cancer",1
+"test",4074102,"Colon Cancer",1
+"test",4079534,"Colon Cancer",1
+"test",4085017,"Colon Cancer",1
+"test",4087546,"Colon Cancer",1
+"test",4094624,"Colon Cancer",1
+"test",4100770,"Colon Cancer",1
+"test",4103705,"Colon Cancer",1
+"test",4107535,"Colon Cancer",1
+"test",4111831,"Colon Cancer",1
+"test",4119223,"Colon Cancer",1
+"test",4121835,"Colon Cancer",1
+"test",4126403,"Colon Cancer",1
+"test",4157730,"Colon Cancer",1
+"test",4160348,"Colon Cancer",1
+"test",4163294,"Colon Cancer",1
+"test",4167163,"Colon Cancer",1
+"test",4174885,"Colon Cancer",1
+"test",4176751,"Colon Cancer",1
+"test",4178403,"Colon Cancer",1
+"test",4179763,"Colon Cancer",1
+"test",4248427,"Control",0
+"test",4252466,"Control",0
+"test",4252571,"Colon Cancer",1
+"test",4261401,"Colon Cancer",1
+"test",4279844,"Colon Cancer",1
+"test",4284014,"Colon Cancer",1
+"test",4288259,"Colon Cancer",1
+"test",4322777,"Colon Cancer",1
+"test",4323828,"Colon Cancer",1
+"test",4340866,"Colon Cancer",1
+"test",4342562,"Colon Cancer",1
+"test",4361214,"Colon Cancer",1
+"test",4366672,"Colon Cancer",1
+"test",4377114,"Colon Cancer",1
+"test",4392917,"Colon Cancer",1
+"test",4407678,"Colon Cancer",1
+"test",4407689,"Colon Cancer",1
+"test",4415425,"Colon Cancer",1
+"test",4419680,"Control",0
+"test",4422347,"Colon Cancer",1
+"test",4433425,"Colon Cancer",1
+"test",4438943,"Colon Cancer",1
+"test",4465369,"Colon Cancer",1
+"test",4466718,"Control",0
+"test",4474347,"Control",0
+"test",4495856,"Colon Cancer",1
+"test",4514543,"Colon Cancer",1
+"test",4541827,"Colon Cancer",1
+"test",4543218,"Colon Cancer",1
+"test",4546844,"Colon Cancer",1
+"test",4569924,"Colon Cancer",1
+"test",4570571,"Colon Cancer",1
+"test",4577091,"Colon Cancer",1
+"test",4585383,"Colon Cancer",1
+"test",4595620,"Colon Cancer",1
+"test",4599105,"Colon Cancer",1
+"test",4607289,"Colon Cancer",1
+"test",4638636,"Colon Cancer",1
+"test",4638964,"Colon Cancer",1
+"test",4642913,"Colon Cancer",1
+"test",4644455,"Colon Cancer",1
+"test",4645268,"Colon Cancer",1
+"test",4645629,"Control",0
+"test",4649009,"Colon Cancer",1
+"test",4673898,"Control",0
+"test",4676848,"Colon Cancer",1
+"test",4684252,"Colon Cancer",1
+"test",4704016,"Control",0
+"test",4720205,"Control",0
+"test",4730653,"Colon Cancer",1
+"test",4733053,"Colon Cancer",1
+"test",4735102,"Colon Cancer",1
+"test",4744239,"Colon Cancer",1
+"test",4751929,"Colon Cancer",1
+"test",4761209,"Colon Cancer",1
+"test",4767968,"Colon Cancer",1
+"test",4769638,"Control",0
+"test",4776321,"Colon Cancer",1
+"test",4781662,"Colon Cancer",1
+"test",4785881,"Control",0
+"test",4802675,"Colon Cancer",1
+"test",4809932,"Colon Cancer",1
+"test",4824821,"Colon Cancer",1
+"test",4825352,"Colon Cancer",1
+"test",4830479,"Colon Cancer",1
+"test",4859647,"Colon Cancer",1
+"test",4861324,"Colon Cancer",1
+"test",4867820,"Colon Cancer",1
+"test",4874871,"Colon Cancer",1
+"test",4877537,"Control",0
+"test",4886792,"Colon Cancer",1
+"test",4894792,"Colon Cancer",1
+"test",4897742,"Colon Cancer",1
+"test",4906317,"Colon Cancer",1
+"test",4929666,"Colon Cancer",1
+"test",4948461,"Control",0
+"test",4954729,"Colon Cancer",1
+"test",4976488,"Colon Cancer",1
+"test",4988067,"Colon Cancer",1
+"test",4989158,"Colon Cancer",1
+"test",4999264,"Colon Cancer",1
+"test",5004140,"Colon Cancer",1
+"test",5019686,"Control",0
+"test",5026841,"Colon Cancer",1
+"test",5049743,"Colon Cancer",1
+"test",5055398,"Colon Cancer",1
+"test",5071539,"Control",0
+"test",5086230,"Colon Cancer",1
+"test",5087573,"Colon Cancer",1
+"test",5089533,"Colon Cancer",1
+"test",5095651,"Colon Cancer",1
+"test",5097648,"Colon Cancer",1
+"test",5112741,"Colon Cancer",1
+"test",5114948,"Control",0
+"test",5143523,"Colon Cancer",1
+"test",5144031,"Colon Cancer",1
+"test",5149527,"Control",0
+"test",5170424,"Colon Cancer",1
+"test",5217693,"Colon Cancer",1
+"test",5222349,"Colon Cancer",1
+"test",5241276,"Colon Cancer",1
+"test",5263559,"Colon Cancer",1
+"test",5269359,"Colon Cancer",1
+"test",5276986,"Colon Cancer",1
+"test",5278102,"Colon Cancer",1
+"test",5300209,"Colon Cancer",1
+"test",5314917,"Colon Cancer",1
+"test",5315771,"Colon Cancer",1
+"test",5335329,"Colon Cancer",1
+"test",5338192,"Colon Cancer",1
+"test",5344525,"Control",0
+"test",5368509,"Colon Cancer",1
+"test",5369760,"Colon Cancer",1
+"test",5381715,"Colon Cancer",1
+"test",5382495,"Control",0
+"test",5396658,"Control",0
+"test",5398595,"Colon Cancer",1
+"test",5399528,"Colon Cancer",1
+"test",5401273,"Colon Cancer",1
+"test",5408210,"Colon Cancer",1
+"test",5416681,"Colon Cancer",1
+"test",5420822,"Colon Cancer",1
+"test",5421402,"Colon Cancer",1
+"test",5422569,"Colon Cancer",1
+"test",5449560,"Colon Cancer",1
+"test",5464121,"Colon Cancer",1
+"test",5477912,"Colon Cancer",1
+"test",5483547,"Colon Cancer",1
+"test",5499192,"Colon Cancer",1
+"test",5503763,"Colon Cancer",1
+"test",5515815,"Colon Cancer",1
+"test",5524624,"Colon Cancer",1
+"test",5526042,"Colon Cancer",1
+"test",5528207,"Colon Cancer",1
+"test",5552085,"Colon Cancer",1
+"test",5560323,"Colon Cancer",1
+"test",5569366,"Control",0
+"test",5572543,"Control",0
+"test",5577082,"Colon Cancer",1
+"test",5577214,"Colon Cancer",1
+"test",5587633,"Colon Cancer",1
+"test",5598921,"Control",0
+"test",5599765,"Colon Cancer",1
+"test",5612968,"Colon Cancer",1
+"test",5614373,"Colon Cancer",1
+"test",5618579,"Colon Cancer",1
+"test",5618600,"Colon Cancer",1
+"test",5630032,"Colon Cancer",1
+"test",5645263,"Control",0
+"test",5647361,"Colon Cancer",1
+"test",5665835,"Colon Cancer",1
+"test",5666468,"Colon Cancer",1
+"test",5675428,"Colon Cancer",1
+"test",5686233,"Colon Cancer",1
+"test",5700901,"Colon Cancer",1
+"test",5703731,"Colon Cancer",1
+"test",5712343,"Colon Cancer",1
+"test",5728142,"Colon Cancer",1
+"test",5735850,"Colon Cancer",1
+"test",5747936,"Colon Cancer",1
+"test",5752320,"Colon Cancer",1
+"test",5772174,"Colon Cancer",1
+"test",5773826,"Colon Cancer",1
+"test",5787394,"Colon Cancer",1
+"test",5809754,"Colon Cancer",1
+"test",5818251,"Colon Cancer",1
+"test",5830148,"Colon Cancer",1
+"test",5855221,"Control",0
+"test",5876609,"Colon Cancer",1
+"test",5881589,"Colon Cancer",1
+"test",5882588,"Colon Cancer",1
+"test",5891023,"Colon Cancer",1
+"test",5891356,"Colon Cancer",1
+"test",5895529,"Colon Cancer",1
+"test",5898835,"Colon Cancer",1
+"test",5898854,"Colon Cancer",1
+"test",5905439,"Control",0
+"test",5909768,"Colon Cancer",1
+"test",5910909,"Colon Cancer",1
+"test",5917119,"Colon Cancer",1
+"test",5922271,"Colon Cancer",1
+"test",5928500,"Colon Cancer",1
+"test",5934605,"Colon Cancer",1
+"test",5937149,"Colon Cancer",1
+"test",5950857,"Colon Cancer",1
+"test",5955661,"Colon Cancer",1
+"test",5961103,"Colon Cancer",1
+"test",5976575,"Colon Cancer",1
+"test",5980013,"Colon Cancer",1
+"test",5984833,"Control",0
+"test",5992082,"Colon Cancer",1
+"test",5993869,"Colon Cancer",1
+"test",5995879,"Colon Cancer",1
+"test",6009662,"Colon Cancer",1

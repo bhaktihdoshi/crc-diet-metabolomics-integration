@@ -1,0 +1,15 @@
+{
+  "matched_samples": 4596,
+  "target_counts": {
+    "Control": 2327,
+    "Colon Cancer": 2269
+  },
+  "diet_features_raw": 8,
+  "metabolite_features_raw": 50,
+  "diet_missing_cell_rate": 0.012238903394255875,
+  "metabolomics_missing_cell_rate": 3.91644908616188e-05,
+  "diet_features_fdr_lt_0_05": 2,
+  "metabolite_features_fdr_lt_0_05": 43,
+  "label_conflicts_after_stripping": 0,
+  "leakage_note": "No imputation is performed in this script. Modeling imputation is fit on training data only."
+}

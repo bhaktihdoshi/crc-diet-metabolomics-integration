@@ -1,0 +1,5 @@
+"model","threshold","threshold_source"
+"Diet-only Elastic Net",0.505724896880439,"validation_youden"
+"Metabolomics-only Elastic Net",0.502246875865475,"validation_youden"
+"Late stacked Elastic Net",0.49572471392839,"validation_youden"
+"Block PLS + Elastic Net",0.511360472205536,"validation_youden"

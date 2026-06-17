@@ -1,0 +1,9 @@
+feature,negative_code_count,negative_code_rate
+Pork_intake,35,0.007615317667536988
+Lamb_mutton_intake,31,0.006744995648389904
+Non_oily_fish_intake,22,0.004786771105308964
+Oily_fish_intake,19,0.004134029590948651
+Bread_type,12,0.0026109660574412533
+Processed_meat_intake,9,0.0019582245430809398
+Cheese_intake,8,0.0017406440382941688
+Spread_type,7,0.0015230635335073978
