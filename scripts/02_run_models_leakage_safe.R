@@ -156,6 +156,118 @@ predict_en <- function(obj, x_raw) {
   as.numeric(predict(obj$fit, newx = x, s = obj$lambda, type = "response"))
 }
 
+project_block_pls <- function(x_diet_raw, x_met_raw, obj) {
+  xd <- prep_apply(x_diet_raw, obj$prep_diet)
+  xm <- prep_apply(x_met_raw, obj$prep_met)
+  latent <- cbind(
+    xd %*% obj$wd[, seq_len(obj$diet_components), drop = FALSE],
+    xm %*% obj$wm[, seq_len(obj$metabolite_components), drop = FALSE]
+  )
+  colnames(latent) <- c(
+    paste0("diet_PLS", seq_len(obj$diet_components)),
+    paste0("met_PLS", seq_len(obj$metabolite_components))
+  )
+  latent
+}
+
+fit_block_pls_en_leakage_safe <- function(x_diet_raw, x_met_raw, y, train_idx, val_idx,
+                                          diet_components, metabolite_components,
+                                          alpha_grid = c(0, 0.25, 0.5, 0.75, 1),
+                                          lambda_grid = exp(seq(log(0.5), log(1e-4), length.out = 80))) {
+  folds <- make_folds(y[train_idx], k = 5)
+  hpo <- list()
+  best <- NULL
+
+  for (alpha in alpha_grid) {
+    fold_auc <- matrix(NA_real_, nrow = 5, ncol = length(lambda_grid))
+    for (fold in 1:5) {
+      inner_train <- train_idx[folds != fold]
+      inner_val <- train_idx[folds == fold]
+
+      prep_d <- prep_fit(x_diet_raw[inner_train, , drop = FALSE])
+      prep_m <- prep_fit(x_met_raw[inner_train, , drop = FALSE])
+      xd_tr <- prep_apply(x_diet_raw[inner_train, , drop = FALSE], prep_d)
+      xd_va <- prep_apply(x_diet_raw[inner_val, , drop = FALSE], prep_d)
+      xm_tr <- prep_apply(x_met_raw[inner_train, , drop = FALSE], prep_m)
+      xm_va <- prep_apply(x_met_raw[inner_val, , drop = FALSE], prep_m)
+
+      if (diet_components > ncol(xd_tr) || metabolite_components > ncol(xm_tr)) next
+
+      pls_d <- plsr(y[inner_train] ~ xd_tr, ncomp = diet_components, center = FALSE, scale = FALSE, validation = "none")
+      pls_m <- plsr(y[inner_train] ~ xm_tr, ncomp = metabolite_components, center = FALSE, scale = FALSE, validation = "none")
+      wd_fold <- pls_d$loading.weights[, seq_len(diet_components), drop = FALSE]
+      wm_fold <- pls_m$loading.weights[, seq_len(metabolite_components), drop = FALSE]
+      latent_train <- cbind(xd_tr %*% wd_fold, xm_tr %*% wm_fold)
+      latent_val <- cbind(xd_va %*% wd_fold, xm_va %*% wm_fold)
+      colnames(latent_train) <- colnames(latent_val) <- c(
+        paste0("diet_PLS", seq_len(diet_components)),
+        paste0("met_PLS", seq_len(metabolite_components))
+      )
+
+      prep_latent <- prep_fit(latent_train)
+      lat_tr <- prep_apply(latent_train, prep_latent)
+      lat_va <- prep_apply(latent_val, prep_latent)
+      fit <- glmnet(lat_tr, y[inner_train], family = "binomial", alpha = alpha,
+                    lambda = lambda_grid, standardize = FALSE)
+      prob <- predict(fit, newx = lat_va, s = lambda_grid, type = "response")
+      fold_auc[fold, ] <- vapply(seq_along(lambda_grid), function(i) auc_value(y[inner_val], prob[, i]), numeric(1))
+    }
+
+    mean_auc <- colMeans(fold_auc, na.rm = TRUE)
+    if (all(is.na(mean_auc))) next
+    i <- which.max(mean_auc)
+
+    prep_d_full <- prep_fit(x_diet_raw[train_idx, , drop = FALSE])
+    prep_m_full <- prep_fit(x_met_raw[train_idx, , drop = FALSE])
+    xd_train <- prep_apply(x_diet_raw[train_idx, , drop = FALSE], prep_d_full)
+    xm_train <- prep_apply(x_met_raw[train_idx, , drop = FALSE], prep_m_full)
+    xd_val <- prep_apply(x_diet_raw[val_idx, , drop = FALSE], prep_d_full)
+    xm_val <- prep_apply(x_met_raw[val_idx, , drop = FALSE], prep_m_full)
+
+    pls_d_full <- plsr(y[train_idx] ~ xd_train, ncomp = diet_components, center = FALSE, scale = FALSE, validation = "none")
+    pls_m_full <- plsr(y[train_idx] ~ xm_train, ncomp = metabolite_components, center = FALSE, scale = FALSE, validation = "none")
+    wd_full <- pls_d_full$loading.weights[, seq_len(diet_components), drop = FALSE]
+    wm_full <- pls_m_full$loading.weights[, seq_len(metabolite_components), drop = FALSE]
+    latent_train <- cbind(xd_train %*% wd_full, xm_train %*% wm_full)
+    latent_val <- cbind(xd_val %*% wd_full, xm_val %*% wm_full)
+    colnames(latent_train) <- colnames(latent_val) <- c(
+      paste0("diet_PLS", seq_len(diet_components)),
+      paste0("met_PLS", seq_len(metabolite_components))
+    )
+
+    prep_latent_full <- prep_fit(latent_train)
+    lat_train <- prep_apply(latent_train, prep_latent_full)
+    lat_val <- prep_apply(latent_val, prep_latent_full)
+    fit_full <- glmnet(lat_train, y[train_idx], family = "binomial", alpha = alpha,
+                       lambda = lambda_grid, standardize = FALSE)
+    p_val <- as.numeric(predict(fit_full, newx = lat_val, s = lambda_grid[i], type = "response"))
+    row <- data.frame(
+      model = "Block PLS + Elastic Net", alpha = alpha, lambda = lambda_grid[i],
+      mean_inner_cv_auc = mean_auc[i], validation_auc = auc_value(y[val_idx], p_val),
+      diet_components = diet_components, metabolite_components = metabolite_components
+    )
+    hpo[[length(hpo) + 1]] <- row
+    candidate <- list(
+      fit = fit_full, lambda = lambda_grid[i], alpha = alpha,
+      prep_diet = prep_d_full, prep_met = prep_m_full, prep_latent = prep_latent_full,
+      wd = wd_full, wm = wm_full,
+      diet_components = diet_components, metabolite_components = metabolite_components,
+      validation_auc = row$validation_auc
+    )
+    if (is.null(best) || candidate$validation_auc > best$validation_auc) best <- candidate
+  }
+
+  hpo_df <- do.call(rbind, hpo)
+  hpo_df <- hpo_df[order(-hpo_df$validation_auc), ]
+  list(best = best, hpo = hpo_df)
+}
+
+predict_block_pls_en <- function(obj, x_diet_raw, x_met_raw) {
+  latent <- project_block_pls(x_diet_raw, x_met_raw, obj)
+  latent <- prep_apply(latent, obj$prep_latent)
+  as.numeric(predict(obj$fit, newx = latent, s = obj$lambda, type = "response"))
+}
+
 x_diet <- as.matrix(df[, diet_cols])
 x_met <- as.matrix(df[, met_cols])
 storage.mode(x_diet) <- "double"
@@ -175,17 +287,10 @@ p_stack_val <- as.numeric(predict(stack_fit, newdata = stack_train, type = "resp
 p_stack_test <- as.numeric(predict(stack_fit, newdata = data.frame(diet_prob = p_diet_test, metabolomics_prob = p_met_test), type = "response"))
 
 # Intermediate Block PLS + EN.
-prep_diet <- prep_fit(x_diet[split$train, , drop = FALSE])
-prep_met <- prep_fit(x_met[split$train, , drop = FALSE])
-xd_all <- prep_apply(x_diet, prep_diet)
-xm_all <- prep_apply(x_met, prep_met)
-max_d_pls <- min(8, ncol(xd_all), length(split$train) - 1)
-max_m_pls <- min(20, ncol(xm_all), length(split$train) - 1)
-pls_d <- plsr(y[split$train] ~ xd_all[split$train, , drop = FALSE], ncomp = max_d_pls, center = FALSE, scale = FALSE, validation = "none")
-pls_m <- plsr(y[split$train] ~ xm_all[split$train, , drop = FALSE], ncomp = max_m_pls, center = FALSE, scale = FALSE, validation = "none")
-wd <- pls_d$loading.weights
-wm <- pls_m$loading.weights
-
+train_prep_diet <- prep_fit(x_diet[split$train, , drop = FALSE])
+train_prep_met <- prep_fit(x_met[split$train, , drop = FALSE])
+max_d_pls <- min(8, length(train_prep_diet$features), length(split$train) - 1)
+max_m_pls <- min(20, length(train_prep_met$features), length(split$train) - 1)
 pls_grid <- expand.grid(
   diet_components = c(1, 2, 4, 8),
   metabolite_components = c(1, 2, 5, 10, 20)
@@ -198,14 +303,9 @@ block_preds <- list()
 for (i in seq_len(nrow(pls_grid))) {
   dp <- pls_grid$diet_components[i]
   mp <- pls_grid$metabolite_components[i]
-  x_latent <- cbind(
-    xd_all %*% wd[, seq_len(dp), drop = FALSE],
-    xm_all %*% wm[, seq_len(mp), drop = FALSE]
-  )
-  colnames(x_latent) <- c(paste0("diet_PLS", seq_len(dp)), paste0("met_PLS", seq_len(mp)))
-  fit <- fit_en_leakage_safe(x_latent, y, split$train, split$validation, model_name = "Block PLS + Elastic Net")
-  p_val <- predict_en(fit$best, x_latent[split$validation, , drop = FALSE])
-  p_test <- predict_en(fit$best, x_latent[split$test, , drop = FALSE])
+  fit <- fit_block_pls_en_leakage_safe(x_diet, x_met, y, split$train, split$validation, dp, mp)
+  p_val <- predict_block_pls_en(fit$best, x_diet[split$validation, , drop = FALSE], x_met[split$validation, , drop = FALSE])
+  p_test <- predict_block_pls_en(fit$best, x_diet[split$test, , drop = FALSE], x_met[split$test, , drop = FALSE])
   thr <- best_threshold_by_youden(y[split$validation], p_val)
   key <- paste("diet", dp, "met", mp, sep = "_")
   block_results[[key]] <- data.frame(
@@ -213,11 +313,8 @@ for (i in seq_len(nrow(pls_grid))) {
     validation_auc = auc_value(y[split$validation], p_val),
     test_auc = auc_value(y[split$test], p_test)
   )
-  h <- fit$hpo
-  h$diet_components <- dp
-  h$metabolite_components <- mp
-  block_hpo[[key]] <- h
-  block_preds[[key]] <- list(fit = fit, p_val = p_val, p_test = p_test, threshold = thr, x_latent = x_latent, dp = dp, mp = mp)
+  block_hpo[[key]] <- fit$hpo
+  block_preds[[key]] <- list(fit = fit, p_val = p_val, p_test = p_test, threshold = thr, dp = dp, mp = mp)
 }
 block_summary <- do.call(rbind, block_results)
 block_summary <- block_summary[order(-block_summary$validation_auc), ]
@@ -295,15 +392,17 @@ component_coef <- as.numeric(block_coef[-1, , drop = FALSE])
 component_names <- rownames(block_coef)[-1]
 component_df <- data.frame(component = component_names, coefficient = component_coef)
 write.csv(component_df, file.path(table_dir, "block_pls_component_coefficients.csv"), row.names = FALSE)
-dp <- best_block$dp
-mp <- best_block$mp
-diet_component_coef <- component_coef[seq_len(dp)]
-met_component_coef <- component_coef[dp + seq_len(mp)]
-diet_importance <- rowSums(abs(wd[, seq_len(dp), drop = FALSE] %*% diag(diet_component_coef, nrow = dp)))
-met_importance <- rowSums(abs(wm[, seq_len(mp), drop = FALSE] %*% diag(met_component_coef, nrow = mp)))
+dp <- best_block$fit$best$diet_components
+mp <- best_block$fit$best$metabolite_components
+coef_lookup <- setNames(rep(0, dp + mp), c(paste0("diet_PLS", seq_len(dp)), paste0("met_PLS", seq_len(mp))))
+coef_lookup[component_names] <- component_coef
+diet_component_coef <- coef_lookup[paste0("diet_PLS", seq_len(dp))]
+met_component_coef <- coef_lookup[paste0("met_PLS", seq_len(mp))]
+diet_importance <- rowSums(abs(best_block$fit$best$wd[, seq_len(dp), drop = FALSE] %*% diag(diet_component_coef, nrow = dp)))
+met_importance <- rowSums(abs(best_block$fit$best$wm[, seq_len(mp), drop = FALSE] %*% diag(met_component_coef, nrow = mp)))
 block_importance <- rbind(
-  data.frame(feature = colnames(xd_all), block = "diet", importance = diet_importance),
-  data.frame(feature = colnames(xm_all), block = "metabolomics", importance = met_importance)
+  data.frame(feature = best_block$fit$best$prep_diet$features, block = "diet", importance = diet_importance),
+  data.frame(feature = best_block$fit$best$prep_met$features, block = "metabolomics", importance = met_importance)
 )
 block_importance <- block_importance[order(-block_importance$importance), ]
 write.csv(block_importance, file.path(table_dir, "block_pls_backprojected_feature_importance.csv"), row.names = FALSE)
@@ -318,8 +417,8 @@ overlap$category <- ifelse(overlap$late_model & overlap$block_pls_en, "Common",
 write.csv(overlap, file.path(table_dir, "selected_feature_overlap.csv"), row.names = FALSE)
 
 summary <- list(
-  leakage_fix = "Modeling imputation, feature filtering, and scaling are fit on training data only; inner CV folds use fold-specific preprocessing.",
-  selected_block_pls_components = list(diet = best_block$dp, metabolomics = best_block$mp),
+  leakage_fix = "Modeling imputation, feature filtering, scaling, PLS scores, and inner CV preprocessing are fit within the appropriate training split only.",
+  selected_block_pls_components = list(diet = best_block$fit$best$diet_components, metabolomics = best_block$fit$best$metabolite_components),
   test_auc = setNames(perf$auc[perf$split == "test"], perf$model[perf$split == "test"]),
   thresholds = c(diet = thr_diet, metabolomics = thr_met, late_stack = thr_stack, block_pls_en = thr_block)
 )

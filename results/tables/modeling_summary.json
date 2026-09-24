@@ -1,9 +1,9 @@
 {
-  "leakage_fix": "Modeling imputation, feature filtering, and scaling are fit on training data only; inner CV folds use fold-specific preprocessing.",
+  "leakage_fix": "Modeling imputation, feature filtering, scaling, PLS scores, and inner CV preprocessing are fit within the appropriate training split only.",
   "selected_block_pls_components": {
     "diet": 1,
     "metabolomics": 10
   },
-  "test_auc": [0.5509, 0.6128, 0.6175, 0.6122],
-  "thresholds": [0.5057, 0.5022, 0.4957, 0.5114]
+  "test_auc": [0.5509, 0.6128, 0.6175, 0.6117],
+  "thresholds": [0.5057, 0.5022, 0.4957, 0.5041]
 }

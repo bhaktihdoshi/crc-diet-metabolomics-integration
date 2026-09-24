@@ -1,4 +1,4 @@
 "reference_model","comparator_model","reference_auc","comparator_auc","auc_difference","p_value"
 "Late stacked Elastic Net","Diet-only Elastic Net",0.61745507711173,0.550874876196764,0.0665802009149662,0.0047309558192661
 "Late stacked Elastic Net","Metabolomics-only Elastic Net",0.61745507711173,0.612809508088479,0.0046455690232512,0.0628530885791417
-"Late stacked Elastic Net","Block PLS + Elastic Net",0.61745507711173,0.612210536244871,0.0052445408668591,0.300306902506268
+"Late stacked Elastic Net","Block PLS + Elastic Net",0.61745507711173,0.61169174173466,0.00576333537706974,0.257240849408483

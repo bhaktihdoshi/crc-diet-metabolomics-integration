@@ -148,11 +148,13 @@ save_plot("cross_model_feature_agreement.png", p, 8.8, 5.4)
 # XAI bars.
 late_coef <- read.csv(file.path(table_dir, "late_model_coefficients.csv"), check.names = FALSE)
 block_imp <- read.csv(file.path(table_dir, "block_pls_backprojected_feature_importance.csv"), check.names = FALSE)
-top_features <- unique(c(head(late_coef$feature, 12), head(block_imp$feature, 12)))
 xai <- rbind(
   data.frame(feature = late_coef$feature, model = "Late stacked EN", importance = late_coef$abs_coefficient),
   data.frame(feature = block_imp$feature, model = "Block PLS + EN", importance = block_imp$importance)
 )
+feature_rank <- aggregate(importance ~ feature, xai, max)
+feature_rank <- feature_rank[order(-feature_rank$importance), ]
+top_features <- head(feature_rank$feature, 12)
 xai <- xai[xai$feature %in% top_features, ]
 ord <- aggregate(importance ~ feature, xai, max)
 ord <- ord[order(ord$importance), ]
@@ -160,10 +162,10 @@ xai$feature_label <- factor(wrap_label(clean_label(xai$feature), 30), levels = w
 p <- ggplot(xai, aes(importance, feature_label, fill = model)) +
   geom_col(position = position_dodge(width = 0.75), width = 0.62) +
   scale_fill_manual(values = c("Late stacked EN" = C("navy"), "Block PLS + EN" = C("teal"))) +
-  labs(title = "XAI Importance: Top Lipid-Core Variables", x = "Relative absolute importance", y = "Variable", fill = "Model") +
+  labs(title = "XAI Importance: Top 12 Lipid-Core Variables", x = "Relative absolute importance", y = "Variable", fill = "Model") +
   theme_portfolio(12) +
-  theme(axis.text.y = element_text(size = 10.5))
-save_plot("xai_top_feature_importance.png", p, 10.4, 6.3)
+  theme(axis.text.y = element_text(size = 11.2, lineheight = 0.92))
+save_plot("xai_top_feature_importance.png", p, 10.4, 5.9)
 
 # Partial Spearman network and heatmap after adjusting for CRC.
 raw <- read.csv(file.path(processed_dir, "model_matrix_raw_missing.csv"), check.names = FALSE)

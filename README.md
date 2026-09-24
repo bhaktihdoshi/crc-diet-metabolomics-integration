@@ -2,6 +2,8 @@
 
 Portfolio-ready, reproducible analysis comparing late and intermediate integration strategies for colorectal cancer (CRC) classification using diet questionnaire data and NMR metabolomics.
 
+This repository was prepared as a job-application portfolio project: the code emphasizes leakage-safe preprocessing, transparent model selection, interpretable outputs, and clinically cautious reporting.
+
 ## Project Question
 
 Can diet features add complementary predictive and interpretive value to metabolomics for CRC case-control classification?
@@ -42,6 +44,7 @@ The current pipeline uses a leakage-safe train/validation/test design:
 - Fits PLS separately inside diet and metabolomics blocks.
 - Combines block-level PLS scores.
 - Uses Elastic Net as the final classifier on the combined scores.
+- During inner CV, preprocessing and PLS fitting are refit inside each fold.
 
 ## Reproducibility
 
@@ -59,6 +62,7 @@ Install the R packages listed in `R_PACKAGES.md`, then run the full pipeline fro
 python3 scripts/01_prepare_data.py
 Rscript scripts/02_run_models_leakage_safe.R
 Rscript scripts/03_make_figures.R
+python3 scripts/04_audit_project.py
 ```
 
 Outputs are written to:
@@ -77,7 +81,7 @@ After correcting the earlier imputation-before-splitting issue, the held-out tes
 |---|---:|---:|---:|---:|---:|
 | Diet-only Elastic Net | 0.551 | 0.559 | 0.400 | 0.715 | 0.473 |
 | Metabolomics-only Elastic Net | 0.613 | 0.590 | 0.534 | 0.644 | 0.563 |
-| Block PLS + Elastic Net | 0.612 | 0.578 | 0.495 | 0.659 | 0.536 |
+| Block PLS + Elastic Net | 0.612 | 0.584 | 0.525 | 0.642 | 0.555 |
 | Late stacked Elastic Net | 0.617 | 0.594 | 0.571 | 0.616 | 0.582 |
 
 Interpretation: the corrected pipeline still supports the same qualitative conclusion: metabolomics carries most of the signal, diet alone is weak, and late stacking gives a small complementary improvement. The corrected AUC values are lower than the earlier assignment draft because imputation/scaling are no longer performed before the split.
@@ -93,11 +97,13 @@ Interpretation: the corrected pipeline still supports the same qualitative concl
 - `results/figures/cross_model_feature_agreement.png`
 - `results/figures/partial_spearman_correlation_network.png`
 - `results/figures/exploratory_metabolite_theme_summary.png`
+- `docs/PORTFOLIO_BRIEF.md`
 
 ## Methodological Notes
 
 - Median imputation is now fit on training data only, avoiding the earlier leakage risk from imputation before splitting.
 - Elastic Net lambda tuning uses manual 5-fold CV inside the training set with fold-specific preprocessing.
+- Block PLS + EN refits preprocessing and PLS inside inner folds during tuning, then selects the final configuration by validation AUC.
 - Validation data are used for model-selection choices and classification thresholds.
 - Final AUCs are single held-out test estimates, not repeated-CV averages.
 - No external validation or clinical covariate adjustment was available; this remains a limitation.
@@ -112,3 +118,5 @@ This project demonstrates:
 - intermediate vs late integration comparison,
 - interpretable model reporting,
 - clinically cautious biomarker interpretation.
+
+See `docs/PORTFOLIO_BRIEF.md` for a concise project story suitable for interviews, applications, and GitHub profile linking.

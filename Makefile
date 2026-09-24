@@ -1,9 +1,9 @@
 PYTHON ?= python3
 RSCRIPT ?= Rscript
 
-.PHONY: all data models figures clean
+.PHONY: all data models figures audit clean
 
-all: data models figures
+all: data models figures audit
 
 data:
 	$(PYTHON) scripts/01_prepare_data.py
@@ -13,6 +13,9 @@ models:
 
 figures:
 	$(RSCRIPT) scripts/03_make_figures.R
+
+audit:
+	$(PYTHON) scripts/04_audit_project.py
 
 clean:
 	rm -f data/processed/*.csv
